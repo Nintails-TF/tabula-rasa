@@ -1,6 +1,6 @@
 ---
 date created: Monday, July 21st 2025, 2:40:06 pm
-date modified: Monday, July 21st 2025, 3:21:23 pm
+date modified: Monday, July 21st 2025, 3:26:35 pm
 ---
 
 # Dashboard:
@@ -15,6 +15,6 @@ date modified: Monday, July 21st 2025, 3:21:23 pm
 - [[Chess/Chess Journal|Chess Progress]]
 ## 📊 Status Overview
 - [ ] Chess: Complete Month 1 Endgame Training
-- [ ] Fitness: 
-- [ ] Security Research: Finish Bandit Wargame
+- [ ] Fitness: Develop my fitness and diet plan and follow it for 2 weeks.
+- [ ] Security Research: Finish Bandit Wargame, then move onto Linux Luminarium or more Wargames.
 - [ ] Audiovisual Technician: Keep daily notes, work way through playlist and stay connected with Steve and Abby.
