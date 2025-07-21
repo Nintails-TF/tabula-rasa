@@ -1,3 +1,0 @@
-- Her range on her gun and pull are the same. about 30 meters.
-- If you want to kill something, pull them about half HP if they are a squishy. Keep spamming your gun.
-- Save your pull/push to combo it with somebody else, if they have CC or a stun.
