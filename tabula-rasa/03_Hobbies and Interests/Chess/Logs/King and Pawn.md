@@ -151,14 +151,14 @@ Overall: /50 (%)
 ## Date 21/07/25:
 
 Winning Positions:
-- Attempted: /25
-- Correct: /25
-- Success Rate: %
-- Common errors:
+- Attempted: 25/25
+- Correct: 23/25
+- Success Rate: 92%
+- Common errors: Kings in corners, rushing
 
 Drawing Positions:
-- Attempted: /25
-- Correct: /25
-- Success Rate: %
+- Attempted: 25/25
+- Correct: 25/25
+- Success Rate: 100%
 - Common errors: 
-Overall: /50 (94%)
+Overall: 48/50 (96%)

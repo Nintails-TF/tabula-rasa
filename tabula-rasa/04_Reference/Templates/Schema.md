@@ -18,7 +18,6 @@ Examples:
 
 📁 Knowledge Base/
 ├── 📁 01_Active_Projects/
-│   ├── Marvel_Rivals/
 │   ├── Chess_Development/
 │   └── Fitness_Training/
 ├── 📁 02_Professional/
