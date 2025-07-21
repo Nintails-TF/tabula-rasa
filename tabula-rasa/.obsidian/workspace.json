@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:un",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,11 +178,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd237eb9c2dfd6d6",
+  "active": "26936cbcf309679f",
   "lastOpenFiles": [
+    "Foundations/Lifestyle/Depression/Anhedonia.md",
+    "Hobbies/Chess/Openings/Principles/Untitled.md",
+    "Archive/Marvel Rivals/Notes/Untitled.md",
     "Foundations/Lifestyle/Depression/Depression.md",
     "Foundations/Lifestyle/Depression/Fighting Inflammation.md",
-    "Foundations/Lifestyle/Depression/Anhedonia.md",
     "Foundations/Lifestyle/Depression/Addiction/Intro to Addiction.md",
     "Foundations/Lifestyle/Depression/Addiction/Hierarchy of Addictions.md",
     "Learning/The Bedrock of learning.md",
@@ -204,8 +206,6 @@
     "Hobbies/Strength/Fitness/Running/Records.md",
     "Hobbies/Strength/Fitness/Running/Park-run.md",
     "Hobbies/Strength/Fitness/Running/Training Theory - Cardio.md",
-    "Hobbies/Strength/Fitness/Running/Stretches.md",
-    "Hobbies/Strength/Fitness/Running/Tracking.md",
     "Hobbies/Chess/Lectures",
     "Hobbies/Chess/Training Methodology",
     "Hobbies/Chess/Openings/White",
