@@ -1,6 +1,6 @@
 ---
 date created: Friday, July 11th 2025, 8:56:08 pm
-date modified: Monday, July 21st 2025, 7:01:42 am
+date modified: Tuesday, July 22nd 2025, 12:24:41 pm
 ---
 
 # Log of Endgame Training
@@ -16,7 +16,7 @@ Winning Positions:
 Practice the **shouldering** technique
 
 Drawing Positions:
-- Attempted:  3/20
+- Attempted: 3/20
 - Correct: 1/20
 - Success Rate: 33%
 - Common errors: I don't know what I'm doing here.
@@ -35,7 +35,7 @@ Winning Positions:
 - Common errors: Stalemating a king in the corner
 
 Drawing Positions:
-- Attempted:  20/20
+- Attempted: 20/20
 - Correct: 13/20
 - Success Rate: 65%
 - Common errors: Making sure to count key squares and to react accordingly. Kf1 white, kg4, pawn g3 black.
@@ -53,7 +53,7 @@ Winning Positions:
 - Common errors: Kings in corners, difficulty 5 positions, white: ke6, g3 black: g7, white to move and win.
 
 Drawing Positions (I'm playing all difficulties not just difficulty 1):
-- Attempted:  25/25
+- Attempted: 25/25
 - Correct: 15/25
 - Success Rate: 60%
 - Common errors: Not protecting key squares and going for opposition instead.
@@ -71,7 +71,7 @@ Winning Positions:
 - Common errors: White: kd3, b3 Black: a7
 
 Drawing Positions:
-- Attempted:  25/25
+- Attempted: 25/25
 - Correct: 23/25
 - Success Rate: 92%
 - Common errors: White: Kd2, Black: King Kd4, d5. White: ke1, Black: ke4, e5
@@ -162,3 +162,23 @@ Drawing Positions:
 - Success Rate: 100%
 - Common errors: 
 Overall: 48/50 (96%)
+
+***
+
+## Date 22/07/25:
+
+**Moving to more challenging k+p positions, Intermediate wins and draws.**
+
+Winning Positions:
+- Attempted: 25/25
+- Correct: 18/25
+- Success Rate: %
+- Common errors: Kg4, d6 vs kf8 | kc1, b3 vs ke8 (You need to go down the a-file, but I don't know why. Follow the Dark squared diagonal.) | kd4, g6 vs ke8
+
+Drawing Positions:
+- Attempted: 25/25
+- Correct: 16/25
+- Success Rate: %
+- Common errors: White: Kb1, e4 vs Black kc5, d6 | White: b4, e5, kd3 vs Black: b5, e6, kg6 (Take his pawn, then push your own to deflect his king.) | White a4, h4, kd2 vs Black: a5, h5, kf4  (You match black and let him take your pawn, then you can block him in) | 
+
+Overall: /50 (96%)

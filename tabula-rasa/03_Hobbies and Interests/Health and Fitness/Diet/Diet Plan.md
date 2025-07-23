@@ -1,6 +1,6 @@
 ---
 date created: Monday, July 21st 2025, 6:23:37 pm
-date modified: Monday, July 21st 2025, 6:25:10 pm
+date modified: Tuesday, July 22nd 2025, 12:06:44 pm
 ---
 
 # Diet Plan
@@ -9,10 +9,12 @@ date modified: Monday, July 21st 2025, 6:25:10 pm
 
 ## Current Status
 
-- **Calories**: 2300/day (cutting phase)
-- **Protein**: 140g/day
-- **Goal**: Maintain muscle while cutting.
-- **Strategy**: Increase calories gradually if strength plateaus
+- **Calories**: 2800-3000/day
+- **Protein**: 160-170g/day
+- **Carbohydrates:** 350-400g/day.
+- **Fats:** 85-100g/day
+- **Goal**: Fuel for performance
+- **Strategy**: Increase calories if weak.
 
 ## Core Nutritional Principles
 

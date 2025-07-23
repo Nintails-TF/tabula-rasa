@@ -1,6 +1,6 @@
 ---
 date created: Saturday, March 15th 2025, 2:18:28 am
-date modified: Monday, July 21st 2025, 8:24:24 am
+date modified: Tuesday, July 22nd 2025, 12:09:11 pm
 ---
 
 # Goals:
@@ -41,3 +41,10 @@ Heavy (190-200lbs @ 10-15% BF):
 	- Reduced agility and endurance.
 	- More demanding caloric intake.
 	- Hard to maintain.
+
+## **Body Weight Expectations**
+
+With this approach, expect:
+- **Weeks 1-4:** Possible 1-2kg gain (glycogen + muscle)
+- **Months 2-4:** Stabilize around 72-75kg
+- **Body composition:** Maintain/improve muscle while building endurance
