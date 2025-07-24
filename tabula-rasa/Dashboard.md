@@ -6,7 +6,7 @@ date modified: Monday, July 21st 2025, 3:45:55 pm
 # Dashboard:
 
 ## 🎯 Today's Tasks
-- [[King and Pawn | Chess Endgame Training]] - Daily practice
+- [[Endgame Logs| Chess Endgame Training]] - Daily practice
 - []
 ## 📚 Learning Resources
 - [[Hacking/Linux Basics For Hackers|Linux/Hacking]] - Current: Chapter 3

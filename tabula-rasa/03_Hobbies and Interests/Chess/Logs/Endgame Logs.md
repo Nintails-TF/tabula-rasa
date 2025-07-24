@@ -1,6 +1,6 @@
 ---
 date created: Friday, July 11th 2025, 8:56:08 pm
-date modified: Tuesday, July 22nd 2025, 12:24:41 pm
+date modified: Thursday, July 24th 2025, 3:01:01 pm
 ---
 
 # Log of Endgame Training
@@ -172,13 +172,56 @@ Overall: 48/50 (96%)
 Winning Positions:
 - Attempted: 25/25
 - Correct: 18/25
-- Success Rate: %
+- Success Rate: 72%
 - Common errors: Kg4, d6 vs kf8 | kc1, b3 vs ke8 (You need to go down the a-file, but I don't know why. Follow the Dark squared diagonal.) | kd4, g6 vs ke8
 
 Drawing Positions:
 - Attempted: 25/25
 - Correct: 16/25
-- Success Rate: %
-- Common errors: White: Kb1, e4 vs Black kc5, d6 | White: b4, e5, kd3 vs Black: b5, e6, kg6 (Take his pawn, then push your own to deflect his king.) | White a4, h4, kd2 vs Black: a5, h5, kf4  (You match black and let him take your pawn, then you can block him in) | 
+- Success Rate: 64%
+- Common errors: White: Kb1, e4 vs Black kc5, d6 | White: b4, e5, kd3 vs Black: b5, e6, kg6 (Take his pawn, then push your own to deflect his king.) | White a4, h4, kd2 vs Black: a5, h5, kf4 (You match black and let him take your pawn, then you can block him in) | 
 
-Overall: /50 (96%)
+Overall: 34/50 (68%)
+
+***
+
+
+## Date 22/07/25:
+
+**Moving to more challenging k+p positions, Intermediate wins and draws.**
+
+Winning Positions:
+- Attempted: 25/25
+- Correct: 20/25
+- Success Rate: %
+
+Common Errors: <https://www.chess.com/analysis/library/2HuucFpR3c/analysis,> <https://www.chess.com/analysis/library/2prWBsfdNn/analysis,> 
+
+Drawing Positions:
+- Attempted: /25
+- Correct: /25
+- Success Rate: %
+- Common errors: 
+
+Overall: /50 (%)
+
+***
+
+## Date 22/07/25:
+
+**Moving to more challenging k+p positions, Intermediate wins and draws.** As requested, going to do less positions, but think more on them and not rush, 3 seconds between every single move minimum.
+
+Winning Positions:
+- Attempted: 15/15
+- Correct: 10/15
+- Success Rate: %
+
+Common Errors: Keep opposition, rather than rushing to control squares if the opponent's king can gain opposition on you and draw.
+
+Drawing Positions:
+- Attempted: 14/15
+- Correct: 11/15
+- Success Rate: %
+- Common errors: 
+
+Overall: /50 (%)
