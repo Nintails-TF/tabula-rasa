@@ -1,6 +1,6 @@
 ---
 date created: Wednesday, July 23rd 2025, 6:08:05 pm
-date modified: Thursday, July 24th 2025, 7:25:08 pm
+date modified: Thursday, July 24th 2025, 9:07:15 pm
 ---
 
 # Week 4 Games - 21st-27th of July
@@ -130,17 +130,13 @@ Pieces: Black
 Opening: Caro-Kann
 
 Critical Positions: 
-- 8. b5!? - The problem with this move, is that white has the reply of a5 and it hurts my position. It doesn't develop a piece or directly fight for centre which is more key in this opening position. Routing my static knight to c6. Rc8 is also good,
+- 8. b5!? - The problem with this move, is that white has the reply of a5 and it hurts my position. It doesn't develop a piece or directly fight for centre which is more key in this opening position. Routing my static knight to c6. Rc8 is also good. I didn't see that reply to my move. I always seem to underestimate pawns.
 - 9. Qb6? - The issue with this queen move though it seems natural, is the fact that the combination of dxc5, bxc5, then b4. Makes the queen a target and gives white lots of tempo and space to play with. Putting me on the back foot if he sees this pawn break idea.
-- 12. Qxc5? - Why am I not taking with the bishop, it is free development??? White can then attack my queen and win tempo.
-
-Blunders/Mistakes:
-- Move X: [what happened]
-- Why: [rushed/didn't check threats/pattern blindness]
+- 12. Qxc5? - Why am I not taking with the bishop, it is free development??? White can then attack my queen and win tempo. Just a very bad move, and after I said not to do so.
 
 Key Learning:
-- Opening: 
-- Middlegame:
-- Endgame:
+- Opening: Focus on piece development if you have time and no obvious tactic.
+- Middlegame: Look at threats your opponent can potentially make.
+- Endgame: Offering a queen trade is good, but don't let him make developing moves whilst blocking your queen. Focus on any actual threats you can make.
 
-One thing to remember: [Your main takeaway]
+One thing to remember: Focus on development of the pieces in the opening.
