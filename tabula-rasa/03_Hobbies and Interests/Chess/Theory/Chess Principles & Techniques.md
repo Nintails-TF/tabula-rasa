@@ -1,6 +1,6 @@
 ---
 date created: Friday, July 11th 2025, 9:40:23 pm
-date modified: Friday, July 11th 2025, 9:41:56 pm
+date modified: Thursday, July 24th 2025, 9:20:17 pm
 ---
 
 # Chess Principles & Techniques:
@@ -13,6 +13,7 @@ date modified: Friday, July 11th 2025, 9:41:56 pm
 - "When you see a good move, look for a better one" - Always seek improvement
 - "The only way to win is to use sound strategy" - Either gradual advantage or pressure until they crack
 - "If your opponent had another move, what would they do?" - Figure out the idea behind your opponents move.
+- "Tactics flow from a superior position." - Strong piece development often leads to crushing ideas.
 
 ### Mental Approach
 

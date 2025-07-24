@@ -1,15 +1,21 @@
 ---
 date created: Wednesday, July 23rd 2025, 6:08:05 pm
-date modified: Thursday, July 24th 2025, 9:07:15 pm
+date modified: Thursday, July 24th 2025, 9:16:31 pm
 ---
 
 # Week 4 Games - 21st-27th of July
 
 ## Summary Stats
 - Games played: 1
-- Win/Loss/Draw: 1/0/0
-- Most common mistake: 
-- Time controls: 15+10 (1), 30+0 (0 games)
+- Win/Loss/Draw: 12/2/8
+- Most common mistake: Taking with the wrong piece.
+- Time controls: 15+10 (22)
+
+**Mistakes:**
+- Wrong capture piece: 3 times
+- Tactical blindness: 2 times  
+- Pawn structure: 2 times
+- Rushing: 2 times
 
 # [NintailsChess (778) VS supersexman (787)](https://www.chess.com/analysis/game/live/141023276760/analysis)
 
@@ -92,7 +98,7 @@ Key Learning:
 - Middlegame: Think about pawn structure, and keeping your centre pawns strong, even if you take less space.
 - Endgame: Be solid with technique, think deeply about mating or shutting down all counterplay.
 
-One thing to remember: Keep an eye out for tactical opportunities. Perhaps develop techniques to look for them and spot them.
+One thing to remember: *Keep an eye out for tactical opportunities. Perhaps develop techniques to look for them and spot them.*
 
 ***
 
@@ -117,7 +123,7 @@ Key Learning:
 - Middlegame: Think of what the best pieces to capture with are.
 - Endgame: Keep past pawns connected and don't rush the endgame.
 
-One thing to remember: When you have multiple captures on a piece, think of which the best options are!
+One thing to remember: *When you have multiple captures on a piece, think of which the best options are!*
 
 ***
 
@@ -139,4 +145,6 @@ Key Learning:
 - Middlegame: Look at threats your opponent can potentially make.
 - Endgame: Offering a queen trade is good, but don't let him make developing moves whilst blocking your queen. Focus on any actual threats you can make.
 
-One thing to remember: Focus on development of the pieces in the opening.
+One thing to remember: *Focus on development of the pieces in the opening.*
+
+***
