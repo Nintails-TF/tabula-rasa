@@ -1,6 +1,6 @@
 ---
 date created: Friday, July 11th 2025, 8:56:08 pm
-date modified: Thursday, July 24th 2025, 3:01:01 pm
+date modified: Friday, July 25th 2025, 4:16:31 pm
 ---
 
 # Log of Endgame Training
@@ -186,7 +186,7 @@ Overall: 34/50 (68%)
 ***
 
 
-## Date 22/07/25:
+## Date 23/07/25:
 
 **Moving to more challenging k+p positions, Intermediate wins and draws.**
 
@@ -207,21 +207,41 @@ Overall: /50 (%)
 
 ***
 
-## Date 22/07/25:
+## Date 24/07/25:
 
 **Moving to more challenging k+p positions, Intermediate wins and draws.** As requested, going to do less positions, but think more on them and not rush, 3 seconds between every single move minimum.
 
 Winning Positions:
 - Attempted: 15/15
 - Correct: 10/15
-- Success Rate: %
+- Success Rate: 67%
 
 Common Errors: Keep opposition, rather than rushing to control squares if the opponent's king can gain opposition on you and draw.
 
 Drawing Positions:
-- Attempted: 14/15
+- Attempted: 15/15
 - Correct: 11/15
-- Success Rate: %
-- Common errors: 
+- Success Rate: 73%
+- Common errors: Rushing and moving without thinking.
 
-Overall: /50 (%)
+Overall: 21/30 (70%)
+
+***
+
+## Date 25/07/25:
+
+Winning Positions:
+- Attempted: 15/15
+- Correct: 13/15
+- Success Rate: 87%
+- Common errors: 
+	- King's in corners, you want to oppose them with your king on the rim, so that they can step out the other side. [Example](https://www.chess.com/analysis/library/2LXkcQJRcA)
+
+Drawing Positions:
+- Attempted: 15/15
+- Correct: 10/15
+- Success Rate: 67%
+- Common errors: 
+	- Enabling the opponent to promote in time and not calculating through if he is able to or not. [Example](https://www.chess.com/analysis/library/5dS2U3zKQ/analysis) 
+	- Not removing my own pawns to remain in distant opposition so that I can mirror blacks king and bloc his pawn. [Example](https://www.chess.com/analysis/library/eYcdBPYyt/analysis)
+Overall: 23/30 (77%)

@@ -1,6 +1,6 @@
 ---
 date created: Wednesday, July 23rd 2025, 6:08:05 pm
-date modified: Thursday, July 24th 2025, 9:16:31 pm
+date modified: Friday, July 25th 2025, 6:51:00 pm
 ---
 
 # Week 4 Games - 21st-27th of July
@@ -148,3 +148,25 @@ Key Learning:
 One thing to remember: *Focus on development of the pieces in the opening.*
 
 ***
+
+# [NintailsChess (815) VS ghostofmichaelmyres (810)](https://www.chess.com/analysis/library/28z4Gyc2rz/analysis)
+
+
+Date: 27/05/25
+Time Control: 15+10
+Pieces: Black
+Opening: Caro-Kann Defence
+
+Critical Positions: 
+
+
+Blunders/Mistakes:
+- Move X: [what happened]
+- Why: [rushed/didn't check threats/pattern blindness]
+
+Key Learning:
+- Opening: 
+- Middlegame:
+- Endgame:
+
+One thing to remember: [Your main takeaway]
