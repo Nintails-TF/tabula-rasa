@@ -19,8 +19,8 @@ date modified: Friday, July 25th 2025, 2:10:21 pm
 - [[Training Plan |Fitness Training Plan]]
 - [[Diet Plan]]
 	- [[Fuelling for Exercise]]
-- Security Research Roadmap
-- AV Tech Development Plan
+- [[Roadmap|Security Research Roadmap]]
+- [[02_Professional/Audiovisual technician/Development Plan|AV Technician Development Plan]]
 ## 📊 Status Overview
 - [ ] Chess: Complete Month 1 Endgame Training
 - [ ] Fitness: Develop my fitness and diet plan and follow it for 2 weeks.
