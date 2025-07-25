@@ -102,7 +102,7 @@ One thing to remember: *Keep an eye out for tactical opportunities. Perhaps deve
 
 ***
 
-# Chess Game Review Template
+# [NintailsChess (799) VS Virtualjavi (697)](https://www.chess.com/analysis/library/4YkWwyMAHC/analysis)
 
 
 Date: 24/07/25
