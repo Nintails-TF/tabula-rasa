@@ -43,3 +43,4 @@ Link: https://www.youtube.com/watch?v=PDa3Z09Nmzg
 - Don't make moves that stop you from making other moves.
 - When it happens once, stop it so it doesn't happen again.
 - Imagine you have a coach, if you can't explain the move to a coach or GM, then it's no use.
+- **Everything is difficult when you don't know it.**

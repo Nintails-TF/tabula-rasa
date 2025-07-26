@@ -1,6 +1,6 @@
 ---
 date created: Friday, July 11th 2025, 8:56:08 pm
-date modified: Friday, July 25th 2025, 4:16:31 pm
+date modified: Saturday, July 26th 2025, 9:02:14 am
 ---
 
 # Log of Endgame Training
@@ -227,7 +227,6 @@ Drawing Positions:
 Overall: 21/30 (70%)
 
 ***
-
 ## Date 25/07/25:
 
 Winning Positions:
@@ -245,3 +244,21 @@ Drawing Positions:
 	- Enabling the opponent to promote in time and not calculating through if he is able to or not. [Example](https://www.chess.com/analysis/library/5dS2U3zKQ/analysis) 
 	- Not removing my own pawns to remain in distant opposition so that I can mirror blacks king and bloc his pawn. [Example](https://www.chess.com/analysis/library/eYcdBPYyt/analysis)
 Overall: 23/30 (77%)
+
+***
+
+## Date 26/07/25:
+
+Winning Positions:
+- Attempted: 15/15
+- Correct: 12/15
+- Success Rate: %
+- Common errors:  Forgetting that the pawn would block the king from opposing on the 8th rank, enabling me to promote. [Example](https://www.chess.com/analysis/library/455ZNzLpfp/analysis)
+
+Drawing Positions:
+- Attempted: 15/15
+- Correct: 10/15
+- Success Rate: %
+- Common errors: Forgetting that if black pawn defends, my king can no longer recapture the pawn and I lose a drawn position. [Example](https://www.chess.com/analysis/library/4ML5KkGXmQ/analysis) Tough positions where I need to be precise in blocking king movement.
+
+Overall: /30 (%)

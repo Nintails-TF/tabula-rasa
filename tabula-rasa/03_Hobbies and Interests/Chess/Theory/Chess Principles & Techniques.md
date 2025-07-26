@@ -1,6 +1,6 @@
 ---
 date created: Friday, July 11th 2025, 9:40:23 pm
-date modified: Thursday, July 24th 2025, 9:20:17 pm
+date modified: Saturday, July 26th 2025, 12:04:55 pm
 ---
 
 # Chess Principles & Techniques:
@@ -124,6 +124,9 @@ date modified: Thursday, July 24th 2025, 9:20:17 pm
 - **Primary goal**: Promote a pawn into a queen
 - **Technique**: Activate your king, convert advantages
 - **Key skill**: Technical precision in basic endgames
+
+### Chess Vision
+- Identifying key squares that must be controlled.
 
 ---
 

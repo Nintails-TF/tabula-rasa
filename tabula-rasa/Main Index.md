@@ -19,7 +19,7 @@ date modified: Friday, July 25th 2025, 2:10:21 pm
 - [[Training Plan |Fitness Training Plan]]
 - [[Diet Plan]]
 	- [[Fuelling for Exercise]]
-- [[Roadmap|Security Research Roadmap]]
+- [[02_Professional/Security Training/Review/Roadmap|Security Research Roadmap]]
 - [[02_Professional/Audiovisual technician/Development Plan|AV Technician Development Plan]]
 ## 📊 Status Overview
 - [ ] Chess: Complete Month 1 Endgame Training
