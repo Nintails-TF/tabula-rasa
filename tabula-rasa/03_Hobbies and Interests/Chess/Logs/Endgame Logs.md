@@ -1,6 +1,6 @@
 ---
 date created: Friday, July 11th 2025, 8:56:08 pm
-date modified: Saturday, July 26th 2025, 9:02:14 am
+date modified: Sunday, July 27th 2025, 1:36:37 pm
 ---
 
 # Log of Endgame Training
@@ -252,13 +252,33 @@ Overall: 23/30 (77%)
 Winning Positions:
 - Attempted: 15/15
 - Correct: 12/15
-- Success Rate: %
-- Common errors:  Forgetting that the pawn would block the king from opposing on the 8th rank, enabling me to promote. [Example](https://www.chess.com/analysis/library/455ZNzLpfp/analysis)
+- Success Rate: 80%
+- Common errors: Forgetting that the pawn would block the king from opposing on the 8th rank, enabling me to promote. [Example](https://www.chess.com/analysis/library/455ZNzLpfp/analysis)
 
 Drawing Positions:
 - Attempted: 15/15
 - Correct: 10/15
-- Success Rate: %
+- Success Rate: 67%
 - Common errors: Forgetting that if black pawn defends, my king can no longer recapture the pawn and I lose a drawn position. [Example](https://www.chess.com/analysis/library/4ML5KkGXmQ/analysis) Tough positions where I need to be precise in blocking king movement.
 
-Overall: /30 (%)
+Overall: 22/30 (73%)
+
+***
+
+## Date 26/07/25:
+
+Winning Positions:
+- Attempted: 15/15
+- Correct: 14/15
+- Success Rate: 93%
+- Common errors: Rushing a bit too much at times, trying to be fancy with mating technique.
+
+Drawing Positions:
+- Attempted: 15/15
+- Correct: 10/15
+- Success Rate: 67%
+- Common errors: 
+	- Not focusing on the distant opposition rules, need to keep odd squares away from king to force opposition. [Example](https://www.chess.com/analysis/library/3eNM5WyKzE/analysis)
+	- More complex multi-pawn setups. Not understanding that my king must be in position to block a passed pawn and that I can't move forward, but with my barrier, neither can he. [Example](https://www.chess.com/analysis/library/2DNMExrXEn/analysis)
+
+Overall: 24/30 (80%)

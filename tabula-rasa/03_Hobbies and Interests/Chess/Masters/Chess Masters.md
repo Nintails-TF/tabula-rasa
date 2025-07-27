@@ -31,3 +31,14 @@ date modified: Tuesday, July 15th 2025, 2:10:44 am
 - **Key Learning**: How to make chess look easy through perfect piece placement
 - **Famous Quote**: "I see only one move ahead, but it is always the correct one"
 
+## **Tigran Petrosian (1929-1984)**
+
+**The Iron Tiger**
+
+- **Style**: Prophylactic thinking, prevention over reaction, masterful defence
+- **Strengths**: Stopping opponent's plans before they start, positional restriction, endgame technique
+- **Study Focus**: His games from 1963-1969 (World Champion period)
+- **Key Learning**: How to neutralize threats and gradually squeeze opponents through superior piece placement
+- **Capablanca's View**: Would have admired Petrosian's ability to "see the move that is not there" - preventing rather than reacting
+
+**Defensive Philosophy**: "It is better to restrict your opponent's possibilities than to allow him to have two plans while you are looking for the best way to meet one of them"
