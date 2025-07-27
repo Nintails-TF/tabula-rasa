@@ -1,6 +1,7 @@
 ---
 date created: Wednesday, July 23rd 2025, 6:08:05 pm
 date modified: Friday, July 25th 2025, 6:51:00 pm
+Parent Link: "[[Chess Index|Chess Index]]"
 ---
 
 # Week 4 Games - 21st-27th of July

@@ -1,6 +1,7 @@
 ---
 date created: Friday, July 11th 2025, 8:56:08 pm
 date modified: Sunday, July 27th 2025, 1:36:37 pm
+Parent Link: "[[03_Knowledge_Domains/Chess/Training Methodology/Training Plan|Training Plan]]"
 ---
 
 # Log of Endgame Training

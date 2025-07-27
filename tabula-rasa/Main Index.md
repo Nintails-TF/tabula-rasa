@@ -1,38 +1,16 @@
 ---
 date created: Monday, July 21st 2025, 2:40:06 pm
-date modified: Friday, July 25th 2025, 2:10:21 pm
+date modified: Monday, July 28th 2025, 12:01:02 am
 ---
 
 # Master Dashboard:
 
 ## 🎯 Active Projects
-- Month 1 - King + Pawn Endgames
-- Half-marathon and strength training
-- Building up Linux and AV knowledge
-- Optimising processes and systems
-## 📚 Learning Resources
-- [[Linux Basics For Hackers]]
-- [[Chess Principles & Techniques]]
-- [[Framework Summary|Learning Methodology]]
-## 🏃 Quick Access
-- [[Today's Training Plan|Chess Daily Practice]]
-- [[Training Plan |Fitness Training Plan]]
-- [[Diet Plan]]
-	- [[Fuelling for Exercise]]
-- [[03_Knowledge_Domains/Security/Review/Roadmap|Security Research Roadmap]]
-- [[02_Professional/Audiovisual technician/Development Plan|AV Technician Development Plan]]
+- [[Chess Index|Chess Development]] - Month 1 - King + Pawn Endgames
+- [[03_Knowledge_Domains/Security/Index|Professional Development]] - Building up Linux, WordPress, and AV knowledge
+- [[01_Personal Development/Physical/Index|Fitness Development]] - Working on running half-marathon and starting-up lifting again.
 ## 📊 Status Overview
 - [ ] Chess: Complete Month 1 Endgame Training
 - [ ] Fitness: Develop my fitness and diet plan and follow it for 2 weeks.
 - [ ] Security Research: Finish Bandit Wargame, then move onto Linux Luminarium or more Wargames.
 - [ ] Audiovisual Technician: Keep notes, work way through playlist and stay connected with Steve and Abby.
-
-## 🔄Regular Reviews:
-- Chess
-	- [[Week_4_Games|After Game Notes]] and [[Monthly Summary]]
-- Fitness
-	- a
-- Security Research
-	- b
-- AV Tech
-	- c

@@ -1,6 +1,6 @@
 ---
 date created: Wednesday, July 9th 2025, 7:24:07 pm
-date modified: Friday, July 11th 2025, 8:39:10 pm
+date modified: Monday, July 28th 2025, 12:11:18 am
 ---
 
 # The Accelerated Classical Method: One Year to Chess Mastery
@@ -15,13 +15,15 @@ _"In chess, as in life, a man must rely on himself"_ - José Raúl Capablanca
 #### Month 1: King and Pawn
 
 **Morning (90 minutes)**
-- Opposition and key squares (30 min)
-- King activity principles (30 min)
-- Practical exercises: 50 positions (60 min)
+- Converting endgames against a CPU (40 mins)
+- Practical exercises: 30 positions (40 mins)
+- Basic Tactics (10 mins)
 
 **Afternoon (90 minutes)**
-- Play endgames from position (45 min)
-- Analyse with engine OFF first (45 min)
+- Play 1 game (30 mins)
+- Game Analysis without engine first, then using engine (25 mins)
+- King + Pawn endgame theory study (25 mins)
+- Endgame Tactics (10 mins)
 
 **Mastery Test**: Correctly evaluate King and Pawn endings within 10 seconds. Converting both wins and draws.
 
