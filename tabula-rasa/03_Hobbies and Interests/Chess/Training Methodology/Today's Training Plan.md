@@ -12,7 +12,7 @@ date modified: Friday, July 25th 2025, 7:49:53 pm
 - [x] **Basic Tactics: 10 minutes** (Mates in 1 or 2, endgame tactics)
 
 **Evening Session (90 minutes):**
-- [ ] **Play 1 game 30 minutes** (15+10 rapid)
-- [ ] **Game analysis: 25 minutes** (analyse WITHOUT engine first)
-- [ ] **Study Capa's Chess Fundamentals:** **25 minutes** (Working through problems on a physical board, slowly focussing on mastery of positions/problems presented.)
-- [ ] **Endgame Tactics: 10 minutes** (Promotion tactics, basic mates)
+- [x] **Play 1 game 30 minutes** (15+10 rapid)
+- [x] **Game analysis: 25 minutes** (analyse WITHOUT engine first)
+- [x] **Study Capa's Chess Fundamentals:** **25 minutes** (Working through problems on a physical board, slowly focussing on mastery of positions/problems presented.)
+- [x] **Endgame Tactics: 10 minutes** (Promotion tactics, basic mates)
