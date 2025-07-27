@@ -13,13 +13,13 @@ date modified: Friday, July 25th 2025, 2:10:21 pm
 ## 📚 Learning Resources
 - [[Linux Basics For Hackers]]
 - [[Chess Principles & Techniques]]
-- [[Learning/Framework Summary|Learning Methodology]]
+- [[Framework Summary|Learning Methodology]]
 ## 🏃 Quick Access
 - [[Today's Training Plan|Chess Daily Practice]]
 - [[Training Plan |Fitness Training Plan]]
 - [[Diet Plan]]
 	- [[Fuelling for Exercise]]
-- [[02_Professional/Security Training/Review/Roadmap|Security Research Roadmap]]
+- [[03_Knowledge_Domains/Security/Review/Roadmap|Security Research Roadmap]]
 - [[02_Professional/Audiovisual technician/Development Plan|AV Technician Development Plan]]
 ## 📊 Status Overview
 - [ ] Chess: Complete Month 1 Endgame Training
