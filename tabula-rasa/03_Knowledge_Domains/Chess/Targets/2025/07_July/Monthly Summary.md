@@ -1,7 +1,7 @@
 ---
 date created: Wednesday, July 23rd 2025, 6:14:33 pm
 date modified: Monday, July 28th 2025, 12:25:52 am
-Parent Link: "[[Chess Index|Chess Index]]"
+Parent Link: "[[Yearly Target]]"
 ---
 
 # July 2025 Chess Progress

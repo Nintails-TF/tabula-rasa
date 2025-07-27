@@ -1,6 +1,6 @@
 ---
 date created: Monday, July 21st 2025, 3:24:23 pm
-date modified: Monday, July 28th 2025, 12:28:07 am
+date modified: Monday, July 28th 2025, 12:43:08 am
 Parent Link: "[[Main Index]]"
 ---
 
@@ -23,11 +23,10 @@ Parent Link: "[[Main Index]]"
 - [ ] Tournament play
 
 ## Quick Links
-- [[Current_Goals]] - This week's objectives
 - [[03_Knowledge_Domains/Chess/Training Methodology/Training Plan|Training Plan]] - Daily practice routine
-- Progress Tracking - This years goals and targets
+- [[Yearly Target]] - This years goals and targets
 	- [[Monthly Summary]] - This month's progress
-	- [[Week_4_Games |Weekly Game Analysis]] - Latest game analysis
+	- [[July Games|Weekly Game Analysis]] - Latest game analysis
 
 ## Recent Activity
 ### This Week
