@@ -1,3 +1,9 @@
+---
+date created: Sunday, July 27th 2025, 11:57:09 pm
+date modified: Monday, July 28th 2025, 1:23:45 am
+Parent Link: "[[Main Index]]"
+---
+
 # Security Skills Development - Master Index
 
 ## Current Status (Updated: 2025-XX-XX)
