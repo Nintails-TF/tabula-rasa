@@ -1,6 +1,6 @@
 ---
 date created: Thursday, July 24th 2025, 9:19:12 pm
-date modified: Thursday, July 24th 2025, 9:21:22 pm
+date modified: Monday, July 28th 2025, 2:49:48 pm
 ---
 
 # Blunder Checklist:
@@ -14,5 +14,5 @@ date modified: Thursday, July 24th 2025, 9:21:22 pm
 
 1. Which pieces can capture? 
 2. How does each capture affect pawn structure? 
-3. Which piece needs development? 
+3. Which piece needs development / Improves activity? 
 4. What's my opponent's best reply to each?

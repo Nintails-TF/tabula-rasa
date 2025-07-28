@@ -1,6 +1,6 @@
 ---
 date created: Friday, July 11th 2025, 8:56:08 pm
-date modified: Sunday, July 27th 2025, 1:36:37 pm
+date modified: Monday, July 28th 2025, 10:26:29 am
 Parent Link: "[[03_Knowledge_Domains/Chess/Training Methodology/Training Plan|Training Plan]]"
 ---
 
@@ -266,20 +266,21 @@ Overall: 22/30 (73%)
 
 ***
 
-## Date 26/07/25:
+## Date 27/07/25:
 
 Winning Positions:
 - Attempted: 15/15
-- Correct: 14/15
-- Success Rate: 93%
-- Common errors: Rushing a bit too much at times, trying to be fancy with mating technique.
+- Correct: 12/15
+- Success Rate: %
+- Common errors: Allowing opponent to make double-connected passed pawns, rushing.
 
 Drawing Positions:
 - Attempted: 15/15
-- Correct: 10/15
-- Success Rate: 67%
+- Correct: 9/15
+- Success Rate: %
 - Common errors: 
-	- Not focusing on the distant opposition rules, need to keep odd squares away from king to force opposition. [Example](https://www.chess.com/analysis/library/3eNM5WyKzE/analysis)
-	- More complex multi-pawn setups. Not understanding that my king must be in position to block a passed pawn and that I can't move forward, but with my barrier, neither can he. [Example](https://www.chess.com/analysis/library/2DNMExrXEn/analysis)
+	- Not thinking clearly about opposition. Odd number of squares is key, and diagonal opposition is also good. [Example](https://www.chess.com/analysis/library/3eNM5WyKzE/analysis)
+	- Complex opposition with rook pawn vs connected pawns on the rim. [Example](https://www.chess.com/analysis/library/MDRrpMNQv/analysis)
+Overall: /30 (%)
 
-Overall: 24/30 (80%)
+***

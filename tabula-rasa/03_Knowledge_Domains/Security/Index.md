@@ -1,12 +1,12 @@
 ---
 date created: Sunday, July 27th 2025, 11:57:09 pm
-date modified: Monday, July 28th 2025, 1:23:45 am
+date modified: Monday, July 28th 2025, 4:57:05 pm
 Parent Link: "[[Main Index]]"
 ---
 
 # Security Skills Development - Master Index
 
-## Current Status (Updated: 2025-XX-XX)
+## Current Status
 - **Learning Phase**: [Linux Basics/Networking/Tools]
 - **Target Role**: SOC Analyst / Security Analyst
 - **Job Application Timeline**: [Target date]
@@ -27,16 +27,8 @@ Parent Link: "[[Main Index]]"
 ## Quick Links
 - [[Current_Goals]] - This month's objectives
 - [[Study_Schedule]] - Daily learning routine
-- [[Progress_Tracking]] - Skills and time tracking
-- [[Bandit_Progress]] - OverTheWire advancement
-
-## Recent Activity
-### This Week
-- Study hours: X
-- Bandit levels completed: X
-- New tools learned: [List]
-- Portfolio additions: [What created]
-
+- [[Linux Basics For Hackers]] - Linux skills and usage
+- [[Bandit Roadmap|Bandit Progress]] - OverTheWire advancement
 ## Job Readiness Checklist
 - [ ] Portfolio website (X% complete)
 - [ ] 10+ writeups published

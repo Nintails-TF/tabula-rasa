@@ -1,6 +1,6 @@
 ---
 date created: Monday, July 21st 2025, 3:24:23 pm
-date modified: Monday, July 28th 2025, 1:19:14 am
+date modified: Monday, July 28th 2025, 2:48:59 pm
 Parent Link: "[[Main Index]]"
 ---
 
@@ -17,6 +17,8 @@ Parent Link: "[[Main Index]]"
 - [ ] Intermediate K+P endgames
 ## Quick Links
 - [[03_Knowledge_Domains/Chess/Training Methodology/Training Plan|Training Plan]] - Daily practice routine
+	- [[To Improve]] - Things to work on and focus on.
+	- [[July Games|Game Analysis]] - This months analysis of games.
 - [[Yearly Target]] - This years goals and targets
 	- [[Monthly Checkpoints]] - This month's progress
 	- [[July Games|Weekly Game Analysis]] - Latest game analysis

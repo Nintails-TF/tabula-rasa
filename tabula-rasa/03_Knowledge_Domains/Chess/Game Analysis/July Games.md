@@ -1,22 +1,10 @@
 ---
 date created: Wednesday, July 23rd 2025, 6:08:05 pm
-date modified: Friday, July 25th 2025, 6:51:00 pm
+date modified: Monday, July 28th 2025, 2:45:22 pm
 Parent Link: "[[Chess Index|Chess Index]]"
 ---
 
-# Week 4 Games - 21st-27th of July
-
-## Summary Stats
-- Games played: 1
-- Win/Loss/Draw: 12/2/8
-- Most common mistake: Taking with the wrong piece.
-- Time controls: 15+10 (22)
-
-**Mistakes:**
-- Wrong capture piece: 3 times
-- Tactical blindness: 2 times  
-- Pawn structure: 2 times
-- Rushing: 2 times
+# July:
 
 # [NintailsChess (778) VS supersexman (787)](https://www.chess.com/analysis/game/live/141023276760/analysis)
 
@@ -159,18 +147,50 @@ Pieces: Black
 Opening: Caro-Kann Defence
 
 Critical Positions: 
+- 10. O-O
+	- I believe that I've played the opening better, I've gotten my pieces out despite white, using his bishops to pin pieces to my queen and king. I'm castled and I've got everything apart from one rook into the game.
+- 12. Nd6?
+	- I'm able to trade down my bishop for a knight + pawn. This gives me the idea of trading down pieces. Since my opponent has no centre pawns anymore.
+- 20. fxe5?
+	- I'm not sure if it was better to take with the pawn or the queen, because if I take with the queen, I offer a queen trade which isn't bad, but he can trade and double my passed pawn. If I take with pawn, I double my pawns, but I can activate my rook on the f file.
+	- Doubling the pawns is worse. Why? Because you create weakness in pawn chain and remove a defender from your passed pawn so it is bad.
 
+The engine showed me that I could of removed the defender of the e5 pawn by attacking the knight and I'm able to win that centre pawn because he can't defend it with any of his other pieces!
 
-Blunders/Mistakes:
-- Move X: [what happened]
-- Why: [rushed/didn't check threats/pattern blindness]
+Move 18. Has a simple tactic that wins me a pawn, It's very important to look out for checks, especially when the kingside pawn structure is disrupted.
 
 Key Learning:
-- Opening: 
-- Middlegame:
-- Endgame:
+- Opening: Pay extra attention to pieces that cannot be supported by a pawn and count the defenders, with the idea of removing them.
+- Middlegame: Look out for tactics when the opponents king has an open diagonal or file.
+- Endgame: Keep your pawn structure solid as possible and support your passed pawn.
 
-One thing to remember: [Your main takeaway]
+One thing to remember: Don't let emotions derail your tactical awareness - stay focused even after mistakes.
 
 ***
 
+# [NintailsChess (815) VS Raychane](https://www.chess.com/analysis/game/live/141168386362/review)
+
+
+Date: 27/05/25
+Time Control: 15+10
+Pieces: White
+Opening: Italian Game
+
+Critical Positions: 
+- 9. Bb5
+	- At this point in time, I feel like I have much better development. Reason being, that I'm castled, both of my bishops are active, whilst his are staring at pawns. I'm able to quickly get my rooks into the game as well. Feels much better. Black feels super cramped.
+	- But I moved same piece twice in opening... not so good.
+- 12. Nxb5?
+	- I sac my knight for two pawns, and my plan is to push my queenside pawns like crazy, but there is no reason for me to give up a knight for this. I can just execute that plan, without going for a sac. I have a good position, but he has counterplay. I felt like I had to sacrifice, but I didn't actually need to.
+- 20. a5?? 
+	- I have to take with my rook. Why? Because black can take my rook next turn and deflect my defender of my a pawn. I missed a key tactical idea.
+- 26. Rb3?? (from black)
+	- I don't see the fact that my rook is pinning his bishop and I can win material by queen capturing. The motto of the story is that even when you blunder or mess up, you need to keep an eye out for things and not get in your own head. I was raging at my mistake and wasn't looking for tactics.
+
+
+Key Learning:
+- Opening: *When you have a dominant centre, just get ALL of your pieces out and on good squares, you don't need to keep pushing the opponent, you are better - just give yourself time to setup an attack.*
+- Middlegame: *Take extra care when your opponent attacks one of your pieces for any tactics.*
+- Endgame: *Don't get overly emotional if you blunder and hang a piece or miss tactic. Keep your head in the game.*
+
+One thing to remember: Don't sacrifice pieces unless you 100% need to.

@@ -1,10 +1,13 @@
 ---
 date created: Monday, July 21st 2025, 2:40:06 pm
-date modified: Monday, July 28th 2025, 12:01:02 am
+date modified: Monday, July 28th 2025, 1:03:35 pm
 ---
 
 # Master Dashboard:
 
+## ⚙️ Systems & Routines
+- **Morning Routine**: Ready by 8:30am - [[Morning Routine]]
+- **Evening Routine**: Ready to sleep by 10:30pm - [[Evening Routine]] 
 ## 🎯 Active Projects
 - [[Chess Index|Chess Development]] - Month 1 - King + Pawn Endgames
 - [[03_Knowledge_Domains/Security/Index|Professional Development]] - Building up Linux, WordPress, and AV knowledge
