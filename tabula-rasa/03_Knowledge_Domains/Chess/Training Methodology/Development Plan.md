@@ -1,6 +1,6 @@
 ---
 date created: Wednesday, July 9th 2025, 7:24:07 pm
-date modified: Monday, July 28th 2025, 12:11:18 am
+date modified: Monday, July 28th 2025, 1:03:55 am
 ---
 
 # The Accelerated Classical Method: One Year to Chess Mastery
@@ -54,7 +54,6 @@ _"In chess, as in life, a man must rely on himself"_ - José Raúl Capablanca
 - Opposite-colored bishop theory
 
 **Mastery Test**: Correctly evaluate any minor piece endgame
-
 #### Month 4: Complex Endings
 
 **Morning (90 minutes)**
@@ -66,44 +65,65 @@ _"In chess, as in life, a man must rely on himself"_ - José Raúl Capablanca
 - Practical conversion training
 
 ---
-
 ## **Phase 2: Opening Science** (Months 5-7)
 
 ### Daily: 3 Hours
 
-#### Month 5: The Italian Complex
+#### Month 5: Core White Repertoire - Italian Game
 
 **Morning (2 hours)**
-- Italian Game: All variations to move 10
-- Understand every move's purpose
-- Study 10 master games daily
+- Italian Game: Main lines and structures
+    - Week 1: Classical Giuoco Piano (4.c3)
+    - Week 2: Two Knights Defence
+    - Week 3: Modern Bc4-d3 systems
+    - Week 4: Anti-Italian systems (Hungarian, etc.)
+- Study 5 master games daily (focus on Kasparov, Anand)
+- Create move-by-move explanation notes
 
 **Evening (1 hour)**
-- Play only Italian positions
-- No other openings permitted
+- Play thematic Italian positions online
+- Analyse typical pawn structures: d3-e4 vs d6-e5
+- Practice transitioning to favourable endgames
 
-#### Month 6: Structural Systems
+#### Month 6: Black Repertoire Foundation
 
-**Morning (2 hours)**
-- Add: London System (White)
-- Add: French Defense (Black)
-- Connect openings to favorable endgames
+**First Half - Caro-Kann Mastery (2 weeks)**
+- Week 1: Classical and Advance Variations
+- Week 2: Exchange and Panov-Botvinnik Attack
+- Daily: 3 Karpov Caro-Kann games
+- Focus on your existing notes and deepen understanding
 
-**Evening (1 hour)**
-- Thematic tournaments online
-- Opening to endgame transitions
+**Second Half - Anti-1.d4 System (2 weeks)**
+- **Queen's Gambit Declined** (Classical/Capablanca style)
+    - Orthodox Defence with early ...Nbd7
+    - Tartakower-Makogonov-Bondarevsky system
 
-#### Month 7: Repertoire Completion
+**Evening Practice (1 hour)**
+- Alternate between Caro-Kann and d4 defence
+- Focus on understanding pawn structures
+- Connect to endgame knowledge from Phase 1
 
-**Morning (2 hours)**
-- Queen's Gambit fundamentals
-- Caro-Kann or Slav Defence
-- Create personal opening files
+#### Month 7: Integration and Refinement
 
-**Evening (1 hour)**
-- Test repertoire against strong opposition
-- Refine based on practical results
+**Week 1-2: Complete Repertoire Testing**
+- Morning: Review all three openings
+- Create "decision tree" for each opening
+- Fill gaps found in practice
 
+**Week 3: Transpositions and Move Orders**
+- Italian to Scotch/Four Knights
+- Caro-Kann to French structures
+- d4 defense transposition possibilities
+
+**Week 4: Personal Opening Files**
+- Create condensed repertoire document
+- Key positions after 10 moves
+- Your personal "theory" based on experience
+
+**Daily Practice (3 hours)**
+- 1 hour: Opening review and new lines
+- 1 hour: Playing with ONLY these openings
+- 1 hour: Analysis and adjustment
 ---
 
 ## **Phase 3: Positional Understanding** (Months 8-10)
