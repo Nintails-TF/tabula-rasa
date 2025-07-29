@@ -1,6 +1,7 @@
 ---
 date created: Tuesday, July 22nd 2025, 11:51:17 am
-date modified: Tuesday, July 22nd 2025, 12:02:43 pm
+date modified: Tuesday, July 29th 2025, 11:48:08 am
+Parent Link: "[[01_Personal Development/Physical/Index|Fitness Index]]"
 ---
 
 # Training Plan
@@ -10,7 +11,6 @@ date modified: Tuesday, July 22nd 2025, 12:02:43 pm
 ### Phase 1: Foundation (Months 1-4)
 - **Lifting:** 3-4x/week, maintain your current routine
 - **Running:** Build to 50-60km/week
-- **Target:** First marathon completion (don't worry about time)
 ## Months 1-4 Weekly Schedule
 
 ### **The Core Structure (6 Days/Week)**
