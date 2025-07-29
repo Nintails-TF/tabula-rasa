@@ -1,6 +1,7 @@
 ---
 date created: Friday, July 25th 2025, 2:17:11 pm
-date modified: Monday, July 28th 2025, 5:55:14 pm
+date modified: Tuesday, July 29th 2025, 12:02:57 pm
+Parent Link: "[[03_Knowledge_Domains/Security/Index|Security Index]]"
 ---
 
 # Roadmap
@@ -8,6 +9,7 @@ date modified: Monday, July 28th 2025, 5:55:14 pm
 ## Website Blitz
 
 Mon-Fri: 9am-3pm
+- 9:00am-3:00pm: Portfolio website (6 hours with breaks)
 
 Saturday: 9am-3pm
 - 9:00am-3:00pm: Portfolio website (6 hours with breaks)
