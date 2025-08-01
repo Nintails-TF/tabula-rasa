@@ -1,6 +1,6 @@
 ---
 date created: Wednesday, July 9th 2025, 7:24:07 pm
-date modified: Monday, July 28th 2025, 1:03:55 am
+date modified: Friday, August 1st 2025, 1:09:46 pm
 ---
 
 # The Accelerated Classical Method: One Year to Chess Mastery
@@ -31,15 +31,13 @@ _"In chess, as in life, a man must rely on himself"_ - José Raúl Capablanca
 
 #### Month 2: Rook Endings
 
-**Morning (90 minutes)**
+**Morning (60 minutes)**
+- Lucena and Philidor positions
+- Rook activity: 7th rank, cutting off kings
+- Rook + pawn vs Rook positions
 
-- Lucena and Philidor positions (30 min)
-- Rook activity: 7th rank, cutting off kings (30 min)
-- Rook + pawn vs Rook positions (30 min)
-
-**Afternoon (90 minutes)**
+**Afternoon (60 minutes)**
 - Practice games starting from rook endings
-- Study Dvoretsky's Endgame Manual (basic sections only)
 
 **Mastery Test**: Draw inferior rook endings, win superior ones
 

@@ -1,6 +1,6 @@
 ---
 date created: Friday, July 11th 2025, 8:56:08 pm
-date modified: Thursday, July 31st 2025, 4:34:51 pm
+date modified: Friday, August 1st 2025, 6:46:29 pm
 Parent Link: "[[03_Knowledge_Domains/Chess/Training Methodology/Training Plan|Training Plan]]"
 ---
 
@@ -288,15 +288,33 @@ Overall: 21/30 (70%)
 ## Date 27/07/25:
 
 Winning Positions:
-- Attempted: 18/18
+- Attempted: 16/18
 - Correct: 16/18
-- Success Rate: %
+- Success Rate: 89%
 - Common errors: Stale mating when pushing bishops pawn against king in corner.
 
 Drawing Positions:
 - Attempted: 15/15
 - Correct: 12/15
-- Success Rate: %
+- Success Rate: 80%
 - Common errors: Not realising how to block the king with his own pawn during a double locked rook pawn situation. [Example.](https://www.chess.com/analysis/library/34ZVVc6aNr/analysis)
+
+Overall: 28/33 (85%)
+
+***
+
+## Date 01/08/25:
+
+Winning Positions:
+- Attempted: 15/15
+- Correct: 14/15
+- Success Rate: %
+- Common errors: Pushing the wrong pawn in connected pawn endgames. [Example](https://www.chess.com/analysis/library/DBW85VoZQ/analysis)
+
+Drawing Positions:
+- Attempted: 15/15
+- Correct: 11/15
+- Success Rate: %
+- Common errors: Not recognising the power of connected passed pawns. [Example](https://www.chess.com/library/collections/king-pawn-endgame-positions-2t5EynPSe)
 
 Overall: /30 (%)
