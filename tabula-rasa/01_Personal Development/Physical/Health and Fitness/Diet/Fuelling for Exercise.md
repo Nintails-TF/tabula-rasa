@@ -1,6 +1,7 @@
 ---
 date created: Tuesday, July 22nd 2025, 12:07:08 pm
 date modified: Tuesday, July 22nd 2025, 12:08:21 pm
+Parent Link: "[[01_Personal Development/Physical/Index|Fitness Index]]"
 ---
 
 # Fuelling for Exercise:

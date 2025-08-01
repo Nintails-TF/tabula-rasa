@@ -1,6 +1,6 @@
 ---
 date created: Monday, July 21st 2025, 3:24:05 pm
-date modified: Tuesday, July 29th 2025, 2:07:37 pm
+date modified: Friday, August 1st 2025, 12:19:32 pm
 Parent Link: "[[Main Index]]"
 ---
 
@@ -31,6 +31,8 @@ Parent Link: "[[Main Index]]"
 ## Quick Links
 - [[August Goal|Monthly Goal]]- This month's targets
 - [[01_Personal Development/Physical/Health and Fitness/Theory/Training Plan|Training Plan]] - Weekly workout plan
+- [[Diet Plan]] - Dietary Goals and Needs
+	- [[Fuelling for Exercise]] - Periodizing calories
 - [[PRs]] - Measurements and PRs
 - [[New Routine|Current Routine]]- Detailed workout program
 

@@ -2,6 +2,7 @@
 date created: Sunday, July 27th 2025, 11:57:09 pm
 date modified: Tuesday, July 29th 2025, 12:03:23 pm
 Parent Link: "[[Main Index]]"
+Alternative Link: "[[02_Professional/Index|Professional index]]"
 ---
 
 # Security Skills Development - Master Index
