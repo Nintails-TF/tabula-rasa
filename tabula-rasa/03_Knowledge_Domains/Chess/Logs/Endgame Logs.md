@@ -1,6 +1,6 @@
 ---
 date created: Friday, July 11th 2025, 8:56:08 pm
-date modified: Monday, July 28th 2025, 10:26:29 am
+date modified: Thursday, July 31st 2025, 4:34:51 pm
 Parent Link: "[[03_Knowledge_Domains/Chess/Training Methodology/Training Plan|Training Plan]]"
 ---
 
@@ -271,16 +271,32 @@ Overall: 22/30 (73%)
 Winning Positions:
 - Attempted: 15/15
 - Correct: 12/15
-- Success Rate: %
+- Success Rate: 80%
 - Common errors: Allowing opponent to make double-connected passed pawns, rushing.
 
 Drawing Positions:
 - Attempted: 15/15
 - Correct: 9/15
-- Success Rate: %
+- Success Rate: 60%
 - Common errors: 
 	- Not thinking clearly about opposition. Odd number of squares is key, and diagonal opposition is also good. [Example](https://www.chess.com/analysis/library/3eNM5WyKzE/analysis)
 	- Complex opposition with rook pawn vs connected pawns on the rim. [Example](https://www.chess.com/analysis/library/MDRrpMNQv/analysis)
-Overall: /30 (%)
+
+Overall: 21/30 (70%)
 
 ***
+## Date 27/07/25:
+
+Winning Positions:
+- Attempted: 18/18
+- Correct: 16/18
+- Success Rate: %
+- Common errors: Stale mating when pushing bishops pawn against king in corner.
+
+Drawing Positions:
+- Attempted: 15/15
+- Correct: 12/15
+- Success Rate: %
+- Common errors: Not realising how to block the king with his own pawn during a double locked rook pawn situation. [Example.](https://www.chess.com/analysis/library/34ZVVc6aNr/analysis)
+
+Overall: /30 (%)

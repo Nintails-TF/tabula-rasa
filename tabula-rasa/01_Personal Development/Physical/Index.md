@@ -1,6 +1,6 @@
 ---
 date created: Monday, July 21st 2025, 3:24:05 pm
-date modified: Tuesday, July 29th 2025, 11:56:14 am
+date modified: Tuesday, July 29th 2025, 2:07:37 pm
 Parent Link: "[[Main Index]]"
 ---
 
@@ -13,6 +13,12 @@ Parent Link: "[[Main Index]]"
 - **Time Investment**: 10 hours per week
 
 ## Goal Progression
+
+## Consistency Goals:
+- Tracking Diet for 1 week and meeting macros. 🔴
+- Exercising daily as per my routine. 🟢
+- Not accepting low quality food, getting of my butt and cooking. 🔴
+- Following sleep and wake routines. 🟡
 ### Strength Goals
 - **Bench Press**: 45kg → 50kg
 - **Overall**: Old Reliable physique (160-180lbs @ 10-15% BF)
@@ -32,3 +38,5 @@ Parent Link: "[[Main Index]]"
 - Sleep: [Quality score/hours]
 - Nutrition: [Adherence to plan]
 - Recovery: [Stress/energy levels]
+
+Legend: 🟢 On Track | 🟡 Attention Needed | 🔴 Blocked

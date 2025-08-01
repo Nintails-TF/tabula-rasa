@@ -12,9 +12,9 @@ Parent Link: "[[Main Index]]"
 
 ## Learning Path
 ### Phase 1: Foundation
-- [x] Master basic K+P endgames (95% accuracy)
-- [ ] Consistent study and practice
-- [ ] Intermediate K+P endgames
+- [x] Master basic K+P endgames (95% accuracy) 🟢
+- [ ] Consistent study and practice 🟢 
+- [ ] Intermediate K+P endgames 🟢 
 ## Quick Links
 - [[03_Knowledge_Domains/Chess/Training Methodology/Training Plan|Training Plan]] - Daily practice routine
 	- [[To Improve]] - Things to work on and focus on.
@@ -22,3 +22,5 @@ Parent Link: "[[Main Index]]"
 - [[Yearly Target]] - This years goals and targets
 	- [[Monthly Checkpoints]] - This month's progress
 	- [[July Games|Weekly Game Analysis]] - Latest game analysis
+
+Legend: 🟢 On Track | 🟡 Attention Needed | 🔴 Blocked

@@ -12,13 +12,12 @@ Parent Link: "[[Main Index]]"
 - **Job Application Timeline**: Ready by Early September
 	- Tuesday to Thursday best days to hunt.
 - **Time Investment**: 20-30 hours per week.
-
-## Skill Development Roadmap
+## Skill Development Roadmap:
 ### Foundation (Current)
-- [ ] Linux CLI proficiency
-- [ ] Complete Bandit wargame (Level X/34)
-- [ ] Basic React and web dev skills
-- [ ] Documenting journey and networking
+- [ ] Linux CLI proficiency 🟡
+- [ ] Complete Bandit wargame (Level X/34) 🟡
+- [ ] Basic React and web dev skills through portfolio 🟡
+- [ ] Documenting journey and networking 🟢
 
 ### Intermediate
 - [ ] SOC specific skills
@@ -37,3 +36,5 @@ Parent Link: "[[Main Index]]"
 - [ ] LinkedIn optimized
 - [ ] Resume updated
 - [ ] Target companies researched
+
+Legend: 🟢 On Track | 🟡 Attention Needed | 🔴 Blocked
