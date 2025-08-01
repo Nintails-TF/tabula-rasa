@@ -1,6 +1,6 @@
 ---
 date created: Monday, July 28th 2025, 2:47:14 pm
-date modified: Monday, July 28th 2025, 2:47:27 pm
+date modified: Friday, August 1st 2025, 1:01:21 pm
 Parent Link: "[[Chess Index]]"
 ---
 
@@ -24,6 +24,7 @@ Parent Link: "[[Chess Index]]"
     - Missing trapped knight on move 13 (Swetalsuthar10)
     - Missing simple pawn-winning tactic on move 18 (ghostofmichaelmyres)
     - Missing pin tactic after emotional blunder (Raychane)
+    - **Pawn Forks 3 times during club games!!!**
 - **Timing**: Often occurs after mistakes when emotions take over
 
 ### 3. **Premature/Unnecessary Sacrifices** (3 games)
