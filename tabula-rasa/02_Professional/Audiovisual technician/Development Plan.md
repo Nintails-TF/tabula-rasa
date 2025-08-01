@@ -1,6 +1,6 @@
 ---
 date created: Friday, July 25th 2025, 2:17:59 pm
-date modified: Friday, August 1st 2025, 11:53:44 am
+date modified: Friday, August 1st 2025, 12:58:59 pm
 ---
 
 # Audiovisual Technician Development Plan
@@ -135,7 +135,7 @@ _Focus: Putting it all together_
 
 ## Study Schedule Recommendations
 
-### Daily Learning (30-45 minutes)
+### Daily Learning (30 minutes)
 
 **Monday-Wednesday-Friday:**
 - Watch one priority video
@@ -145,7 +145,8 @@ _Focus: Putting it all together_
 **Tuesday-Thursday:**
 - Review previous day's notes
 - Research specific equipment/techniques
-- Connect with Steve/Abby for questions
+- Connect with Steve/Abby for questions when they arise.
+	- Shows keenness which is good.
 
 **Weekend:**
 - Longer study session (90 minutes)
