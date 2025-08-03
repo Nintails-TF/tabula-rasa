@@ -1,6 +1,6 @@
 ---
 date created: Friday, July 11th 2025, 8:56:08 pm
-date modified: Friday, August 1st 2025, 6:46:29 pm
+date modified: Saturday, August 2nd 2025, 4:31:59 pm
 Parent Link: "[[03_Knowledge_Domains/Chess/Training Methodology/Training Plan|Training Plan]]"
 ---
 
@@ -308,13 +308,32 @@ Overall: 28/33 (85%)
 Winning Positions:
 - Attempted: 15/15
 - Correct: 14/15
-- Success Rate: %
+- Success Rate: 93%
 - Common errors: Pushing the wrong pawn in connected pawn endgames. [Example](https://www.chess.com/analysis/library/DBW85VoZQ/analysis)
 
 Drawing Positions:
 - Attempted: 15/15
 - Correct: 11/15
-- Success Rate: %
+- Success Rate: 73%
 - Common errors: Not recognising the power of connected passed pawns. [Example](https://www.chess.com/library/collections/king-pawn-endgame-positions-2t5EynPSe)
+
+Overall: 25/30 (83%)
+
+***
+## Date 02/08/25:
+
+First day of rook endgames. I really don't understand how to do this.
+
+Winning Positions:
+- Attempted: 2/15
+- Correct: 2/15
+- Success Rate: %
+- Common errors: 
+
+Drawing Positions:
+- Attempted: /15
+- Correct: /15
+- Success Rate: %
+- Common errors:
 
 Overall: /30 (%)

@@ -1,6 +1,6 @@
 ---
 date created: Friday, July 11th 2025, 9:40:23 pm
-date modified: Saturday, July 26th 2025, 12:04:55 pm
+date modified: Sunday, August 3rd 2025, 1:33:23 pm
 ---
 
 # Chess Principles & Techniques:
@@ -79,13 +79,11 @@ date modified: Saturday, July 26th 2025, 12:04:55 pm
 ## **IV. PAWN STRUCTURE & STRATEGY**
 
 ### Pawn Management:
-
 **Avoid**: Isolated pawns, doubled pawns (when possible) 
 **Promote**: Passed pawns - "Push your passed pawns" 
 **Support**: Use rooks to support passed pawns from behind
 
 ### Critical Pawn Moves:
-
 - Be very careful pushing the c-pawn
 - Be particularly careful with the f-pawn (weakens king safety)
 
@@ -94,13 +92,11 @@ date modified: Saturday, July 26th 2025, 12:04:55 pm
 ## **V. TACTICAL AWARENESS**
 
 ### Move Selection Priority
-
 1. **Checks** - Force opponent to respond
 2. **Captures** - Material gain/piece elimination
 3. **Attacks** - Create threats
 
 ### Forcing Moves
-
 - Forcing moves are usually good moves
 - They limit opponent's options and maintain initiative
 
@@ -109,18 +105,15 @@ date modified: Saturday, July 26th 2025, 12:04:55 pm
 ## **VI. GAME PHASES & OBJECTIVES**
 
 ### Opening Phase
-
 - **Primary goal**: Develop pieces onto good squares that control the centre
 - **Secondary goals**: King safety (castling), piece coordination
 
 ### Middlegame Phase
-
 - **Primary goal**: Find weaknesses, improve your position
 - **Secondary goal**: Attack the opponent's king when opportunity arises
 - **Strategy**: Create and exploit imbalances
 
 ### Endgame Phase
-
 - **Primary goal**: Promote a pawn into a queen
 - **Technique**: Activate your king, convert advantages
 - **Key skill**: Technical precision in basic endgames
@@ -133,24 +126,16 @@ date modified: Saturday, July 26th 2025, 12:04:55 pm
 ## **VII. ESSENTIAL MATING TECHNIQUES**
 
 ### Single Rook Mate
-
 - **Principle**: Drive opponent's king to the last rank or file
 - **Method**: Box method - enclose the king, ensure rook safety, bring king closer
 
 ### Double Rook Mate
-
 - **Method**: Rolling rook (ladder) technique up the side of the board
 - **Concept**: Alternate rook moves to drive king to edge
 
 ### Queen Mate
-
 - **Method**: Knight's space away principle
 - **Technique**: Lock king into two squares, bring your king into the game
-
-### Two Bishops Mate
-
-- **Status**: Advanced technique (1500+ level)
-- **Reason for delay**: Too complex and rare for early development
 
 ---
 
@@ -175,17 +160,7 @@ Choose your master model:
 ## **IX. PRACTICAL TRAINING PRINCIPLES**
 
 ### Daily Habits
-
 - **Analyze** positions without engines first
 - **Understand** rather than memorize
 - **Practice** with full concentration
 - **Record** insights in a chess journal
-
-### Study Sequence
-
-1. **Months 1-4**: Endgame mastery (technical foundation)
-2. **Months 5-7**: Opening systems (consistent middlegames)
-3. **Months 8-10**: Positional understanding (superior positions)
-4. **Months 11-12**: Tactical integration (complete player)
-
-_"Excellence at chess is not a gift—it is a skill acquired through understanding simple positions perfectly."_

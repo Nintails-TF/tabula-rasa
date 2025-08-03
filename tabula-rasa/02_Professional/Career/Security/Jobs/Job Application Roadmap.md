@@ -1,8 +1,7 @@
 ---
 date created: Saturday, July 26th 2025, 4:42:08 pm
 date modified: Saturday, July 26th 2025, 5:18:00 pm
-Parent Link: "[[03_Knowledge_Domains/Security/Index|Security Index]]"
-Alternative Link: "[[02_Professional/Index|Professional index]]"
+Parent Link: "[[02_Professional/Index|Professional index]]"
 ---
 
 # Cybersecurity Job Application Timeline & Strategy

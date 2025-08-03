@@ -1,26 +1,27 @@
 ---
 date created: Monday, July 21st 2025, 2:40:06 pm
-date modified: Friday, August 1st 2025, 12:19:47 pm
+date modified: Sunday, August 3rd 2025, 2:38:34 pm
 ---
 
 # Master Dashboard:
 
-## ⚙️ Systems & Routines
-- **Morning Routine**: Ready by 8:30am - [[Morning Routine]] 
-	- 🟡Need to start
-- **Evening Routine**: Ready to sleep by 10:30pm - [[Evening Routine]] 
-	- 🟢 Started
-## 🎯 Active Projects
-- [[Chess Index|Chess Development]] - Month 1 - King + Pawn Endgames 
-	- 🟢 Progressing well.
-- [[02_Professional/Index|Professional Index]] - Building up portfolio and general skills. 
-	- 🟡 Need to start.
-- [[01_Personal Development/Physical/Index|Fitness Development]] - Working on running half-marathon and starting-up lifting again. 
-	- 🟡Exercise good, but diet and sleep aren't so good.
+## My Driving Force:
+
+I want to be strong and disciplined.
+I want to be smart and analytical.
+I want to be rich and independent.
+
+As that's what happiness looks like to me.
+## ⚙️ Systems & Routines:
+- [[Morning Routine]] 
+- [[Evening Routine]] 
+## 🎯 Active Projects:
+- [[01_Personal Development/Physical/Index|Fitness Development]]
+- [[02_Professional/Index|Professional Development]]
+- [[Chess Index|Chess Development]]
 ## 📊 Status Overview
-- [ ] Chess: Complete monthly checkpoint on K+P endgames.
-- [ ] Fitness: Develop my fitness and diet plan and follow it for 2 weeks.
-- [ ] Security Research: Finish portfolio website, then post write-ups of Bandit working my way through that, then moving onto Linux Luminarium or other options like Tryhackme/HTB.
-- [ ] Audiovisual Technician: Keep notes, work way through playlist and stay connected with Steve and Abby.
+- [ ] Chess: 
+- [ ] Fitness: 
+- [ ] Career:
 
 Legend: 🟢 On Track | 🟡 Attention Needed | 🔴 Blocked

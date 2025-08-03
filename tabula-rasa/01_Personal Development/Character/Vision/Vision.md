@@ -13,9 +13,6 @@ I want to be rock solid, dependable, calm and cool. So that I have independence 
 
 I need to max out money, physicality, connections, career, got the best chances of doing this when I'm young, so I'm on a timer.
 
-
-
-
 Physical Factors:
 - [[Metabolic Requirements]]
 Neurochemical Factors
