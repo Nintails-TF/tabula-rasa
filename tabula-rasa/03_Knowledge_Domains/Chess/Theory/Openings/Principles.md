@@ -1,10 +1,11 @@
 ---
 date created: Saturday, August 9th 2025, 9:46:48 pm
-date modified: Saturday, August 9th 2025, 11:40:03 pm
+date modified: Tuesday, August 12th 2025, 2:42:33 pm
 ---
 
 # Principles:
 
+*Paul Morphy's piece activity and dynamism in the opening was key to his strength.*
 ## Fundamental Opening Principles:
 
 1. Develop your pieces.
@@ -127,6 +128,9 @@ This game illustrates that even being down material, if you use time well and co
 Notice how the winning side had better pieces? A lead in time or tempo, results in better pieces. The same can be said out of tactics as well, when we have time, we can build and create tactics.
 
 King safety was critical in every game, as the side that didn't or couldn't castle was punished.
+
+***
+#
 
 
 

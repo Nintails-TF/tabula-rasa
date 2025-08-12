@@ -1,6 +1,7 @@
 ---
 date created: Thursday, July 10th 2025, 12:29:37 pm
 date modified: Tuesday, July 15th 2025, 2:10:44 am
+Parent Link: "[[Chess Index]]"
 ---
 
 # Notable Chess Masters (Chronological Order):
@@ -21,7 +22,6 @@ date modified: Tuesday, July 15th 2025, 2:10:44 am
 - **Study Focus**: His games from 1907-1912 (dominated every tournament)
 - **Key Learning**: How to accumulate small advantages into winning positions
 - **Capablanca's View**: "Rubinstein is the greatest living endgame player"
-
 ## **José Raúl Capablanca (1888-1942)**
 
 **The Natural Genius**
@@ -30,15 +30,20 @@ date modified: Tuesday, July 15th 2025, 2:10:44 am
 - **Study Focus**: Games from 1914-1927 (his peak years)
 - **Key Learning**: How to make chess look easy through perfect piece placement
 - **Famous Quote**: "I see only one move ahead, but it is always the correct one"
+## **Paul Keres (1916-1975)**
 
-## **Tigran Petrosian (1929-1984)**
+**The Crown Prince**
+- **Style**: Universal excellence, tactical sharpness combined with positional depth, adaptable to any position type
+- **Strengths**: Opening preparation, middlegame combinations, endgame technique - no weak phase
+- **Study Focus**: His games from 1938-1965 (consistent world championship contender)
+- **Key Learning**: How to maintain piece activity while transitioning between game phases seamlessly
+- **Capablanca's View**: Would have admired Keres' ability to find the most natural strong move in any position - tactical or positional
 
-**The Iron Tiger**
+## **Anatoly Karpov (1951-)**
 
-- **Style**: Prophylactic thinking, prevention over reaction, masterful defence
-- **Strengths**: Stopping opponent's plans before they start, positional restriction, endgame technique
-- **Study Focus**: His games from 1963-1969 (World Champion period)
-- **Key Learning**: How to neutralize threats and gradually squeeze opponents through superior piece placement
-- **Capablanca's View**: Would have admired Petrosian's ability to "see the move that is not there" - preventing rather than reacting
-
-**Defensive Philosophy**: "It is better to restrict your opponent's possibilities than to allow him to have two plans while you are looking for the best way to meet one of them"
+**The Python**
+- **Style**: Gradual positional pressure, microscopic advantage accumulation, perfect technique in equal positions.
+- **Strengths**: Converting minimal advantages, positional restriction, endgame precision, psychological pressure.
+- **Study Focus**: His games from 1975-1987 (World Champion period and matches with Kasparov).
+- **Key Learning**: How to squeeze water from stone - winning drawn positions through patient manoeuvring.
+- **Capablanca's View**: "Karpov plays the most similar style to mine" - the natural successor to effortless, technical chess.

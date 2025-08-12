@@ -1,7 +1,7 @@
 ---
 date created: Friday, July 11th 2025, 8:56:08 pm
-date modified: Saturday, August 2nd 2025, 4:31:59 pm
-Parent Link: "[[03_Knowledge_Domains/Chess/Training Methodology/Training Plan|Training Plan]]"
+date modified: Tuesday, August 12th 2025, 2:33:27 pm
+Parent Link: "[[Chess Index]]"
 ---
 
 # Log of Endgame Training
@@ -337,3 +337,23 @@ Drawing Positions:
 - Common errors:
 
 Overall: /30 (%)
+
+***
+## Date 13/08/25:
+
+
+Winning Positions:
+- Attempted: /15
+- Correct: /15
+- Success Rate: %
+- Common errors: 
+
+Drawing Positions:
+- Attempted: /15
+- Correct: /15
+- Success Rate: %
+- Common errors:
+
+Overall: /30 (%)
+
+***

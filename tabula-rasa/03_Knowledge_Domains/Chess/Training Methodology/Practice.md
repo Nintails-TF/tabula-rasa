@@ -1,17 +1,10 @@
 ---
 date created: Sunday, August 3rd 2025, 2:19:34 pm
 date modified: Tuesday, August 12th 2025, 2:07:06 pm
+Parent Link: "[[Chess Index]]"
 ---
 
 # Practice
-
-**Current Plan:**
-
-- Tactics - Do tactics based on what was discovered in the review and general practice. (40%)
-- Play Games - Practice on weaknesses in play. (25%)
-- Review - What could have gone better. (10%)
-- Opening Principles/Theory - Getting off to a good start. (5%)
-- Endgames - Converting winning games. (20%)
 
 **Your Development Plan:**
 

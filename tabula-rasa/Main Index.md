@@ -1,6 +1,6 @@
 ---
 date created: Monday, July 21st 2025, 2:40:06 pm
-date modified: Sunday, August 3rd 2025, 2:38:34 pm
+date modified: Tuesday, August 12th 2025, 2:41:49 pm
 ---
 
 # Master Dashboard:
@@ -20,8 +20,8 @@ As that's what happiness looks like to me.
 - [[02_Professional/Index|Professional Development]]
 - [[Chess Index|Chess Development]]
 ## 📊 Status Overview
-- [ ] Chess: 
-- [ ] Fitness: 
-- [ ] Career:
+- [ ] Chess: To develop my foundational endgame technique. To improve emotional control. 🟡
+- [ ] Fitness: To develop consistency in exercise and diet. 🟡
+- [ ] Career: To make working toward my financial freedom a habit. 🟡
 
 Legend: 🟢 On Track | 🟡 Attention Needed | 🔴 Blocked
