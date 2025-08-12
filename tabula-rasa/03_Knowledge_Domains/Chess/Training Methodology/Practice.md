@@ -1,6 +1,40 @@
 ---
 date created: Sunday, August 3rd 2025, 2:19:34 pm
-date modified: Sunday, August 3rd 2025, 2:19:40 pm
+date modified: Tuesday, August 12th 2025, 2:07:06 pm
 ---
 
-# Untitled
+# Practice
+
+**Current Plan:**
+
+- Tactics - Do tactics based on what was discovered in the review and general practice. (40%)
+- Play Games - Practice on weaknesses in play. (25%)
+- Review - What could have gone better. (10%)
+- Opening Principles/Theory - Getting off to a good start. (5%)
+- Endgames - Converting winning games. (20%)
+
+**Your Development Plan:**
+
+**Phase 1: Build the Foundation (6-12 months)**
+- Master basic tactics until pattern recognition is instant
+- Learn opening principles deeply, not just moves - understand _why_ each move makes sense
+- Study Capablanca's simple games with annotations
+- Master essential endgames completely (this was his secret weapon)
+
+**Phase 2: Develop Natural Play (6-18 months)**
+- Focus on clear, logical moves over complicated tactics
+- Practice simplifying to favourable endgames when ahead
+- Study positions where simple moves are stronger than complex ones
+- Develop intuition for when to trade pieces vs keep them
+
+**Phase 3: Endgame Mastery (ongoing)**
+- Go deep on endgame theory as you planned
+- This gives you the confidence to simplify positions others fear
+- Learn to create small advantages and nurse them to victory
+
+**Daily Practice:**
+- Tactics (but focus on clean, forcing sequences)
+- Play games where you consciously choose simple, strong moves
+- Analyse your games asking "What would the most natural move be here?"
+
+**Capablanca's Secret:** His confidence came from knowing that if he could reach an endgame, he'd probably win it. That's exactly what your endgame mastery plan will give you.
