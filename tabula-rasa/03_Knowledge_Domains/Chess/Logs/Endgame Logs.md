@@ -1,6 +1,6 @@
 ---
 date created: Friday, July 11th 2025, 8:56:08 pm
-date modified: Tuesday, August 12th 2025, 2:33:27 pm
+date modified: Wednesday, August 13th 2025, 10:02:33 am
 Parent Link: "[[Chess Index]]"
 ---
 
@@ -341,12 +341,13 @@ Overall: /30 (%)
 ***
 ## Date 13/08/25:
 
+Medium Set - Benchmark
 
 Winning Positions:
-- Attempted: /15
-- Correct: /15
+- Attempted: 5/15
+- Correct: 3/15
 - Success Rate: %
-- Common errors: 
+- Common errors: Moving too fast and not finding the most accurate mating pattern or forcing move.
 
 Drawing Positions:
 - Attempted: /15

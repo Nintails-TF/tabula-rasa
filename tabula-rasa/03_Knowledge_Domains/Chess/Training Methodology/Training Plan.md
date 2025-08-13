@@ -1,6 +1,6 @@
 ---
 date created: Tuesday, August 12th 2025, 2:11:55 pm
-date modified: Tuesday, August 12th 2025, 2:48:47 pm
+date modified: Tuesday, August 12th 2025, 2:51:39 pm
 Parent Link: "[[Chess Index]]"
 ---
 
@@ -16,9 +16,9 @@ Parent Link: "[[Chess Index]]"
 - Target: 15 positions, 100% accuracy (quality over quantity)
 
 **30 min: Master Game Study**
-- ONE Capablanca game, deeply understood
-- Write down the key principle learned
-- Add it to your "Chess Principles & Techniques" notes
+- ONE master game, deeply understood.
+- Write down the key principle learned.
+- Add it to your "Chess Principles & Techniques" notes.
 
 ### **Hour 2-3: Serious Play (Peak Focus)**
 
@@ -51,3 +51,24 @@ Parent Link: "[[Chess Index]]"
 
 
 ***
+
+### **Beginner (800-1400) - Foundation Building**
+
+**3-4 hours daily**
+- Maximum pattern absorption needed
+- Every tactical motif is new
+- Rapid improvement phase with big rating jumps
+
+### **Intermediate (1200-1600) - Sustained Focus**
+
+**2-3 hours daily**
+- **Quality over quantity:** Less drilling, more understanding
+- **Deeper analysis:** Study fewer games but understand them completely
+- **Pattern recognition established:** Tactics become more intuitive
+
+### **Advanced (1600-2000) - Strategic Learning**
+
+**1.5-2 hours daily**
+- **Specialized study:** Focus on specific weaknesses
+- **Game analysis:** More time analysing own games vs studying masters
+- **Tournament preparation:** Opening preparation becomes important

@@ -1,6 +1,6 @@
 ---
 date created: Monday, July 21st 2025, 3:24:23 pm
-date modified: Tuesday, August 12th 2025, 2:47:42 pm
+date modified: Tuesday, August 12th 2025, 3:02:55 pm
 Parent Link: "[[Main Index]]"
 ---
 
@@ -21,4 +21,4 @@ Theory:
 - [[Principles|Opening Principles]]
 - [[Endgames Index]]
 - [[Chess Masters]]
-	- Morphy 70% of the time, Capablanca 25% of the time, Rubinstein 5% of the time. Until 1400.
+	- Early Capablanca 40% of the time, Rubinstein 40% of the time, Keres 20% of the time Until 1400.

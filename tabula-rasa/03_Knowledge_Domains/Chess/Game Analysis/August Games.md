@@ -1,6 +1,7 @@
 ---
 date created: Friday, August 1st 2025, 1:00:59 pm
-date modified: Monday, August 11th 2025, 4:42:04 pm
+date modified: Tuesday, August 12th 2025, 2:58:43 pm
+Parent Link: "[[Chess Index]]"
 ---
 
 # August:
@@ -352,7 +353,9 @@ Pieces:
 Opening:
 Result: 
 
-Critical Positions: 
+***Turning Point:***
+
+***What is the simplest good move?:***
 
 Key Learning:
 - Opening: 
