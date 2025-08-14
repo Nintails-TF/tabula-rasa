@@ -1,6 +1,6 @@
 ---
 date created: Monday, July 21st 2025, 3:24:23 pm
-date modified: Tuesday, August 12th 2025, 3:02:55 pm
+date modified: Thursday, August 14th 2025, 4:01:17 am
 Parent Link: "[[Main Index]]"
 ---
 
@@ -16,9 +16,14 @@ Tracking:
 - [[Endgame Logs]]
 - [[Checkmate Logs]]
 - [[August Games]]
+- [[Capablanca]]
 
 Theory:
 - [[Principles|Opening Principles]]
 - [[Endgames Index]]
 - [[Chess Masters]]
-	- Early Capablanca 40% of the time, Rubinstein 40% of the time, Keres 20% of the time Until 1400.
+
+Look at ±2.0 swings first,
+then ±1.0, 
+±0.9-0.5 if it violates standard chess
+<±0.5 doesn't matter.

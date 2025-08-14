@@ -1,6 +1,6 @@
 ---
 date created: Friday, July 11th 2025, 8:56:08 pm
-date modified: Wednesday, August 13th 2025, 10:02:33 am
+date modified: Wednesday, August 13th 2025, 11:22:42 am
 Parent Link: "[[Chess Index]]"
 ---
 
@@ -341,20 +341,24 @@ Overall: /30 (%)
 ***
 ## Date 13/08/25:
 
-Medium Set - Benchmark
+Medium Set - Benchmark - 1 hour
 
-Winning Positions:
-- Attempted: 5/15
-- Correct: 3/15
-- Success Rate: %
-- Common errors: Moving too fast and not finding the most accurate mating pattern or forcing move.
+Positions:
+- Attempted: 18
+- Success Rate: 67%
+- Success with poor technique: 5%
+- Failure rate 28%
+- Common errors: Moving too fast and not finding the most accurate mating pattern or forcing move. 
+	- Biggest problem in rook type endgames
+		- K+R+P vs K+R
+		- K+R+B vs K+B
+		- K+Q vs K+P | Pawn and king on 7th rank
+	- It appears the main re-occurring themes are dealing with multiple checks in the Philidor/Lucena's position and trying to cut off a king from it's own pawn.
 
-Drawing Positions:
-- Attempted: /15
-- Correct: /15
-- Success Rate: %
-- Common errors:
+Tomorrow - The goal the 5 positions from this set that I failed, and the position I won but had poor technique, to learn from the mistakes properly and figure out how to win the positions that I've been struggling with.
 
-Overall: /30 (%)
+So 6 positions in an hour taking my time, today playing the endgames out on the board helped, because I was able to not only think about forcing moves, but how to defend most accurately. I suppose I'm still in that mindset of rushing though.
+
+The goal is to have that sort of automatic feeling in chess.
 
 ***
