@@ -1,6 +1,6 @@
 ---
 date created: Friday, July 11th 2025, 8:56:08 pm
-date modified: Wednesday, August 13th 2025, 11:22:42 am
+date modified: Thursday, August 14th 2025, 1:00:29 pm
 Parent Link: "[[Chess Index]]"
 ---
 
@@ -362,3 +362,51 @@ So 6 positions in an hour taking my time, today playing the endgames out on the 
 The goal is to have that sort of automatic feeling in chess.
 
 ***
+
+## Date 14/08/25:
+
+6 Incorrect Positions - 1 hour:
+
+*Position #85101 (K+R vs K+P):*
+The key is to place the rook behind the passed pawn and then navigate your king over to double attack the pieces and win it.
+
+**So attack the lone piece and then bring your king in.**
+
+*Position #68243 (K+Q vs K+P):*
+King and pawn connected on the 7th rank. We want to place the king in front of his pawn so he cannot promote and we can move our king over. If our opponent lets our queen sit in front of the pawn, he loses.
+
+To win, we can rotate our queen around the pawn giving him check, when he reaches underneath the pawn, we then move our king forward.
+
+**Use checks and block his king to provoke weakening moves, then improve your own pieces position.**
+
+*Position #85025 (K+R+B vs K+B | Same coloured bishops ):*
+We use the rook and bishop in tandem to restrict the kings square, if we can do so whilst striking at the bishop this is ideal.
+
+You want to drag the king into a corner using your own king and rook to constrict his squares, then use the bishop to make it so he can only move one way.
+
+Finally when going for mate, you can place your bishop on the diagonal where you want your rook to land, meaning black cannot control the mating square and must give up his bishop.
+
+**Constrict the king's squares and clear the mating squares by coordinating your pieces.**
+
+*Position #84325 (K+R+P VS K+R):*
+
+You want to check if you can push the pawn without putting your king in check.
+
+You want to create a wall from the opponents king using your pawn and king to prevent him from walking into your structure, giving checks with the rook if he get's too close.
+
+**Constrict the opponents king first, then mauver around his rook using tempi and positioning.**
+
+*Position #85285 (K+P+B vs K+P})*
+
+This is a mate in one idea, that I missed and played out.
+
+**Always keep your eyes open for checkmate, look at how constricted the opponents king is an endgame and know when you can strike with checkmate.**
+
+***
+
+
+
+
+
+
+

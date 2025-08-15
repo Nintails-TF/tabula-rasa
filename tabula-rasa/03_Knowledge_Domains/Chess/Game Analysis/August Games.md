@@ -1,6 +1,6 @@
 ---
 date created: Friday, August 1st 2025, 1:00:59 pm
-date modified: Tuesday, August 12th 2025, 2:58:43 pm
+date modified: Friday, August 15th 2025, 9:01:56 am
 Parent Link: "[[Chess Index]]"
 ---
 
@@ -326,22 +326,26 @@ Key Takeaway: Using the threat of checkmate to generate attacks is really powerf
 
 ***
 
-## [NintailsChess (904) VS ()]()
+## [NintailsChess (904) VS FSM_001 (852)](https://www.chess.com/analysis/library/3qMcrszPen/analysis)
 
-Date: 
+Date: 15/08/25
 Time Control: 15 + 10
-Pieces: 
-Opening:
-Result: 
+Pieces: White
+Opening: London System
+Result: Win (Due to resignation)
 
 Critical Positions: 
+- 12. exd5?
+	- Pushing the pawn and locking the centre whilst having more space would of been better. I would of ended up in a position where black is locked out of my kingside and I could of routed my pieces queenside and stormed his king with a pawn storm.
+- 25. Ne4??
+	- I blundered because I had 3 minutes on the clock and for some reason felt uncomfortable trading my pieces down? I was ahead by two pawns and had a completely winning endgame. This was simply lack of confidence in my process and play.
 
 Key Learning:
-- Opening: 
-- Middlegame: 
-- Endgame: 
+- Opening: Solid London moves in the opening gave me a strong position, I still had to use a fair bit of time because it's one of my first times using the system, but that will get better.
+- Middlegame: I had a chance to improve my position and limit my opponents pieces but I didn't see that, but I saw a hanging pawn from my opponent, and it won me the game. he hung the pawn because, I put pressure on his queen with my more active pieces.
+- Endgame: I won easily by pushing a passed pawn, my opponent had no idea what to do.
 
-Key Takeaway: 
+Key Takeaway: Trust in the technique and process, keep practicing to build some more automatic habits with openings and confidence.
 
 ***
 
