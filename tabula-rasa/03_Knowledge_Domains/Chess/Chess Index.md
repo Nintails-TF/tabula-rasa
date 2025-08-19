@@ -9,10 +9,16 @@ Parent Link: "[[Main Index]]"
 **Endgame:** 
 - To play chess at my own level, as Capablanca would.
 - Dvoretsky but for natural chess, explaining to others the values of a natural approach rather than memorization.
+- ChessTempo Targets: 
+	- Standard Tactics: 1900-2100 
+	- Blitz Tactics: 1700-1800
+	- Endgame Benchmark 2100
+	- Endgame Theory 2000
 
 Scheduling:
 - [[03_Knowledge_Domains/Chess/Training Methodology/Training Plan|Training Plan]]
 - [[Practice]]
+- [[Tactics Checklist]]
 
 Tracking:
 - [[Endgame Logs]]
@@ -24,6 +30,7 @@ Theory:
 - [[Principles|Opening Principles]]
 - [[Endgames Index]]
 - [[Chess Masters]]
+
 
 Look at ±2.0 swings first,
 then ±1.0, 

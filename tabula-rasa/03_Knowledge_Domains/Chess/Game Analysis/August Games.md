@@ -1,6 +1,6 @@
 ---
 date created: Friday, August 1st 2025, 1:00:59 pm
-date modified: Friday, August 15th 2025, 9:01:56 am
+date modified: Friday, August 15th 2025, 9:24:56 pm
 Parent Link: "[[Chess Index]]"
 ---
 
@@ -349,6 +349,93 @@ Key Takeaway: Trust in the technique and process, keep practicing to build some 
 
 ***
 
+## [NintailsChess (912) VS therealwennis (900)](https://www.chess.com/analysis/library/35Yaer2aUv/analysis)
+
+Date: 15/08/35
+Time Control: 15 + 10
+Pieces: Black
+Opening: Caro-kann
+Result: Win (Due to resignation)
+Moves: 11
+
+***Turning Point:***
+I saw a tactical idea since my opponent didn't castle and only considered his attack. Which resulted in him losing a knight, then blundering again and losing a bishop.
+
+A good idea for me to remember is that in the Panov Attack of the Caro-kann, you want to take with the knight if white exchanges pawns, as the knight becomes very hard to remove.
+
+***What is the simplest good move?:***
+
+Blocking the check would be better with my bishop rather than my knight (7. Bb5+ Nd7), because it limits what white can do, by blocking with a knight our opponent can build up an attack/pressure on the square, where as with the bishop, he either has to trade down - which is already my general plan - or give me free development. Whist this slight inaccuracy did not matter this game, there will be a time when it does.
+
+Blocking with bishop is also better as it doesn't hinder development.
+
+Key Learning:
+- Opening: Good tactical awareness and knowledge of taking with the correct piece resulted in a quick resignation. I was up a knight and bishop by move 11.
+- Middlegame: N/A
+- Endgame: N/A
+
+Key Takeaway: Consider your opponents moves and don't get tunnel visioned into an attack like our opponent did here.
+
+***
+## [NintailsChess (919) VS wildmathhead (883)](https://www.chess.com/analysis/library/qV7AJkkcn/analysis)
+
+Date: 15/08/25
+Time Control: 15 + 10
+Pieces: White
+Opening: London System
+Result: Win
+Moves: 52
+
+***Turning Point:***
+- 8. Qb3
+	- This move struck at blacks b pawn, but enabled tactical complications as he defended with his knight. He defended incorrectly and blundered a knight. This is what caused me to win the game, I could of been more topical with it and forcing. But I felt some nervousness and didn't strike right away.
+
+***What is the simplest good move?:***
+- 24. Ng6
+	- This can be done whilst also winning a pawn, as my knight is free to move anywhere due to the discovered attack on the queen.
+- 25. Rd1
+	- My back rank was already defended by my rook and queen, but I panicked and move my rook to defend the back rank.
+- 34. Bf4
+	- A much more elegant way to end the game. As you pin the queen to the king, then it is mate in 2.
+	- I traded down and won the game by move 52.
+
+Key Learning:
+- Opening: The opening went solidly and I was able to develop my pieces without trouble.
+- Middlegame: Controlling nervousness and confidence.
+- Endgame: Solid technique of pushing the passed pawn, just remember when going for mating attacks or checks to think through other moves, I simply traded down my piece rather than going for a tactic, so in essence it didn't really matter.
+
+Key Takeaway: Keep playing solid and simple chess, with a bit of refinement with blunder catching and practice this formula really works.
+
+***
+
+## [NintailsChess (926) VS Nitish030 (889)](https://www.chess.com/analysis/game/live/141926632662/analysis)
+
+Date: 15/08/25
+Time Control: 15 + 10
+Pieces: White
+Opening: London System
+Result: Win
+Moves: 23
+
+***Turning Point:***
+- Moves 10-12.
+	- I struck in the centre with e4, after my opponent pushed their pawn to e5, I captured in d5 pawn setting up a skewer on his queen and rook, which my opponent didn't see and I traded a bishop for a knight + queen.
+
+This enabled me to trade down pieces and win the game quickly, as my opponent gave up.
+
+***What is the simplest good move?:***
+
+I simply tried to trade down pieces that were somewhat equal, I did what Marshall did and felt as if my dark bishop was weak so I traded it off, then I kept making solid developing moves before my opponent tried to move his knight forward to go for a quick checkmate, I struck in the centre and then won.
+
+Key Learning:
+- Opening: Again, I'm having little problems with the London system. I seem to get pieces where I want them to do be, even though the opening doesn't have as much of a strong win immediately type aggression, it's working well for me.
+- Middlegame: The best defence to an attack, is another attack.
+- Endgame: N/A
+
+Key Takeaway: Defending by creating simple threats and developing pieces is amazing.
+
+***
+
 ## [NintailsChess (904) VS ()]()
 
 Date: 
@@ -356,6 +443,28 @@ Time Control: 15 + 10
 Pieces: 
 Opening:
 Result: 
+Moves:
+
+***Turning Point:***
+
+***What is the simplest good move?:***
+
+Key Learning:
+- Opening: 
+- Middlegame: 
+- Endgame: 
+
+Key Takeaway: 
+
+***
+## [NintailsChess (904) VS ()]()
+
+Date: 
+Time Control: 15 + 10
+Pieces: 
+Opening:
+Result: 
+Moves:
 
 ***Turning Point:***
 

@@ -1,6 +1,6 @@
 ---
 date created: Friday, July 11th 2025, 8:56:08 pm
-date modified: Thursday, August 14th 2025, 1:00:29 pm
+date modified: Tuesday, August 19th 2025, 2:11:42 pm
 Parent Link: "[[Chess Index]]"
 ---
 
@@ -404,8 +404,50 @@ This is a mate in one idea, that I missed and played out.
 
 ***
 
+## Date 15/08/25:
+
+Medium Set - Benchmark 
+
+Positions:
+- Attempted: 25
+- Success Rate: 60%
+- Success with poor technique: 8%
+- Failure rate 32%
+- Common errors: Rook endgames, not being able to promote my pawn.
+
+**Use a consistent process every time:**
+- List ALL candidate moves (yours AND opponent's)
+- Calculate forcing moves first (checks, captures, threats)
+- Look for your opponent's best defensive resources
+- Always ask: "What is my opponent's strongest reply?"
 
 
+***
+
+## Date 18/08/25:
+
+Medium Set - Benchmark 
+
+Positions:
+- Attempted: 13
+- Success Rate: 77%
+- Success with poor technique: 0%
+- Failure rate: 23%
+- Common errors: Preventing Pawn promotions with rooks/queens, converting a R+P vs R endgames.
+
+***
+
+
+## Date 19/08/25:
+
+Medium Set - Benchmark 
+
+Positions:
+- Attempted: 14
+- Success Rate: 64%
+- Success with poor technique: 21%
+- Failure rate: 14%
+- Common errors: Bishop and queen endgames, trying to split the bishop from the king, minor piece endgames take me more time to play winning solutions.
 
 
 
