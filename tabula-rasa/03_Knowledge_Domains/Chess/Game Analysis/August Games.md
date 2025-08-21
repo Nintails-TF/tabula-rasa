@@ -436,25 +436,36 @@ Key Takeaway: Defending by creating simple threats and developing pieces is amaz
 
 ***
 
-## [NintailsChess (904) VS ()]()
+## [NintailsChess (933) VS evichessu (895)](https://www.chess.com/analysis/library/XwtmaqYNa/analysis)
 
-Date: 
+Date: 15/08/2025
 Time Control: 15 + 10
-Pieces: 
-Opening:
-Result: 
-Moves:
+Pieces: White
+Opening: London System
+Result: Win
+Moves: 35
 
 ***Turning Point:***
 
+- 2. h6?
+	- When my opponents make nothing moves in the opening, should I abandon the London system and develop more aggressively?
+- 19. Raf1?
+	- I didn't see that my opponent could just win the pawn and then my queen I thought I had a checkmating attack, but didn't calculate fully.
+
 ***What is the simplest good move?:***
 
-Key Learning:
-- Opening: 
-- Middlegame: 
-- Endgame: 
+My bishop almost got trapped and I could of sacrificed the exchange, but I didn't.
 
-Key Takeaway: 
+I did have winning attacks in this game, but I couldn't see them fully. I knew I had something good, but couldn't realise it.
+
+My opponent blundered and I won.
+
+Key Learning:
+- Opening: Got confused as my opponent played nonsense moves.
+- Middlegame: I was up a pawn and his king was vulnerable, but I couldn't see my full attack.
+- Endgame: Opponent blundered and I saw his blunders and won.
+
+Key Takeaway: Trust the London system and ignore nonsense moves, now isn't the time to punish these.
 
 ***
 ## [NintailsChess (904) VS ()]()

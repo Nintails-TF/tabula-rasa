@@ -450,5 +450,17 @@ Positions:
 - Common errors: Bishop and queen endgames, trying to split the bishop from the king, minor piece endgames take me more time to play winning solutions.
 
 
+***
+
+## Date 21/08/25:
+
+Medium Set - Benchmark 
+
+Positions:
+- Attempted: 12
+- Success Rate: 83%
+- Success with poor technique:  8.5%
+- Failure rate: 8.5%
+- Common errors: Tactical patterns in endgames, sloppy technique but still winning in rook endgames, needs work but better than failure.
 
 
