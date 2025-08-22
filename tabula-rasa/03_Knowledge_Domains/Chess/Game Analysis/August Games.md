@@ -468,16 +468,18 @@ Key Learning:
 Key Takeaway: Trust the London system and ignore nonsense moves, now isn't the time to punish these.
 
 ***
-## [NintailsChess (904) VS ()]()
+## [NintailsChess (925) VS Hello2086 (953)](https://www.chess.com/analysis/game/live/142153999834/analysis)
 
-Date: 
+Date: 21/08/25
 Time Control: 15 + 10
-Pieces: 
-Opening:
-Result: 
-Moves:
+Pieces: Black
+Opening: Caro-Kann
+Result: Loss
+Moves: 38
 
 ***Turning Point:***
+- 16. h4
+- 
 
 ***What is the simplest good move?:***
 
