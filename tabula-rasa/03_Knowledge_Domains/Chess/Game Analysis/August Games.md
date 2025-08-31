@@ -480,6 +480,32 @@ Moves: 18
 ***Turning Point:***
 - 2. Nc3
 	- c4 is preferable as it prevents d4 and gives strong control over the centre. Nc3 is also not so good, as you can't push the c pawn in the future if you need to.
+- 12. Bg3?!
+	- It is much better to play Qh5 threatening checkmate, which I did see, but I didn't calculate further since I thought after g6 I have nothing, which isn't true, I have created light-squared weaknesses in the position.
+
+
+***What is the simplest good move?:***
+
+Against passive pawn moves, I don't need to break open the centre right away, I can secure a lead in development, activate my pieces, then strike.
+
+Key Learning:
+- Opening: Against passive pawn moves, develop rapidly.
+- Middlegame: Pay extra attention to moves that can strike at the queen and deflect it from a defender, e.g. the queen is a poor defender, unless she is safe.
+- Endgame: N/A
+
+Key Takeaway: You don't need to rush against passive play, you can build up your advantage and pressure, then explode when the mines are set.
+
+***
+## [NintailsChess (936) VS ]()
+
+Date: 30/08/2025
+Time Control: 15 + 10
+Pieces: White
+Opening: 
+Result: 
+Moves: 
+
+***Turning Point:***
 
 
 ***What is the simplest good move?:***
