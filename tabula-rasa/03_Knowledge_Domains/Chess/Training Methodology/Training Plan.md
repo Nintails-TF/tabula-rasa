@@ -3,72 +3,39 @@ date created: Tuesday, August 12th 2025, 2:11:55 pm
 date modified: Tuesday, August 12th 2025, 2:51:39 pm
 Parent Link: "[[Chess Index]]"
 ---
-
 # Scheduling
 
-## Capablanca's 4-Hour Practice Day:
+## Morning Session - Endgames:
 
-### **Hour 1: Foundation (Morning - Fresh Mind)**
+- Practice ChessTempo endgames from either the benchmark or theory set.
+	- Practice for an hour with a focus on accuracy and playing clean efficient moves.
+	- Any incorrect problem gets placed into a list and practiced tomorrow until it's easy.
 
-**60 min: Endgame Mastery**
-- Continue endgame study.
-- Focus on your weak spots: "kings in corners" and "removing pawns to maintain opposition"
-- Target: 15 positions, 100% accuracy (quality over quantity)
+OR
 
-**30 min: Master Game Study**
-- ONE master game, deeply understood.
-- Write down the key principle learned.
-- Add it to your "Chess Principles & Techniques" notes.
+- Look into theoretical endgames such as Rook Endgames.
+	- Learn how to play the Lucena's and Philidor's positions perfectly
+	- Expand to other common endgame types.
+	- Explain what you want to do and how to win them clearly.
 
-### **Hour 2-3: Serious Play (Peak Focus)**
+## Afternoon Session - Tactics:
 
-**60 min: Two Quality Games (30 min each)**
-- 15+10 or longer time control.
-- Before each move ask: "What would the most natural move be?".
-- Note critical positions during play.
+- Practice ChessTempo Standard Tactics set
+	- Practice for an hour with a focus on accuracy and calculating to the end of each variation before moving.
+	- Any incorrect problems gets placed into a list and that type of problem gets practiced tomorrow until it is easier.
 
-**30 min: Immediate Analysis**
-- Analyse without engine first.
-- Focus on your "One thing to remember" principle.
-- Only then check with engine.
+## Evening Session - Playing / Reviewing Games:
 
-### **Hour 4: Reinforcement (Relaxed Study)**
+- Play 2 classical time control games. (Usually 15+10)
+- Review without the engine first, focussing on the turning point of the game
+- Think about what the most simple good moves are.
+- Look at alternatives with the engine that make sense to you, not top engine lines but moves that follow principles, after reviewing the games.
+- Use information from the reviews to tailor focus on the games or training on what to do next.
 
-**20 min: Tactical Patterns**
-- Focus on removing the defender (you've noted this weakness multiple times!)
-- Simple forks and pins.
-- Simple mating patterns.
+OR
 
-**20 min: Opening Principles**
-- Not memorizing variations!
-- Understanding pawn structures from your games.
-- Why moves are played (like why Bf5 in the Caro-Kann)
-
-**20 min: Review & Log**
-- Update your game analysis.
-- Review today's endgame positions.
-- Plan tomorrow's focus based on today's weaknesses.
-
-
-***
-
-### **Beginner (800-1400) - Foundation Building**
-
-**3-4 hours daily**
-- Maximum pattern absorption needed
-- Every tactical motif is new
-- Rapid improvement phase with big rating jumps
-
-### **Intermediate (1200-1600) - Sustained Focus**
-
-**2-3 hours daily**
-- **Quality over quantity:** Less drilling, more understanding
-- **Deeper analysis:** Study fewer games but understand them completely
-- **Pattern recognition established:** Tactics become more intuitive
-
-### **Advanced (1600-2000) - Strategic Learning**
-
-**1.5-2 hours daily**
-- **Specialized study:** Focus on specific weaknesses
-- **Game analysis:** More time analysing own games vs studying masters
-- **Tournament preparation:** Opening preparation becomes important
+- Review a master game from Capablanca/Rubenstein/Karpov, etc.
+- Review without the engine and think about what each player would what to play.
+- Then look at the move order and think about ideas that could of been played.
+- Review with engine and look for any better ideas.
+- Take 1 principle from each player from the game.

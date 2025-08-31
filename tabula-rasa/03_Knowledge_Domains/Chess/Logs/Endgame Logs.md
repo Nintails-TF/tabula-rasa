@@ -463,4 +463,15 @@ Positions:
 - Failure rate: 8.5%
 - Common errors: Tactical patterns in endgames, sloppy technique but still winning in rook endgames, needs work but better than failure.
 
+***
 
+## Date 31/08/25:
+
+Medium Set - Benchmark 
+
+Positions:
+- Attempted: 15
+- Success Rate: 100%
+- Success with poor technique:  0%
+- Failure rate: 0%
+- Common errors: Rook endgames require me to think through the position much more than other endgames, such as queen vs a promoting pawn too, but to a lesser degree.

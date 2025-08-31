@@ -5,7 +5,7 @@ date modified: Tuesday, July 22nd 2025, 12:06:44 pm
 
 # Diet Plan
 
-# Diet Plan: Fitness & Anti-Inflammation Focus
+# Diet Plan: Fitness and Anti-Inflammation Focus
 
 ## Current Status
 

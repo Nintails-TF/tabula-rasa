@@ -468,23 +468,24 @@ Key Learning:
 Key Takeaway: Trust the London system and ignore nonsense moves, now isn't the time to punish these.
 
 ***
-## [NintailsChess (925) VS Hello2086 (953)](https://www.chess.com/analysis/game/live/142153999834/analysis)
+## [NintailsChess (936) VS shvesh777 (896)](https://www.chess.com/analysis/library/reV9s1Avi/analysis)
 
-Date: 21/08/25
+Date: 30/08/2025
 Time Control: 15 + 10
-Pieces: Black
-Opening: Caro-Kann
-Result: Loss
-Moves: 38
+Pieces: White
+Opening: Indian Game
+Result: Win
+Moves: 18
 
 ***Turning Point:***
-- 16. h4
-- 
+- 2. Nc3
+	- c4 is preferable as it prevents d4 and gives strong control over the centre. Nc3 is also not so good, as you can't push the c pawn in the future if you need to.
+
 
 ***What is the simplest good move?:***
 
 Key Learning:
-- Opening: 
+- Opening:
 - Middlegame: 
 - Endgame: 
 

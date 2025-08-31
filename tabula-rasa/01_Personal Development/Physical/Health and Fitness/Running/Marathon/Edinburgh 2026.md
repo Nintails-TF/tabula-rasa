@@ -5,6 +5,8 @@ date modified: Tuesday, August 19th 2025, 9:13:25 am
 
 # Marathon Training Plan - Edinburgh 2026
 
+
+
 ## 40-Week Progressive Build-Up (278 Days)
 
 ### PHASE 1: Base Building (Weeks 1-16)
