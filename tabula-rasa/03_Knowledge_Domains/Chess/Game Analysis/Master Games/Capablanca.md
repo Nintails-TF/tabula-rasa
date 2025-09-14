@@ -6,13 +6,14 @@ Parent Link: "[[Chess Index]]"
 
 # Capablanca:
 
+***
 ## Capablanca Vs Marshall, New York 1909, Round 1:
 
 **White:** Marshall
 **Black:** Capablanca
 **Opening:** QGD - Tarrasch Defence
 
-Move by move analysis
+## Move by Move Analysis:
 - 1. d4 d5
 - 2. c4 e6
 - 3. Nc3 c5

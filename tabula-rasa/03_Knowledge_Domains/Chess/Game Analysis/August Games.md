@@ -496,23 +496,26 @@ Key Learning:
 Key Takeaway: You don't need to rush against passive play, you can build up your advantage and pressure, then explode when the mines are set.
 
 ***
-## [NintailsChess (936) VS ]()
+## [NintailsChess (936) VS mychesd098 (900)](https://www.chess.com/analysis/library/2BQQ2agQyU/analysis)
 
-Date: 30/08/2025
+Date: 31/08/2025
 Time Control: 15 + 10
 Pieces: White
-Opening: 
-Result: 
-Moves: 
+Opening: Italian Game - Anti-fried liver
+Result: Loss
+Moves: 22
 
 ***Turning Point:***
-
+- 10. I missed a tactical idea about a pin I had on the king so I couldn't pick up a free bishop.
+- 22. Qxc6 I hung my queen and lost.
 
 ***What is the simplest good move?:***
+- 5. d3
+	- d4 is better as it is less passive and fights for the centre, though it does make the position more complex though. So I'm a bit torn.
 
 Key Learning:
-- Opening:
-- Middlegame: 
-- Endgame: 
+- Opening: Don't have fear to strike in the centre.
+- Middlegame: Keep an eye out for tactics.
+- Endgame: N/A
 
-Key Takeaway: 
+Key Takeaway: Relax and take your time before making moves. Consider what the opponents next move would be.
