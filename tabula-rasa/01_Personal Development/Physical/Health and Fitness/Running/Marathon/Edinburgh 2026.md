@@ -1,245 +1,304 @@
 ---
 date created: Tuesday, August 19th 2025, 9:12:05 am
-date modified: Tuesday, August 19th 2025, 9:13:25 am
+date modified: Monday, September 15th 2025, 11:49:30 am
 ---
 
-# Marathon Training Plan - Edinburgh 2026
+# 36-Week Edinburgh Marathon Training Plan
 
+_Starting: Today | Target: Sub-3:30 Edinburgh Marathon_
 
+## PLAN OVERVIEW
 
-## 40-Week Progressive Build-Up (278 Days)
+**Your Current Fitness:** 2:45 half-marathon capability  
+**Marathon Goal:** Sub-3:30 (4:58/km pace)  
+**Training Philosophy:** Mr Boring consistency with systematic progression
 
-### PHASE 1: Base Building (Weeks 1-16)
+---
 
-**Goal:** Build consistent mileage and running habit
+## PHASE 1: Base Building (Weeks 1-12)
 
-#### Weeks 1-4: Establishing Routine
+_Build weekly volume and running habit_
+### Weeks 1-4: Foundation Reset
+
+**Weekly Mileage:** 35-40km
+
+**Week 1 Sample:**
+- **Monday:** Rest or easy 5km
+- **Tuesday:** Easy 7km
+- **Wednesday:** Easy 6km
+- **Thursday:** Easy 7km
+- **Friday:** Rest
+- **Saturday:** Easy 5km
+- **Sunday:** Easy 10km
+- **Total:** 40km
+
+**Key Rules:**
+
+- All runs conversational pace (Zone 1-2)
+- Focus on time on feet, not pace
+- Listen to your body - modify if needed
+
+### Weeks 5-8: Building Volume
 
 **Weekly Mileage:** 40-45km
 
-**Sample Week:**
-- Monday: Rest or easy 6km
-- Tuesday: Easy 8km
-- Wednesday: Rest or easy 6km
-- Thursday: Easy 8km
-- Friday: Easy 6km
-- Saturday: Rest
-- Sunday: Easy 12km **Total: 40km**
+**Week 6 Sample:**
 
-#### Weeks 5-8: First Build
+- **Monday:** Easy 6km
+- **Tuesday:** Easy 8km + 4×20sec strides
+- **Wednesday:** Easy 6km
+- **Thursday:** Easy 8km
+- **Friday:** Rest
+- **Saturday:** Easy 6km
+- **Sunday:** Easy 12km
+- **Total:** 46km
+
+**Progression Notes:**
+
+- Add strides to Tuesday runs (build speed gradually)
+- Increase Sunday long run by 1-2km every other week
+- Maintain easy effort on all runs
+
+### Weeks 9-12: Structure Introduction
 
 **Weekly Mileage:** 45-50km
 
-**Sample Week 6:**
+**Week 10 Sample:**
 
-- Monday: Easy 6km
-- Tuesday: Easy 8km + 4 x 20sec strides
-- Wednesday: Easy 7km
-- Thursday: Easy 8km
-- Friday: Easy 6km
-- Saturday: Easy 6km
-- Sunday: Easy 14km **Total: 49km**
+- **Monday:** Rest
+- **Tuesday:** Easy 8km + 6×20sec strides
+- **Wednesday:** Easy 7km
+- **Thursday:** **Tempo 10km** (15min easy + 20min tempo + 15min easy)
+- **Friday:** Easy 6km
+- **Saturday:** Rest or easy 5km
+- **Sunday:** **Long run 15km**
+- **Total:** 51km
 
-#### Weeks 9-12: Adding Structure
+**New Elements:**
+
+- First tempo runs (comfortably hard effort)
+- Longer Sunday runs building toward 20km
+- Practice fueling on runs >90 minutes
+
+---
+
+## PHASE 2: Build Phase (Weeks 13-24)
+
+_Add marathon-specific training_
+
+### Weeks 13-16: Tempo Development
 
 **Weekly Mileage:** 50-55km
 
-**Sample Week 10:**
+**Week 14 Sample:**
 
-- Monday: Rest
-- Tuesday: Easy 8km + 6 x 20sec strides
-- Wednesday: Easy 8km
-- Thursday: Tempo 10km (20min easy + 20min tempo + 10min easy)
-- Friday: Easy 6km
-- Saturday: Easy 8km
-- Sunday: Long run 16km **Total: 56km**
+- **Monday:** Easy 7km
+- **Tuesday:** **Tempo 12km** (15min easy + 30min tempo + 15min easy)
+- **Wednesday:** Easy 8km
+- **Thursday:** Easy 8km
+- **Friday:** Easy 6km
+- **Saturday:** Easy 7km
+- **Sunday:** **Long run 18km**
+- **Total:** 66km
 
-#### Weeks 13-16: Tempo Introduction
-
-**Weekly Mileage:** 52-58km
-
-**Sample Week 14:**
-
-- Monday: Easy 7km
-- Tuesday: Tempo 12km (15min easy + 30min tempo + 15min easy)
-- Wednesday: Easy 8km
-- Thursday: Easy 8km
-- Friday: Easy 6km
-- Saturday: Easy 7km
-- Sunday: Long run 18km **Total: 66km**
-
----
-
-### PHASE 2: Build Phase (Weeks 17-32)
-
-**Goal:** Increase volume and add marathon-specific work
-
-#### Weeks 17-20: Volume Increase
+### Weeks 17-20: Volume Peak
 
 **Weekly Mileage:** 55-60km
 
-**Sample Week 18:**
+**Week 18 Sample:**
 
-- Monday: Easy 8km
-- Tuesday: Tempo 12km (15min easy + 35min tempo + 10min easy)
-- Wednesday: Easy 8km
-- Thursday: Easy 10km
-- Friday: Easy 6km
-- Saturday: Easy 8km
-- Sunday: Long run 20km **Total: 72km**
+- **Monday:** Easy 8km
+- **Tuesday:** **Intervals 12km** (20min easy + 5×1km @ 5k pace + 10min easy)
+- **Wednesday:** Easy 8km
+- **Thursday:** Easy 10km
+- **Friday:** Easy 6km
+- **Saturday:** Easy 8km
+- **Sunday:** **Long run 20km**
+- **Total:** 72km
 
-#### Weeks 21-24: Peak Base Building
+### Weeks 21-24: Marathon Pace Introduction
 
-**Weekly Mileage:** 58-65km
+**Weekly Mileage:** 58-63km
 
-**Sample Week 22:**
+**Week 22 Sample:**
 
-- Monday: Easy 8km
-- Tuesday: Intervals 12km (20min easy + 5 x 1km @ 5k pace + 10min easy)
-- Wednesday: Easy 10km
-- Thursday: Easy 10km
-- Friday: Easy 6km
-- Saturday: Easy 8km
-- Sunday: Long run 22km **Total: 76km**
+- **Monday:** Easy 8km
+- **Tuesday:** **Tempo 14km** (15min easy + 40min tempo + 15min easy)
+- **Wednesday:** Easy 10km
+- **Thursday:** **Marathon Pace 12km** (15min easy + 30min @ 4:58/km + 15min easy)
+- **Friday:** Easy 6km
+- **Saturday:** Easy 8km
+- **Sunday:** **Long run 22km**
+- **Total:** 80km
 
-#### Weeks 25-28: Marathon Pace Introduction
+**Key Focus:**
 
-**Weekly Mileage:** 60-65km
-
-**Sample Week 26:**
-
-- Monday: Easy 8km
-- Tuesday: Tempo 14km (15min easy + 40min tempo + 15min easy)
-- Wednesday: Easy 10km
-- Thursday: Marathon pace 12km (15min easy + 30min @ marathon pace + 15min easy)
-- Friday: Easy 6km
-- Saturday: Easy 8km
-- Sunday: Long run 24km **Total: 82km**
-
-#### Weeks 29-32: Advanced Marathon Training
-
-**Weekly Mileage:** 60-68km
-
-**Sample Week 30:**
-
-- Monday: Easy 10km
-- Tuesday: Intervals 14km (20min easy + 6 x 1km @ 5k pace + 15min easy)
-- Wednesday: Easy 10km
-- Thursday: Marathon pace 14km (15min easy + 40min @ marathon pace + 15min easy)
-- Friday: Easy 6km
-- Saturday: Easy 8km
-- Sunday: Long run 26km **Total: 88km**
+- Practice marathon pace (4:58/km) in training
+- Build comfort at target race pace
+- Start practicing race nutrition
 
 ---
 
-### PHASE 3: Peak Training (Weeks 33-37)
+## PHASE 3: Peak Training (Weeks 25-32)
 
-**Goal:** Peak mileage and race-specific preparation
+_Peak fitness and race preparation_
 
-#### Weeks 33-35: Peak Volume
-
-**Weekly Mileage:** 65-70km
-
-**Sample Week 34:**
-
-- Monday: Easy 10km
-- Tuesday: Tempo 16km (15min easy + 45min tempo + 15min easy)
-- Wednesday: Easy 12km
-- Thursday: Marathon pace 16km (20min easy + 45min @ marathon pace + 15min easy)
-- Friday: Easy 6km
-- Saturday: Easy 10km
-- Sunday: Long run 30km (include 20km @ marathon pace) **Total: 100km**
-
-#### Weeks 36-37: Final Preparation
+### Weeks 25-28: Quality Focus
 
 **Weekly Mileage:** 60-65km
 
-**Sample Week 36:**
+**Week 26 Sample:**
 
-- Monday: Easy 8km
-- Tuesday: Tempo 14km (15min easy + 40min tempo + 15min easy)
-- Wednesday: Easy 10km
-- Thursday: Marathon pace 14km (15min easy + 35min @ marathon pace + 15min easy)
-- Friday: Easy 6km
-- Saturday: Easy 8km
-- Sunday: Final long run 32-35km **Total: 92km**
+- **Monday:** Easy 10km
+- **Tuesday:** **Intervals 14km** (20min easy + 6×1km @ 5k pace + 15min easy)
+- **Wednesday:** Easy 10km
+- **Thursday:** **Marathon Pace 14km** (15min easy + 40min @ 4:58/km + 15min easy)
+- **Friday:** Easy 6km
+- **Saturday:** Easy 8km
+- **Sunday:** **Long run 25km**
+- **Total:** 87km
+
+### Weeks 29-32: Peak Volume
+
+**Weekly Mileage:** 62-68km
+
+**Week 30 Sample (Peak Week):**
+
+- **Monday:** Easy 10km
+- **Tuesday:** **Tempo 16km** (15min easy + 45min tempo + 15min easy)
+- **Wednesday:** Easy 12km
+- **Thursday:** **Marathon Pace 16km** (20min easy + 45min @ 4:58/km + 15min easy)
+- **Friday:** Easy 6km
+- **Saturday:** Easy 10km
+- **Sunday:** **Long run 30km** (include 20km @ marathon pace)
+- **Total:** 100km
+
+**Peak Training Elements:**
+
+- Longest runs up to 32km
+- Practice race day nutrition and hydration
+- Simulate race conditions (timing, fueling, pacing)
 
 ---
 
-### PHASE 4: Taper (Weeks 38-40)
+## PHASE 4: Taper (Weeks 33-36)
 
-**Goal:** Maintain fitness while recovering for race day
+_Maintain fitness while recovering for race day_
 
-#### Week 38: First Taper
+### Week 33: First Taper
 
-**Weekly Mileage:** 45km
+**Weekly Mileage:** 50km
 
-**Sample Week 38:**
+**Sample Week:**
 
-- Monday: Easy 6km
-- Tuesday: Tempo 10km (10min easy + 20min tempo + 10min easy)
-- Wednesday: Easy 6km
-- Thursday: Easy 8km + 4 x 20sec strides
-- Friday: Rest
-- Saturday: Easy 6km
-- Sunday: Easy 9km **Total: 45km**
+- **Monday:** Easy 8km
+- **Tuesday:** **Tempo 12km** (10min easy + 30min tempo + 10min easy)
+- **Wednesday:** Easy 8km
+- **Thursday:** **Marathon Pace 10km** (easy + 20min @ 4:58/km + easy)
+- **Friday:** Rest
+- **Saturday:** Easy 6km
+- **Sunday:** **Final long run 16km**
+- **Total:** 50km
 
-#### Week 39: Final Prep
+### Week 34: Continued Taper
+
+**Weekly Mileage:** 40km
+
+### Week 35: Final Prep
 
 **Weekly Mileage:** 30km
 
-**Sample Week 39:**
+**Sample Week:**
 
-- Monday: Easy 6km
-- Tuesday: Easy 8km with 3 x 30sec @ marathon pace
-- Wednesday: Easy 6km
-- Thursday: Rest
-- Friday: Easy 4km + 3 x 20sec strides
-- Saturday: Rest
-- Sunday: Easy 6km **Total: 30km**
+- **Monday:** Easy 6km
+- **Tuesday:** Easy 8km + 3×30sec @ marathon pace
+- **Wednesday:** Easy 6km
+- **Thursday:** Rest
+- **Friday:** Easy 4km + 3×20sec strides
+- **Saturday:** Rest
+- **Sunday:** Easy 6km
+- **Total:** 30km
 
-#### Week 40: Race Week
+### Week 36: Race Week
 
 **Weekly Mileage:** 20km + Race
 
 **Race Week:**
 
-- Monday: Easy 4km
-- Tuesday: Easy 6km with 3 x 20sec strides
-- Wednesday: Easy 4km
-- Thursday: Rest
-- Friday: Easy 3km shakeout + 3 x 15sec strides
-- Saturday: Rest + prep
-- **Sunday: RACE DAY! Edinburgh Marathon** **Total: 17km + 42.2km**
+- **Monday:** Easy 4km
+- **Tuesday:** Easy 6km + 3×20sec strides
+- **Wednesday:** Easy 4km
+- **Thursday:** Rest
+- **Friday:** Easy 3km shakeout + 3×15sec strides
+- **Saturday:** Rest + race prep
+- **Sunday:** **RACE DAY - Edinburgh Marathon!**
 
 ---
 
-## Key Training Notes
+## TRAINING PACE GUIDE
 
-### Pace Guidelines:
+Based on your 2:45 half-marathon fitness:
 
-- **Easy pace:** Can hold conversation, 70-80% of weekly volume
-- **Tempo pace:** Comfortably hard, ~15-20 seconds slower than 10k pace
-- **Marathon pace:** Target race pace (11:27/mile for 5:00 goal)
-- **5k pace:** Hard but controlled, use for interval training
+### Current Estimated Paces:
 
-### Weekly Structure Rules:
+- **Easy runs:** 5:45-6:15/km (conversational)
+- **Tempo runs:** 4:30-4:45/km (comfortably hard)
+- **5k pace:** 4:10-4:20/km (for intervals)
+- **Current marathon pace:** ~5:15/km
 
-1. **One hard day, one easy day** - never two hard days back-to-back
+### Target Paces (by Week 30):
+
+- **Easy runs:** 5:30-6:00/km
+- **Tempo runs:** 4:15-4:30/km
+- **Marathon pace:** 4:58/km (3:30 goal)
+- **5k pace:** 4:00-4:10/km
+
+---
+
+## WEEKLY STRUCTURE RULES
+
+1. **Never two hard days back-to-back**
 2. **Long run always followed by easy day or rest**
-3. **Listen to your body** - adjust if feeling overly fatigued
-4. **Consistency over perfection** - hitting 90% of planned mileage is better than 100% one week and 60% the next
+3. **80% easy pace, 20% harder efforts**
+4. **Increase weekly mileage by max 10%**
+5. **Every 4th week is a cutback week (-15-20%)**
 
-### Progression Philosophy:
+---
 
-- **Increase weekly mileage by no more than 10% per week**
-- **Every 4th week is a cutback week** (reduce by 15-20%)
-- **Build slowly and steadily** - this is a marathon, not a sprint!
+## MONTHLY TARGETS
 
-### Mr Boring Success Formula:
+### Month 3 (Week 12):
 
-✅ Show up every day  
-✅ Run easy when it says easy  
-✅ Hit your weekly mileage targets  
-✅ Get adequate sleep and nutrition  
-✅ Stay injury-free through consistency
+- Comfortable 15km long runs
+- 40min tempo runs
+- 50km weekly mileage sustained
+
+### Month 6 (Week 24):
+
+- 25km long runs with confidence
+- Marathon pace feels sustainable for 40+ minutes
+- 60km+ weekly mileage
+
+### Month 8 (Week 32):
+
+- 30-32km long runs completed
+- Marathon pace for 45+ minutes feels controlled
+- Peak fitness achieved
+
+### Race Day:
+
+- **Primary Goal:** Sub-3:30 (4:58/km)
+- **Secondary Goal:** 3:35 (5:06/km)
+- **Completion Goal:** 4:00 (5:41/km)
+
+---
+
+## SUCCESS REMINDERS
+
+✅ **Consistency beats perfection** - aim for 90% completion  
+✅ **Easy means easy** - don't let ego drive easy run pace  
+✅ **Trust the process** - fitness builds gradually over months  
+✅ **Listen to your body** - modify when needed  
+✅ **Practice everything** - nutrition, pacing, gear in training
+
+Your current 2:45 half-marathon fitness gives you an excellent foundation. With 36 weeks of systematic training, sub-3:30 is absolutely achievable. The key is patience and consistency - let the fitness build naturally without rushing the process.
