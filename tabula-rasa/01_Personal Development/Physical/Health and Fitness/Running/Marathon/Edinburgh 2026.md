@@ -1,6 +1,6 @@
 ---
 date created: Tuesday, August 19th 2025, 9:12:05 am
-date modified: Monday, September 15th 2025, 11:49:30 am
+date modified: Wednesday, October 1st 2025, 4:13:29 pm
 ---
 
 # 36-Week Edinburgh Marathon Training Plan
