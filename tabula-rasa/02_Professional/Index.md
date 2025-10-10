@@ -9,5 +9,5 @@ Parent Link: "[[Main Index]]"
 **Endgame:** Earn financial independence from working in tech.
 
 ## Plans:
-- [[Job Application Roadmap]]
-- [[Portfolio Roadmap]]
+- [[Security/Jobs/Job Application Roadmap]]
+- [[Security/Review/Portfolio Roadmap]]
