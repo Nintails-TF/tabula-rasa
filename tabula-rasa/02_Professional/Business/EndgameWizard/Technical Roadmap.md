@@ -1,6 +1,7 @@
 ---
 date created: Tuesday, October 7th 2025, 11:34:00 am
-date modified: Tuesday, October 7th 2025, 11:48:32 am
+date modified: Friday, October 10th 2025, 3:08:55 pm
+Reminder: Update this as the project evolves.
 ---
 
 # EndgameWizard: Technical Roadmap
@@ -14,7 +15,6 @@ date modified: Tuesday, October 7th 2025, 11:48:32 am
 ## Tech Stack
 
 ### Frontend
-
 - **Framework:** React 18+ with Vite (faster than Create React App)
 - **Styling:** Tailwind CSS (rapid development, no CSS file management)
 - **Chess UI:** react-chessboard (drag-and-drop, mobile-friendly)
@@ -24,7 +24,6 @@ date modified: Tuesday, October 7th 2025, 11:48:32 am
 - **HTTP Client:** Axios or fetch API
 
 ### Backend
-
 - **Runtime:** Node.js 18+ with Express
 - **Database:** PostgreSQL (structured data, good for analytics later)
 - **ORM:** Prisma (type-safe, great DX)
@@ -32,7 +31,6 @@ date modified: Tuesday, October 7th 2025, 11:48:32 am
 - **Chess Engine:** Stockfish.js (client-side) or Lichess API (server-side)
 
 ### Deployment & Infrastructure
-
 - **Frontend Hosting:** Vercel (free tier, automatic deploys from GitHub)
 - **Backend Hosting:** Railway or Render (free tier with database)
 - **Database:** Included with Railway/Render free tier
@@ -41,11 +39,10 @@ date modified: Tuesday, October 7th 2025, 11:48:32 am
 - **CI/CD:** GitHub Actions (optional, Vercel handles frontend automatically)
 
 ### Development Tools
-
 - **Code Editor:** VS Code
 - **API Testing:** Postman or Thunder Client
 - **Database Client:** TablePlus or pgAdmin
-- **Design/Mockups:** Figma (free tier) or pen and paper
+- **Design/Mockups:** app.diagrams.net or pen and paper
 
 ---
 
@@ -85,13 +82,13 @@ date modified: Tuesday, October 7th 2025, 11:48:32 am
 
 **Day 1-2: Environment Setup (2 hours)**
 
-- [ ] Purchase endgamewizard.com domain
-- [ ] Set up GitHub repository
-- [ ] Initialize React app with Vite: `npm create vite@latest endgame-wizard -- --template react`
-- [ ] Install dependencies: `npm install react-chessboard chess.js tailwindcss`
-- [ ] Configure Tailwind CSS
-- [ ] Set up ESLint and Prettier
-- [ ] Create basic folder structure
+- [x] Purchase endgamewizard.com domain
+- [x] Set up GitHub repository
+- [x] Initialize React app with Vite: `npm create vite@latest endgame-wizard -- --template react`
+- [x] Install dependencies: `npm install react-chessboard chess.js tailwindcss`
+- [x] Configure Tailwind CSS
+- [x] Set up ESLint and Prettier
+- [x] Create basic folder structure
 
 **Day 3-4: Basic Chess Board (2-3 hours)**
 
@@ -327,15 +324,15 @@ date modified: Tuesday, October 7th 2025, 11:48:32 am
 
 ```
 endgame-wizard/
-├── client/                    # React frontend
+├── frontend/                    # React frontend
 │   ├── src/
-│   │   ├── components/
+│   │   ├── components/ # Re-useable elements
 │   │   │   ├── ChessBoard.jsx
 │   │   │   ├── Timer.jsx
 │   │   │   ├── Position.jsx
 │   │   │   ├── Gauntlet.jsx
 │   │   │   └── Modal.jsx
-│   │   ├── pages/
+│   │   ├── pages/ # Actual page structure
 │   │   │   ├── Login.jsx
 │   │   │   ├── Register.jsx
 │   │   │   ├── Home.jsx
@@ -351,7 +348,7 @@ endgame-wizard/
 │   ├── public/
 │   └── package.json
 │
-├── server/                    # Node.js backend
+├── backend/                    # Node.js backend
 │   ├── src/
 │   │   ├── routes/
 │   │   │   ├── auth.js

@@ -1,6 +1,6 @@
 ---
 date created: Sunday, October 5th 2025, 10:48:39 pm
-date modified: Sunday, October 5th 2025, 10:52:14 pm
+date modified: Tuesday, October 7th 2025, 5:08:24 pm
 Link: https://www.youtube.com/@benjjjaamiinn
 ---
 
@@ -27,3 +27,6 @@ No fancy strategy will make money in the long term if the option price is fair, 
 Using Implied volatility to figure out what options are cheap vs expensive are key to actually making money.
 
 
+# Biotech:
+
+*If something is binary - a treatment either works or doesn't work - then if it doesn't work, then it's a complete bust. Hence risky as fuck.*

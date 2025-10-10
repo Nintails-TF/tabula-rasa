@@ -1,6 +1,7 @@
 ---
 date created: Tuesday, October 7th 2025, 10:52:12 am
-date modified: Tuesday, October 7th 2025, 11:30:28 am
+date modified: Friday, October 10th 2025, 3:01:42 pm
+Reminder: Update this as the project evolves.
 ---
 
 # EndgameWizard Business Plan
@@ -13,7 +14,7 @@ The goal is to create an addictive daily habit around endgame improvement - some
 
 **Brand:** EndgameWizard  
 **Tagline:** "The fun way to stop losing won endgames"  
-**Domain:** endgamewizard.com (available)
+**Domain:** endgamewizard.com (secured)
 
 ---
 
