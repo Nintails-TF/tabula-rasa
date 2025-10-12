@@ -1,6 +1,6 @@
 ---
 date created: Saturday, October 11th 2025, 10:17:46 am
-date modified: Sunday, October 12th 2025, 3:04:52 pm
+date modified: Sunday, October 12th 2025, 3:08:13 pm
 ---
 
 # CDSA Academy Modules
@@ -12,7 +12,7 @@ date modified: Sunday, October 12th 2025, 3:04:52 pm
 
 ### SIEM & Log Analysis
 - [Security Monitoring and SIEM Fundamentals](./Academy%20Modules/Security%20monitoring%20and%20SIEM%20Fundamentals.md)
-- [Understanding Log Sources & Investigating with Splunk](./Academy%20Modules/Understanding%20Log%20Sources%20%26%20Investigating%20with%20Splunk.md)
+- [[Academy Modules/Understanding Log Sources & Investigating with Splunk|Understanding Log Sources & Investigating with Splunk]]
 - [Detecting Windows Attacks with Splunk](./Academy%20Modules/Detecting%20Windows%20Attacks%20with%20Splunk.md)
 
 ### Threat Detection & Hunting
