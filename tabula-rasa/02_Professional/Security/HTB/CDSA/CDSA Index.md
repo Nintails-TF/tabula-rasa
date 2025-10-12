@@ -1,8 +1,38 @@
 ---
-date created: Saturday, October 11th 2025, 9:57:46 am
-date modified: Saturday, October 11th 2025, 10:07:28 am
+date created: Saturday, October 11th 2025, 10:17:46 am
+date modified: Sunday, October 12th 2025, 3:04:52 pm
 ---
 
+# CDSA Academy Modules
+
+### Incident Response & Forensics
+- [Incident Handling Process](./Academy%20Modules/Incident%20handling%20Process.md)
+- [Introduction to Digital Forensics](./Academy%20Modules/Introduction%20to%20Digital%20Forensics.md)
+- [Security Incident Reporting](./Academy%20Modules/Security%20Incident%20Reporting.md)
+
+### SIEM & Log Analysis
+- [Security Monitoring and SIEM Fundamentals](./Academy%20Modules/Security%20monitoring%20and%20SIEM%20Fundamentals.md)
+- [Understanding Log Sources & Investigating with Splunk](./Academy%20Modules/Understanding%20Log%20Sources%20%26%20Investigating%20with%20Splunk.md)
+- [Detecting Windows Attacks with Splunk](./Academy%20Modules/Detecting%20Windows%20Attacks%20with%20Splunk.md)
+
+### Threat Detection & Hunting
+- [Introduction to Threat Hunting and Hunting with Elastic](./Academy%20Modules/Introduction%20to%20Threat%20Hunting%20and%20Hunting%20with%20Elastic.md)
+- [YARA & Sigma for SOC Analysts](./Academy%20Modules/YARA%20%26%20Sigma%20for%20SOC%20Analysts.md)
+
+### Windows Security
+- [Windows Event Logs & Finding Evil](./Academy%20Modules/Windows%20Event%20Logs%20%26%20Finding%20Evil.md)
+- [Windows Attacks & Defence](./Academy%20Modules/Windows%20Attacks%20%26%20Defence.md)
+
+### Network Analysis
+- [Into to Network Traffic Analysis](./Academy%20Modules/Into%20to%20Network%20Traffic%20Analysis.md)
+- [Intermediate Network Traffic Analysis](./Academy%20Modules/Intermediate%20Network%20Traffic%20Analysis.md)
+- [Working with IDS & IPS](./Academy%20Modules/Working%20with%20IDS%20%26%20IPS.md)
+
+### Malware Analysis
+- [Introduction to Malware Analysis](./Academy%20Modules/Introduction%20to%20Malware%20Analysis.md)
+- [JavaScript Deobfuscation](./Academy%20Modules/JavaScript%20Deobfuscation.md)
+
+***
 # Learning Outcomes
 
 ## Key Skills:
@@ -52,5 +82,3 @@ date modified: Saturday, October 11th 2025, 10:07:28 am
     - **Amcache** - Windows artifact tracking program executions and installations
     - **BAM/DAM** (Background Activity Moderator) - Windows artifact for tracking application execution times
     - **SRUM** (System Resource Usage Monitor) - Windows database tracking application and network usage
-
-
