@@ -17,6 +17,7 @@ Parent Link: "[[Main Index]]"
 
 Scheduling:
 - [[Tactics Checklist]]
+- [[Training Methodology/CCT Model|CCT Model]]
 
 Tracking:
 - [[Endgame Logs]]
