@@ -71,6 +71,7 @@ Duration: 60 Minutes
 ## Tomorrow's Focus:
 
 *One Thing:*
+Doing CCT on obvious moves, especially when winning
 
 ---
 
