@@ -1,6 +1,6 @@
 ---
 date created: Saturday, October 11th 2025, 10:07:40 am
-date modified: Thursday, October 16th 2025, 12:46:40 pm
+date modified: Thursday, October 16th 2025, 5:53:23 pm
 Parent Link: "[[../CDSA Index|CDSA Index]]"
 ---
 
@@ -10,6 +10,7 @@ Parent Link: "[[../CDSA Index|CDSA Index]]"
 
 ## Module Overview:
 - [x] Understand core SIEM concepts and terminology
+	- [x] Extensions notes and through understanding.
 - [ ] Configure and navigate Elastic Stack 
 	- [ ] Understand other potential tools other than Elastic stack.
 - [ ] Define SOC roles and responsibilities 
@@ -22,15 +23,13 @@ Parent Link: "[[../CDSA Index|CDSA Index]]"
 ***
 # SIEM Fundamentals:
 
-## Definition and Fundamentals:
-
-### What is SIEM? (Security Information and Event Management)
+## What is SIEM? (Security Information and Event Management)
 
 The purpose of SIEMs is that they collect information across an environment. In essence they and the first line of human intervention in the system, if preventative controls such as firewalls, patches, access controls do not work.
 
 SIEMs are the eyes and ears of your security architecture, not the shield. They enable people to monitor a system in real-time and respond to threats and alerts within the system.
 
-### What Do SIEMS Do?
+## What Do SIEMS Do?
 
 The flow of a SIEM is as followed:
 1. **Data ingestion or Collection** 
@@ -51,7 +50,7 @@ SIEMs are used by IT personnel to detect cyberattacks that are in motion or resp
 
 SIEMs are the cornerstone of an organisations security tactics, giving people a complete working method for identifying, managing, and reporting on threats.
 ***
-## The Evolution and History of SIEM:
+# The Evolution and History of SIEM:
 
 SIEMs first came onto scene due to a partnership between two Garner analysts which combined Security Information Management (SIM) and Security Event Management (SEM). They [published this idea in 2005](https://www.tandfonline.com/doi/abs/10.1201/1086.1065898X/45390.14.3.20050701/89149.6) initially, since them SIEMs have evolved.
 
@@ -64,7 +63,7 @@ I've written a [[../Extension Notes/History of SIEMs|History of SIEMs]] that den
 - **Core Evolution**: Passive log aggregation → Intelligent correlation → AI-assisted autonomous defence.
 - **Major Barrier**: Regulated industries require explainable decisions; "black box" AI lacks auditability and trust.
 ***
-## How Do SIEMs Work?:
+# How Do SIEMs Work?:
 
 ## Basic Overview:
 
@@ -78,7 +77,7 @@ SIEMs work in conjunction with IPS and IDS by processing the logs and other data
 SIEMs differ from regular log-aggregation tools as they conduct various techniques to meet the demands of a security team or business.
 ### Parsing:
 
-Parsing in a SIEM involves converting raw, unstructured logs into structured fields that can be searched, correlated, and analyzed. This ensures logs from different sources share a consistent format through **normalization**, allowing the SIEM to effectively centralize and interpret data. 
+Parsing in a SIEM involves converting raw, unstructured logs into structured fields that can be searched, correlated, and analysed. This ensures logs from different sources share a consistent format through **normalization**, allowing the SIEM to effectively centralize and interpret data. 
 
 The process typically includes **pattern matching** (using regex to identify log structures), **field extraction** (labelling values like user, IP, or event ID), and **type conversion** (transforming strings into usable data types such as integers or timestamps).
 
@@ -115,9 +114,20 @@ Query languages let analysts search, filter, and analyse SIEM data, with differe
 For efficiency, always use **indexed fields, time bounds, and early filters**. Avoid leading wildcards, full-index scans, heavy regex, or unnecessary field extraction to keep queries fast and scalable.
 
 [[../Extension Notes/Query Languages|Query languages in detail]]
+***
+# The Architecture of SIEMs:
+
+> [!TODO] Talk about the deployment of SIEMs
 
 ***
-## SIEM Business Requirements & Use Cases:
+# What SIEMs Cannot Do:
+
+> [!TODO] Explain the limits of current SIEMs
+
+***
+# SIEM Business Requirements & Use Cases:
+
+> [!TODO] Revise and detail business cases in more detail
 
 ### Log Aggregation and Normalisation:
 
@@ -140,6 +150,8 @@ SIEM solutions are mandatory due to government rules in certain organisations an
 
 SIEMs help gather data which is necessary for audits and regulators.
 
+### Real-world Attack Scenarios:
+
 ## Why Do We Need SIEMs?
 
 1. IT teams need a place where they can easily access all logs and data, especially for bigger organisations
@@ -151,8 +163,68 @@ SIEMs help gather data which is necessary for audits and regulators.
 
 ## What is the Elastic Stack?:
 
+The Elastic stack, is an open-source collection that consists of three main applications working together (Elasticsearch, Logstash, and Kibana) with other components such as Kafka, RabbitMQ, Redis, and nginx layered on-top for resource-intensive environments
+
+Most Elastic Solutions will look like the following:
+![[../../../../../04_Reference/Pictures/elastic-stack-topography.png]]
+
+An enterprise solution could be structured like so:
+![[../../../../../04_Reference/Pictures/elastic-stack-enterprise-topography.png]]
+
+***
+## Components of the Elasticstack:
+
+### Elasticsearch:
+
+**Elasticsearch** is JSON-based searching engine, designed with RESTful APIs. The job of it is to handle indexing, storing and querying. **Elasticsearch** works in conjunction with **Logstash** to perform analytic operations on the log files processed by **Logstash.**
+### Logstash:
+
+**Logstash** is responsible for collecting, transforming, and transporting logs across the system. It's core strength is consolidating information from different sources and then normalising them. **Logstash** operates with three main contexts in mind:
+
+1. Process Input
+	1. **Logstash** ingests log file records from various remote sources and converts them into a uniform standard. It receiving logs through different [input plugins.](https://www.elastic.co/docs/reference/logstash/plugins/input-plugins) 
+	2. An analyst can configure **Logstash** to grab details from many different sources as needed. Such as: *files, TCP sockets, syslogs, S3 buckets, etc.*
+2. Transform and enrich log records
+	1. Logstash offers numerous ways to modify log records to append, format, or modify a log record with additional data. You can see a list of these on their documentation of [Logstash.](https://www.elastic.co/docs/reference/logstash/plugins/filter-plugins)
+	2. This can include: *age of an event, adding geographic details about an IP, looking up DNS, etc.*
+3. Send logs to **Elasticsearch**
+	1. Finally, now that input plugins and filter plugins have occurred, now **Logstash** uses [output plugins ](https://www.elastic.co/docs/reference/logstash/plugins/output-plugins)to transmit logs to Elasticsearch for further searching.
+
+### Kibana:
+
+**Kibana** serves as the visualisation tool for Elasticsearch documents. So that data can be viewed in Elasticsearch, then queries can be executed in **KQL (Kibana Query Language)** to filter for specific chunks or ranges of info.
+
+Additionally, **Kibana** simplifies the dashboard into readable tables, charts, and custom dashboards.
+### Beats:
+
+**Beats** is another component frequently used in the **Elasticstack.** The purpose of it is to be a lightweight, single-purpose data shipper that is installed on remote machines or devices to forward logs and metrics to **Logstash** or **Elasticsearch** directly.
+
+**Beats** simplifies the process of collecting data from various sources, meaning **Elasticstack** can get the information it needs without having to be pre-processed by **Logstash.**
+
+So the information could flow like so:
+`Beats` -> `Logstash` -> `Elasticsearch` -> `Kibana`
+`Beats` -> `Elasticsearch` -> `Kibana`
+
+***
+# The Elastic Stack as a SIEM Solution:
+
+The Elastic stack can be used as SIEM. So it can collect, store, analyse, and visually display security-related data from various sources.
+
+For the elastic stack to work as a SIEM, security data from applications like firewalls, IDS/IPS, and endpoints should be ingested into the Elastic stack using Logstash first, then Elasticsearch should be configured to store and index the security data, finally Kibana should be used to build custom dashboards and visualisations into security-related events.
+
+SOC analysts will spend most of their time working with Kibana as their primary tool when working with an Elastic Solution. So how does Kibana operate?:
+
+## Diving into Kibana:
+
+Our first tool in searching and using Kibana is **KQL (Kibana Query Language)**. KQL is a powerful tool that is also user-friendly which is designed for searching and analysing data in Kibana. It tends to be easier than Elasticsearch's Query DSL.
+
+### Structure of KQL:
+
+KQL queries are broken down into `field:value` pairs.
 
 
+
+***
 ## SOC Definition & Fundamentals:
 
 ## MITRE ATT&CK & Security Operations:

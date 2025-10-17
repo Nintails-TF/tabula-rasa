@@ -16,14 +16,11 @@ Parent Link: "[[Main Index]]"
 	- Endgame Theory 2000
 
 Scheduling:
-- [[03_Knowledge_Domains/Chess/Training Methodology/Training Plan|Training Plan]]
-- [[Practice]]
 - [[Tactics Checklist]]
 
 Tracking:
 - [[Endgame Logs]]
 - [[Checkmate Logs]]
-- [[August Games]]
 - [[Capablanca]]
 
 Theory:
@@ -32,7 +29,9 @@ Theory:
 - [[Chess Masters]]
 
 Books:
-- 
+- Herman Grooten - Positional Chess for Club Players
+- Chess Fundamentals - Capablanca
+- My system - Nimzovitch
 
 
 Look at ±2.0 swings first,
