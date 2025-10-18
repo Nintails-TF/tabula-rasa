@@ -1,6 +1,6 @@
 ---
 date created: Friday, October 17th 2025, 2:35:40 pm
-date modified: Friday, October 17th 2025, 4:41:21 pm
+date modified: Friday, October 17th 2025, 4:49:25 pm
 ---
 
 # 17/10/25 - CCT Method:
@@ -15,9 +15,9 @@ Duration: 60 Minutes
 **SMBs (I missed a blunder):** 1
 
 **Average CCT Speed:** 75 sec/move
-**Target:** <20 sec consistently
+**Target:** <20 sec consistently by 24/10/25
 
-**Game Categories:** B, C
+**Game Categories:** B, C, C
 
 ---
 
@@ -50,24 +50,15 @@ Duration: 60 Minutes
 | 3.   | Good at the start of the game but rushed when winning. | I did the CCT when I was in an even game, but after I was up a million material, I didn't do the full checking of my opponents moves or what their response would be. This is a bad habit to develop so even in winning games I need to stick to my pawn. **Rushing** **60s CCT** |
 |      |                                                        |                                                                                                                                                                                                                                                                                   |
 
-**Total:** 
 **Pattern:** Rushed / "Obvious" / Mental Fatigue / 
 
----
-
-## Phase 1 Progress
-
-**Streak:**
-- Zero SUBs: 0/5 ✓
-- Zero CCT skips: ___/5 ✓
-- CCT <20 sec: ___/5 ✓
 
 **Today:**
-- [ ] Zero SUBs
-- [ ] Zero CCT skips
-- [ ] CCT <20 sec
+- [x] Zero-One SUBs
+- [ ] Zero-One CCT skips
+- [ ] CCT <60 sec
 
----
+***
 ## Tomorrow's Focus:
 
 *One Thing:*
@@ -75,7 +66,62 @@ Doing CCT on obvious moves, especially when winning
 
 ---
 
-## Notes:
+# 18/10/25 - CCT Method:
 
-___
+Bot Rating: Stockfish Level 1
+Study Link: <https://lichess.org/study/w0m76zqh/ArvNhSSo>
+Duration: 60 Minutes
+## Performance
 
+**SUBs (I blundered):** 1
+**Opponent SUBs Caught (hits):** 3
+**SMBs (I missed a blunder):** 1
+
+**Average CCT Speed:** 75 sec/move
+**Target:** <20 sec consistently by 24/10/25
+
+**Game Categories:** 
+
+---
+
+## Blunders
+
+## My Blunders (SUBs):
+
+| Game | Move # | What happened? |
+| ---- | ------ | -------------- |
+|      |        |                |
+|      |        |                |
+
+## Opponent Blunders (SUBs):
+
+| Game | Move #     | Caught?       | What happened |
+| ---- | ---------- | ------------- | ------------- |
+| 1.   | `4. Ng5??` | No            |               |
+| 1.   | `5. h4??`  | Yes           |               |
+| 2.   | `6. b4??`  | Yes (delayed) |               |
+| 3.   | `7.e4??`   | Yes           |               |
+
+---
+
+## CCT Skips
+
+| Game | Description                                            | Reason |
+| ---- | ------------------------------------------------------ | ------ |
+| 1.   | Many CCT skips                                         |        |
+| 2.   | Taking more time                                       |        |
+| 3.   | Good at the start of the game but rushed when winning. |        |
+|      |                                                        |        |
+
+**Pattern:** Rushed / "Obvious" / Mental Fatigue / 
+
+
+**Today:**
+- [ ] Zero-One SUBs
+- [ ] Zero-One CCT skips
+- [ ] CCT <60 sec
+
+***
+## Tomorrow's Focus:
+
+*One Thing:*
