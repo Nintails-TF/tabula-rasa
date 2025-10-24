@@ -1,6 +1,6 @@
 ---
 date created: Monday, March 31st 2025, 6:44:38 am
-date modified: Monday, March 31st 2025, 7:09:15 am
+date modified: Saturday, October 18th 2025, 12:01:45 pm
 ---
 
 # Mindset Cultivation
@@ -41,6 +41,13 @@ What I'm looking for is a mix of stoicism, emotional detachment, and Machiavelli
 - Handle confrontation rationally - Act in a cool and calm way when dealing with conflict, emotions can be used, but letting them burst forth can lead to an unpredictable and uncontrolled explosion.
 - Test Influence subtly - Test with people what they are willing to do for you, if someone is willing to do lots for you note that, if someone isn't willing to do anything for you, note that too. Adjust your responses to them.
 
+### Aristotelian Friendship:
+
+Aristotle identified three types of friendship:
+1. **Utility friendship** - Strategic, transactional
+2. **Pleasure friendship** - Enjoyable but superficial
+3. **Virtue friendship** - Based on mutual respect and genuine character
+
 ## Teachers:
 
 - Stoicism
@@ -55,3 +62,6 @@ What I'm looking for is a mix of stoicism, emotional detachment, and Machiavelli
 - Existentialism
 	- Nietzsche, Sartre
 		- Beyond Good and Evil, The Gay Science, Thus Spoke Zarathustra, Existentialism Is A Humanism, Being and Nothingness
+- Aristotle
+
+

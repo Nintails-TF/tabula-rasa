@@ -1,6 +1,6 @@
 ---
 date created: Friday, October 17th 2025, 2:35:40 pm
-date modified: Friday, October 17th 2025, 4:49:25 pm
+date modified: Monday, October 20th 2025, 12:18:03 pm
 ---
 
 # 17/10/25 - CCT Method:
@@ -18,9 +18,6 @@ Duration: 60 Minutes
 **Target:** <20 sec consistently by 24/10/25
 
 **Game Categories:** B, C, C
-
----
-
 ## Blunders
 
 ## My Blunders (SUBs):
@@ -39,8 +36,6 @@ Duration: 60 Minutes
 | 2.   | `6. b4??`  | Yes (delayed) | Opponent pushed his b-pawn which did not develop a piece, and enabled me to play `a5` threatening to win the pawn and activate my rook and bishop on the diagonal. The move was very weakening. |
 | 3.   | `7.e4??`   | Yes           | White miscounted attackers and tried to strike in the centre, but I was able to recapture and fork his king and knight.                                                                         |
 
----
-
 ## CCT Skips
 
 | Game | Description                                            | Reason                                                                                                                                                                                                                                                                            |
@@ -57,8 +52,6 @@ Duration: 60 Minutes
 - [x] Zero-One SUBs
 - [ ] Zero-One CCT skips
 - [ ] CCT <60 sec
-
-***
 ## Tomorrow's Focus:
 
 *One Thing:*
@@ -66,21 +59,77 @@ Doing CCT on obvious moves, especially when winning
 
 ---
 
-# 18/10/25 - CCT Method:
+# 19/10/25 - CCT Method:
 
 Bot Rating: Stockfish Level 1
 Study Link: <https://lichess.org/study/w0m76zqh/ArvNhSSo>
 Duration: 60 Minutes
 ## Performance
 
-**SUBs (I blundered):** 1
-**Opponent SUBs Caught (hits):** 3
-**SMBs (I missed a blunder):** 1
+**SUBs (I blundered):** 
+**Opponent SUBs Caught (hits):** 
+**SMBs (I missed a blunder):** 
 
-**Average CCT Speed:** 75 sec/move
+**Average CCT Speed:** 75, sec/move
 **Target:** <20 sec consistently by 24/10/25
 
-**Game Categories:** 
+**Game Categories:** C
+## Blunders
+
+## My Blunders (SUBs):
+
+| Game | Move # | What happened? |
+| ---- | ------ | -------------- |
+|      |        |                |
+|      |        |                |
+
+## Opponent Blunders (SUBs):
+
+| Game | Move #      | Caught? | What happened                                                     |
+| ---- | ----------- | ------- | ----------------------------------------------------------------- |
+| 1.   | `8. Nd2??`  | Yes     | Opponent did not recapture my hanging bishop after a trade.       |
+| 1.   | `9. gxf3??` | Yes     | White took the bishop rather than my hanging queen after a trade. |
+|      |             |         |                                                                   |
+|      |             |         |                                                                   |
+|      |             |         |                                                                   |
+
+## CCT Skips
+
+| Game | Description             | Reason                                                                                                         |
+| ---- | ----------------------- | -------------------------------------------------------------------------------------------------------------- |
+| 1.   | Skipped CCT when mating | If I mate the opponents king it doesn't matter, what happens after that. Calculating mate is really important. |
+|      |                         |                                                                                                                |
+|      |                         |                                                                                                                |
+|      |                         |                                                                                                                |
+
+**Pattern:** Rushed / "Obvious" / Mental Fatigue / 
+
+
+**Today:**
+- [x] Zero-One SUBs
+- [x] Zero-One CCT skips
+- [ ] CCT <60 sec
+
+## Tomorrow's Focus:
+
+*One Thing:*
+Play some more games and commit to an hour of practice.
+***
+# 20/10/25 - CCT Method:
+
+Bot Rating: Stockfish Level 1
+Study Link: <https://lichess.org/study/w0m76zqh/ArvNhSSo>
+Duration: 60 Minutes
+## Performance
+
+**SUBs (I blundered):** 
+**Opponent SUBs Caught (hits):** 
+**SMBs (I missed a blunder):** 
+
+**Average CCT Speed:** sec/move
+**Target:** <20 sec consistently by 24/10/25
+
+**Game Categories:** C, C, 
 
 ---
 
@@ -95,23 +144,23 @@ Duration: 60 Minutes
 
 ## Opponent Blunders (SUBs):
 
-| Game | Move #     | Caught?       | What happened |
-| ---- | ---------- | ------------- | ------------- |
-| 1.   | `4. Ng5??` | No            |               |
-| 1.   | `5. h4??`  | Yes           |               |
-| 2.   | `6. b4??`  | Yes (delayed) |               |
-| 3.   | `7.e4??`   | Yes           |               |
+| Game | Move # | Caught? | What happened |
+| ---- | ------ | ------- | ------------- |
+|      |        |         |               |
+|      |        |         |               |
+|      |        |         |               |
+|      |        |         |               |
 
 ---
 
 ## CCT Skips
 
-| Game | Description                                            | Reason |
-| ---- | ------------------------------------------------------ | ------ |
-| 1.   | Many CCT skips                                         |        |
-| 2.   | Taking more time                                       |        |
-| 3.   | Good at the start of the game but rushed when winning. |        |
-|      |                                                        |        |
+| Game | Description | Reason |
+| ---- | ----------- | ------ |
+|      |             |        |
+|      |             |        |
+|      |             |        |
+|      |             |        |
 
 **Pattern:** Rushed / "Obvious" / Mental Fatigue / 
 

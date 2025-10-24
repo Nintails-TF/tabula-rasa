@@ -1,0 +1,51 @@
+---
+date created: Friday, October 24th 2025, 10:30:13 am
+date modified: Friday, October 24th 2025, 1:15:21 pm
+---
+
+# Course Overview
+
+- TMA 01 - November 20th 12pm - 16.5%
+	- Read a case study then answer questions on it. (30 Marks)
+		- Q1 - Draw a spray diagram or rich picture that captures the study
+			- 100 words rationale
+		- Q1b - Choose a significant even and draw a multiple case diagram
+			- 100 words rationale
+		- Q1c - Identify 5 key stakeholders and describe their interest in the IT system
+			- 250 words rationale.
+	- Identify and model why the system failed (30 marks)
+		- Q2a - Identify 3 issues that are significant failures, pick one or a combo of the three to document the most key failure.
+			- 200 words
+		- Q2b - Draw a systems map of the details provided in the case study. 
+			- 100 words rationale
+		- Q2c - Expand the systems map into an influence diagram to show relationships between components.
+			- 100 words rationale
+		- Q2d - What lessons can be drawn from the failure of the system?
+			- 100 words
+	- Apply concepts to analyse the systems described in the case study.
+		- Look at: *Complexity, Emergency, Adaptation, Co-evolution*
+			- For each concept write a paragraph explain the gained insight by applying the concept to the case study.
+		- Make references to any principles which build successful IT systems as described in block 1 part 3.
+		- 500 words
+	- Imagine you are planning an IT system. Using STEEPLE and the three stage process of Identify, Analyse, prioritise. Conduct an external context scan to support the organisations planning process. (20 marks - 450 words tops.)
+		- Identification (150 words)
+			- Figure out two signification factors for each STEEPLE dimension.
+		- Analysis (100 words)
+			- Identify two opportunities and threats as a result of STEEPLE analysis.
+				- Explain why they are opportunities and threats
+		- Prioritisation (100 words)
+			- Prioritise the most critical opportunity using one of the following
+				- Impact on organisation and stakeholders
+				- Significance to the organisations goals
+				- Risk and likelihood of success or failure
+				- Resources required and available.
+			- Justify this with reference to the subject and the purpose.
+		- Reflection (100 words)
+			- Reflect on your role as a systems planner, how your assumptions, values or biases may have influenced analysis
+			- Consider how the question has enhanced your ability to plan in complex IT systems.
+- TMA 02 - February 12th - 16.5%
+	- TBA
+- TMA 03 - April 30th - 17%
+	- TBA
+- EMA - June 4th - 50%
+	- TBA

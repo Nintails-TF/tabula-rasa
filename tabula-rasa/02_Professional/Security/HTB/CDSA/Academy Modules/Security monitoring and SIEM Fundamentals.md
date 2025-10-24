@@ -1,6 +1,6 @@
 ---
 date created: Saturday, October 11th 2025, 10:07:40 am
-date modified: Thursday, October 16th 2025, 5:53:23 pm
+date modified: Sunday, October 19th 2025, 3:25:16 pm
 Parent Link: "[[../CDSA Index|CDSA Index]]"
 ---
 
@@ -220,9 +220,96 @@ Our first tool in searching and using Kibana is **KQL (Kibana Query Language)**.
 
 ### Structure of KQL:
 
-KQL queries are broken down into `field:value` pairs.
+KQL queries are broken down into `field:value` pairs. The field attribute represents the attribute of the data whilst the value is the data that you are searching for. So in this example:
+
+```Shell
+event.code:4625
+
+So:
+Field = event.code
+Value = 4625
+```
+
+What this means in practice, is that this filters for events that have the **Windows event code 4625** which stands for failed login attempts within Windows.
+
+By using said query we can look at failed login attempts within Elasticsearch and investigate the source of the attempts and any potential security threats. Such as: password guessing, brute force attacks or other suspicious activities.
+
+Queries can be further refined with additional conditions such as IP addresses, usernames, time range, etc. To zoom in specifically into potential security threats.
+
+### Free Text Search:
+
+KQL has a free-text search feature that allows you to search for a specific term across any field, without requiring a field name, such as:
+
+```Shell
+"svc-sql1"
+```
+
+Any record that contains the text "svc-sql1" will be returned
+
+### Logical Operators:
+
+KQL supports logical operators similar to SQL: AND, OR, NOT for example, this aids in building more complex queries, you use brackets for order of operations similar to mathematics. For example:
+
+```Shell
+event.code:4625 AND winlog.event_data.SubStatus:0xC0000072
+```
+
+I.e. Search for failed login (`event.code.4625`) attempts on any disabled accounts(`winlog.event_data.SubStatus:0xC0000072`) within a Windows System.
+
+### Comparison Operators:
+
+KQL also has comparison operators (e.g. `:, :>, :>=, :<, :<+, :!).` This can be helpful when checking ranges. For example:
 
 
+```Shell
+event.code:4625 AND winlog.event_data.SubStatus:0xC0000072 AND @timestamp >= "2023-03-03T00:00:00.000Z" AND @timestamp <= "2023-03-06T23:59:59.999Z"
+```
+
+Search for failed logins on disabled accounts between 03/03/2023 at 0:00 AM to 06/03/23 23:59 PM.
+
+### Wildcards and Regular Expressions:
+
+KQL supports wildcards and regular expressions if you need to search for patterns in fields, for example:
+
+```Shell
+event.code:4625 AND user.name: admin*
+```
+
+Search for failed logins for any account that starts with the username admin. (admin123, administrator, etc. would be search for.)
+
+***
+
+## How to Figure out the Available Fields and Values:
+
+So the issue is now, what if you've never used a SOC before and you need to figure out what fields and values you can actually write queries in KQL for?
+
+Within the [**Discover**](https://www.elastic.co/docs/explore-analyze/discover) tool in Kibana, we can sift through the data and by reading vendor documentation to understand what event codes or numbers mean. For example:
+
+1. Windows event logs will denote that failed login code is 4625.
+2. Use free-search for `4625` which will bring up `event.code:4625`, `winlog.event_id:4625` and `@timestamp`
+	1. `event.code:4625` is related to the [Elastic Common Schema (ECS)](https://www.elastic.co/docs/reference/ecs/ecs-event#field-event-code)
+	2. `winlog.event_id` is related to [Winlogbeat](https://www.elastic.co/docs/reference/beats/winlogbeat/exported-fields-winlog)
+
+As it is dry, reading Elastic Documentation or interfacing with AI to explain these documentation notices, could be very helpful: 
+- [Elastic Common Schema (ECS)](https://www.elastic.co/guide/en/ecs/current/ecs-reference.html)
+- [Elastic Common Schema (ECS) event fields](https://www.elastic.co/guide/en/ecs/current/ecs-event.html)
+- [Winlogbeat fields](https://www.elastic.co/guide/en/beats/winlogbeat/current/exported-fields-winlog.html)
+- [Winlogbeat ECS fields](https://www.elastic.co/guide/en/beats/winlogbeat/current/exported-fields-ecs.html)
+- [Winlogbeat security module fields](https://www.elastic.co/guide/en/beats/winlogbeat/current/exported-fields-security.html)
+- [Filebeat fields](https://www.elastic.co/guide/en/beats/filebeat/current/exported-fields.html)
+- [Filebeat ECS fields](https://www.elastic.co/guide/en/beats/filebeat/current/exported-fields-ecs.html)
+
+### Elastic Common Schema (ECS):
+
+The Elastic Common Schema (ECS) is a shared vocabulary list for events and logs across the elastic stack. This ensures that when using KQL (Kibana Query Language) within the Elastic stack that you have some more tools and features at your disposal.
+
+- Unified Data View
+	- *ECS enforces as structured and consistent approach to data.*
+- Improved Search Efficiency
+- Enhanced Correlation
+- Better Visualisations
+- Interoperability with Elastic Solutions
+- Future-Proofing
 
 ***
 ## SOC Definition & Fundamentals:

@@ -20,12 +20,12 @@ Scheduling:
 - [[Training Methodology/CCT Model|CCT Model]]
 
 Tracking:
-- [[Endgame Logs]]
+- [[../../04_Reference/Archived/Endgame Logs]]
 - [[Checkmate Logs]]
-- [[Capablanca]]
+- [[Game Analysis/Master Games/Capablanca/Capablanca]]
 
 Theory:
-- [[Principles|Opening Principles]]
+- [[Theory/Openings/Principles|Opening Principles]]
 - [[Endgames Index]]
 - [[Chess Masters]]
 
