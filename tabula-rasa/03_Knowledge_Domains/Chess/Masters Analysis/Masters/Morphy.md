@@ -1,6 +1,6 @@
 ---
 date created: Wednesday, October 22nd 2025, 2:42:28 pm
-date modified: Wednesday, October 22nd 2025, 7:01:53 pm
+date modified: Saturday, October 25th 2025, 12:12:32 pm
 Parent Link: "[[../Classical Master Study|Classical Master Study]]"
 ---
 
@@ -153,7 +153,7 @@ Black has a more difficult time, as his kingside is not developed and he must de
 
 **My Thoughts:**
 
-`6. Bc4` is obviously good, developing with mate threat. `6. Nf6` isn't the response I would play, as it doesn't pose any immediate concerns for White. Morphy can continue developing, and keep attacking with `Qb3` which is a double attack.
+`6. Bc4` - is obviously good, developing with mate threat. `6. Nf6` isn't the response I would play, as it doesn't pose any immediate concerns for White. Morphy can continue developing, and keep attacking with `Qb3` which is a double attack.
 
 The natural move for me would be `6. Qf6` In that you offer a queen-trade that benefits black if accepted. It also defends the f7 square directly, blunting `Qb3` slightly.
 
@@ -165,25 +165,18 @@ The natural move for me would be `6. Qf6` In that you offer a queen-trade that b
 
 ### Critical Position #1: After 6...Nf6
 
-**Set up this position and study it for 5 minutes before continuing**
 
 #### 7. Qb3!
-**Did I see this move? Yes / No**
 
-**If no, why did I miss it?**
+`7. Qb3` - is strong as it is a double attack on blacks b pawn and f pawn. Black must come up with a resource that defends bot at once, which cannot be done. 
 
-
-**What does Qb3 attack?**
-
-
-**Why can't Black defend both threats?**
-
+Black cannot either block the sight of both the bishop and queen, nor defend both the b7 or f7 square at once.
 
 **If 7...Qe7, what's White's plan?**
-
+The idea of Qe7 is that it defends against the more pertinent threat - `8. Bxf7+` , checking and winning a pawn with tempo. 
 
 **If 7...Qd7, what's White's plan?**
-
+This is a similar idea as Qe7 but falls apart because black cannot save his rook, it is trapped.
 
 **Principle** - #DoubleAttacks
 
@@ -192,222 +185,97 @@ The natural move for me would be `6. Qf6` In that you offer a queen-trade that b
 
 #### 7...Qe7
 **Black's choice. Is this the best defence?**
-
-
-**What was Black trying to accomplish?**
+The idea being to defend against the immediate threat is a strong idea, the additional idea if you look deeper, is that black threatens to trade down queens which would help squash Morphy's initiative.
 
 
 ---
 
-#### 8. Nc3!
+#### 8. Nc3! C6
 **What would I have played here?**
-
+I would have taken the pawn `8. Qxb7`, which isn't a bad move. But will lead to a slower position giving time for black to develop pieces and stem the bleeding.
 
 **Why is simple development the best move?**
-
+This is because it fights for the initiative and leaves black with minimal counterplay. Winning material is strong, but you win material and give your opponent chances. If you continue development, you can keep the pressure on.
 
 **White's development vs Black's development:**
-- White pieces developed:
-- Black pieces developed:
+- White pieces developed: 3 pieces with the ability to castle and a safe king. The develop pieces are working together well.
+- Black pieces developed: 2 pieces with a king in the open and with worse coordination.
 
+Whilst both moves are good - it is a matter of taste which you pick - the brilliant attacker may pick superior development, whilst the solid player will look at squeezing out an endgame. Trading down is not as accurate as natural development, which offers as little counterplay as possible.
+
+The idea of `8. c6` is twofold, defend the b7 pawn with the queen, and restrict the movement of the newly developed `Nc3`. 
 
 **Principle:**
-
+- *Restrict your opponents ability to fight back - keep them on the back foot.*
+- *Keep an eye out for lateral defences and dual purpose moves.*
 
 ---
 
 ### Middle Game Crisis (Moves 9-11)
 
-#### 9. Bg5 C6
+#### 9. Bg5 B5
 **My thoughts:**
+`9. Bg5` - This move is another example of development with tempo, this time the bishop aligns with the queen and pins the knight to the queen. It enables queen-side castling to continue further development, by getting the king safe and placing a rook on it's ideal open file.
 
+`9. b5` - This is one-moveitus, it makes sense, trying to strike at the bishop and remove it from it's powerful diagonal post that breathes down the neck of the king. But now black is severely behind in development.
 
-**What is Black trying to do with c6?**
-
-
-**How would I continue as White?**
+**Principle:**
+- *Harmonious development is development that perpetuates itself.*
+- *Development with tempo in the opening is very powerful.*
 
 
 ---
 
-#### 10. Bxb5!
-**Did I see this? Yes / No**
+#### 10. Nxb5!
+**Did I see this?**: I did not see this idea from Morphy. It makes sense when you look at it closely, but I would never come up with this in my games.
 
 **My first reaction to this move:**
+What is white doing with this move? You have a better position, why are you sacrificing your pieces?
 
+**What does White threaten now?:**
+White threatens to develop his rook with tempo and launch a mating attack. by castling queenside. Black will almost certainly lose material, the pin of the knight to be the queen helps tremendously. 
 
-**What does White threaten now?**
+**Is this a real sacrifice or does White have a concrete follow-up?:**
+It is a real sacrifice because white as such a lead in development, he will have more pieces active and working, even though he sacrificed his knight. This sacrifice works because black is underdeveloped and his king is open.
 
-
-**Is this a real sacrifice or does White have a concrete follow-up?**
+**Principle:**
+- *There is nothing you can't do in chess, don't box yourself in by locking yourself to a certain mentality.*
+- *Sacrifices present themselves when a king is weak and development is superior.*
 
 
 ---
 
 #### 10...cxb5
 **What else could Black do?**
-
+Black can continue with his original resource of trading his queen down, this will give him more of a chance to fight back - black is still lost, but the attack will be blunted.
 
 **Analysis of alternatives:**
-
-
----
-
-#### 11. Nxb5!
-**Did I see this second sacrifice? Yes / No**
-
-**This is the critical moment. Spend 10 minutes analyzing this position before continuing.**
-
----
-
-### Critical Position #2: After 11. Nxb5
-
-**White has sacrificed TWO pieces. Why does this work?**
-
-**Material count:**
-- White:
-- Black:
-
-**But what factors favor White?**
-1.
-2.
-3.
-4.
-
-**What is White's threat?**
-
-
-**Can Black defend? How?**
-
-
-**Try to calculate: If 11...Qxe4+, what happens?**
-
-
-**What if Black tries 11...Nbd7 to develop?**
-
-
-**Principle - When does material not matter?**
-
-
----
-
-#### 11...Nbd7
-**Black develops. Why isn't this enough?**
-
-
----
-
-#### 12. Nxd7
-**What would I play here as White?**
-
-
-**Why eliminate this knight?**
-
-
----
-
-#### 12...Nxd7
-**Now what's White's plan?**
-
-
----
-
-#### 13. 0-0-0!
-**Did I consider this move? Yes / No**
-
-**Why is castling queenside strong here?**
-
-
-**What does White threaten?**
-
-
-**Where is Black's king going to be safe?**
-
+No other alternative is nearly as good as `Qb4+`, it is really the only move in the position that slows the progress of Morphy.
 
 **Principle:**
+- Ask yourself the Sam Shankland question: "*What if I did it anyways?*"
+
+---
+
+#### 11. Bxb5+! Nbd7
+
+My thoughts:
+
+Morphy improves his bishop with tempo, whilst black has little choice but to block with the knight, moving the king doesn't work out either. Morphy's next moves are somewhat automatic, to keep loading up pressure onto the black king.
+
+Principle:
+- *After a sacrifice, keep your initiative ticking. Either with threats or checks.*
+
 
 
 ---
 
-### The Finale (Moves 14-17)
+#### 12. O-O-O Rd8
 
-#### 13...Rd8
-**What else could Black try?**
-
-
----
-
-#### 14. Rxd7!
-**The final sacrifice. Did I see this? Yes / No**
-
-**Why does White give up the rook?**
-
-
----
-
-#### 14...Rxd7
-**Forced. What's coming next?**
-
-
----
-
-#### 15. Rd1
 **My thoughts:**
+`O-O-O`- 
 
-
-**What's the threat?**
-
-
-**Can Black defend?**
-
-
----
-
-#### 15...Qe6
-**Black's last try. What would I play as White?**
-
-
-**Take 5 minutes to find the finish:**
-
-
----
-
-### Critical Position #3: The Final Blow
-
-**After 15...Qe6, find the winning sequence**
-
-#### 16. Bxd7+!
-**Did I find this? Yes / No**
-
-**Why is this check so strong?**
-
-
-**Where must the king go?**
-
-
----
-
-#### 16...Nxd7
-**Only move. Now what?**
-
-
----
-
-#### 17. Qb8+!!
-**The brilliant finale!**
-
-**Did I see this move? Yes / No**
-
-**Why does Black resign after this?**
-
-
-**Calculate all variations:**
-- If 17...Nxb8:
-- If 17...Ke7:
-- If the king goes anywhere else:
-
-**Why is this move so beautiful?**
-
+**Principle:**
 
 ---
 
