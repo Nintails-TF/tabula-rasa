@@ -5,9 +5,6 @@ date modified: Saturday, October 25th 2025, 1:44:06 pm
 
 # Nagisa's Theory
 
-## Core Principle
-Survive broken systems without becoming broken yourself. Maintain ice in your veins for protection, but keep fire in your heart for meaning.
-
 ## The Character Framework
 
 ### Nagisa (Receptive Strength)
@@ -55,7 +52,7 @@ Winner-take-all competition • People as disposable resources • Vulnerability
 **Examples**: Most corporate cultures, credential-focused education, social media metrics, winner-take-all markets
 
 ### Assassination Classroom Systems (Seek/Build)
-Collective purpose over pure competition • Multiple paths to success valued • Psychological safety to fail and grow • Adults who genuinely invest in people • Standards with compassion
+Collective purpose over pure competition • Multiple paths to success valued • Psychological safety to fail and grow • Adults/Individuals who genuinely invest in people • Standards with compassion
 
 ## The Central Question → Human Flourishing
 
@@ -64,7 +61,6 @@ Collective purpose over pure competition • Multiple paths to success valued �
 If the latter: find or build something different, or protect yourself while searching.
 
 ## Practical Navigation
-
 1. **Acknowledge reality**: Some systems are designed to exploit you
 2. **Develop selective ice**: Coldness as tool, not identity  
 3. **Protect the fire**: Maintain unchilled spaces and relationships
@@ -74,17 +70,17 @@ If the latter: find or build something different, or protect yourself while sear
 7. **Build alternatives**: Create micro-environments with better values
 
 ## The Balance → Yin-Yang
-
 - **Too little ice**: You get destroyed by broken systems
 - **Too much ice**: You become the broken system
 - **Just right**: Cold enough to survive, warm enough to remember why
+- Karma + Nagisa as an allegory for ying and yang.
 
 ## Warning Signs → Bad Faith
 
 You've gone too far if:
 - Strategic thinking bleeds into all relationships
 - You can't turn off the calculation
-- Genuine connection feels impossible or naive
+- Genuine connection feels impossible or naïve
 - You've forgotten what you're optimizing for
 - The performance has become your identity
 
@@ -129,11 +125,6 @@ Karma's direct method - Expensive high, energy, clear and powerful (Muay Thai, E
 - Use controlled aggression to stand up for what's right with respect.
 Ayanokoji method - One-strike, one kill, No mercy, no emotion (Assassin, Surgeon)
 - Use perfect technique to systematically dismantle a person.
-
-
----
-
-*"Stay cold enough to survive. Stay warm enough to remember why surviving matters."*
 
 ---
 
@@ -180,11 +171,9 @@ Ayanokoji method - One-strike, one kill, No mercy, no emotion (Assassin, Surgeon
 7. **Miriam Akhtar - *What is Post-Traumatic Growth?***
     - *Why useful:* More accessible than the workbook; good overview with case studies
     - *Good for:* Quick understanding before diving into Tedeschi & Moore
-
 8. **David Peter Stroh - *Systems Thinking For Social Change***
     - *Why useful:* Applies systems thinking specifically to social problems
     - *Good for:* Understanding how to change broken systems without becoming broken
-
 9. **Niklas Luhmann - *Social Systems*** (advanced)
     - *Why useful:* Deep theoretical treatment of how social systems function
     - *Good for:* If you want the most rigorous systems theory (warning: very dense)

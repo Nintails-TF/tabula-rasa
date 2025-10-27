@@ -1,6 +1,6 @@
 ---
 date created: Wednesday, October 22nd 2025, 2:40:52 pm
-date modified: Wednesday, October 22nd 2025, 2:42:06 pm
+date modified: Sunday, October 26th 2025, 10:49:04 am
 ---
 
 # Classical Chess Masters Study
@@ -25,7 +25,7 @@ This vault contains my study of 13 classical chess masters, focusing on pre-comp
 - [[Steinitz]]
 
 ### Attacking & Tactical
-- [[Morphy]]
+- [[Masters/Morphy]]
 - [[Tal]]
 - [[Alekhine]]
 
@@ -49,7 +49,7 @@ This vault contains my study of 13 classical chess masters, focusing on pre-comp
 | [[Steinitz]]    | 0             |                        |                     |
 | [[Spassky]]     | 0             |                        |                     |
 | [[Fischer]]     | 0             |                        |                     |
-| [[Morphy]]      | 0             |                        |                     |
+| [[Masters/Morphy]]      | 1             | Initiative             | 0.1                 |
 | [[Tal]]         | 0             |                        |                     |
 | [[Alekhine]]    | 0             |                        |                     |
 

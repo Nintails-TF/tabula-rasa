@@ -125,3 +125,10 @@ Steve Way - 7 years from a 33-year old overweight smoker, to running 2:15:36 at 
 *Figure out the skills that a person has, place them accordingly, enhance their strengths and weaknesses, give them independence, then let them run the show.*
 
 *When you look up into the sky at night, you see stars that shine brightly, in which everyone admires their beauty. But these stars cannot exist with out the black void of space between them. I'm the void that isn't seen, heard, or admired. But the stars they understand me.*
+
+*AI is talking to myself at light-speed.*
+
+The question is what happens to people who:
+- Can't access/use AI tools (digital divide)
+- Don't have strong human connections (isolated)
+- Get stuck trying to use AI for emotional needs or humans for cognitive leverage inefficiently
