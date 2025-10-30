@@ -1,6 +1,6 @@
 ---
 date created: Monday, October 27th 2025, 11:15:41 am
-date modified: Monday, October 27th 2025, 11:17:16 am
+date modified: Thursday, October 30th 2025, 8:48:54 am
 ---
 
 # Running Log
@@ -18,3 +18,18 @@ date modified: Monday, October 27th 2025, 11:17:16 am
 **Mood before:** 3
 **Mood after:** 3
 **Notes:** Did not feel as good, but did use physical activity to shower and do tasks.
+
+**Date:** 29/10/25
+**Activity:** 30 min walk
+**Time:** 1PM
+**Mood before:** 3
+**Mood after:** 2
+**Notes:** Just feel asleep after
+
+**Date:** 30/10/25
+**Activity:** 30 min walk
+**Time:** 
+**Sleep last night:** 
+**Mood before:** 
+**Mood after:** 
+**Notes:**

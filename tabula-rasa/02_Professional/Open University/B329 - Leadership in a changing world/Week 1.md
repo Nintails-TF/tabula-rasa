@@ -1,6 +1,6 @@
 ---
 date created: Friday, October 24th 2025, 2:14:16 pm
-date modified: Sunday, October 26th 2025, 1:49:37 pm
+date modified: Wednesday, October 29th 2025, 10:43:20 am
 ---
 
 # Block 1: Leadership in Turbulent Times:
@@ -183,6 +183,49 @@ Most real world environments are hybrid. Leadership is sometimes Transactional l
 *Regulating distress: Breaking it into phases instead of burning out trying to perfect everything simultaneously. Coursework comes first to finish the degree, then shift focus to portfolio projects and professional network. Too much pressure and I'll collapse; too little and nothing gets done.*
 
 *Giving work back to myself: No one's going to create the perfect path for me. The university gives me a degree, but building marketable skills and reputation is on me. I own this problem and need to make strategic choices about where my effort goes.*
+
+***
+
+# 4. Critical Thinking:
+
+To think critically means to: *"Examine ideas, evaluate them against what you already know and make decisions based on their merit."* 
+
+Within B329, this definition also applies: *"A complex process of deliberation which involves a wide range of skills and attitudes."*
+
+## Critical Thinking Steps
+1. **Formulate your question** — Clearly define what you want to understand or solve.  
+2. **Gather information** — Collect facts, evidence, and context from reliable sources.  
+3. **Apply information** — Use what you’ve learned to analyse or address the question.  
+4. **Consider implications** — Think about the outcomes or consequences of your conclusions.  
+5. **Explore other viewpoints** — Look at different perspectives to challenge your assumptions and refine your understanding.
+
+## 4.1 Thinking Critically about Disruptive Technologies:
+
+Definition: *"A piece of disruptive technology is any enhanced or new tech that replaces and disrupts an existing technology making it obsolete. It is designed to succeed similar tech already in use."*
+
+A few example include:
+![[../../../04_Reference/Pictures/hexes-of-disruptive-tech.png]]
+
+Disruptive tech also changes the systems that are in place within businesses and how work is done, creative adaptive problems in which people need to change with the new technology and systems in place.
+
+***
+
+# 5 Leadership and Social Networks:
+
+Social media has been both a positive and a negative for leadership, social networks prefer charismatic and demagogue leaders - who persuade using wit and appealing to emotion rather than logical argument.
+
+Social media - if you like it or not - is a powerful 21st century tool in building connections, cultivating leadership, and collecting data on thoughts.
+
+Social media as a few main features for leaders:
+- Regularly updating your mask and letting others know where you stand on topics.
+- Fostering a positive impression of the self to others.
+- Building business and professional connections.
+
+Different social media platforms have advantages and disadvantages.
+- Linked-in being the main set for companies and business connections.
+- Twitter being an easy way to express opinions or details.
+
+Social media isn't useless, but must be used with an express purpose in mind. Mainly because direction and followership are directed through these means.
 
 ***
 
