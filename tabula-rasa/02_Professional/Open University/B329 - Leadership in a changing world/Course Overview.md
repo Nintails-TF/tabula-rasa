@@ -1,6 +1,6 @@
 ---
 date created: Friday, October 24th 2025, 10:30:27 am
-date modified: Friday, October 24th 2025, 2:36:23 pm
+date modified: Friday, October 31st 2025, 7:22:14 am
 ---
 
 # B329 - Leadership in a Changing World
@@ -139,7 +139,7 @@ This module focuses on three key employability skills for each block:
 
 - TMA 01 - November 13th - 25%
 	- Blogging about leadership in turbulent times.
-		- Create a blog post about a famous leadership figure. (60%)
+		- Create a blog post about a social issue. Referencing a leadership figure. (60%)
 			- 800 words
 		- Write interview questions if you were going to interview them. (20%)
 			- 350 words

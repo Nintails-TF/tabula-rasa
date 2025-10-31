@@ -1,6 +1,6 @@
 ---
 date created: Monday, October 27th 2025, 11:15:41 am
-date modified: Thursday, October 30th 2025, 8:48:54 am
+date modified: Thursday, October 30th 2025, 12:44:23 pm
 ---
 
 # Running Log
@@ -27,9 +27,9 @@ date modified: Thursday, October 30th 2025, 8:48:54 am
 **Notes:** Just feel asleep after
 
 **Date:** 30/10/25
-**Activity:** 30 min walk
-**Time:** 
-**Sleep last night:** 
-**Mood before:** 
-**Mood after:** 
-**Notes:**
+**Activity:** 15 min walk
+**Time:** 12am
+**Sleep last night:** 7-8 hours
+**Mood before:** 3
+**Mood after:** 3
+**Notes:** Short walk getting blood test results and some time in nature

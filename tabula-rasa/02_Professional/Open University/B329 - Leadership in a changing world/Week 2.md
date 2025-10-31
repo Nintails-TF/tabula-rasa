@@ -1,6 +1,6 @@
 ---
 date created: Wednesday, October 29th 2025, 11:21:09 am
-date modified: Wednesday, October 29th 2025, 5:58:30 pm
+date modified: Thursday, October 30th 2025, 3:14:35 pm
 ---
 
 # Turbulent Contexts: the Socio-political Environment of Precarity:
@@ -85,9 +85,6 @@ Young people often have to **choose** between owning a home or having children, 
 News reports:
 [Empty homes are on the rise. So why aren't they being used to solve the housing shortage](https://www.bbc.co.uk/news/articles/c3r413l5n57o)
 [Right to buy in England ‘fuelled housing crisis and cost taxpayers £200bn](https://www.theguardian.com/society/2025/aug/03/right-to-buy-england-fuelled-housing-crisis-cost-taxpayers-common-weath-report)
-
-
-
 ## 5. Automation of Work
 
 Automation of work on paper presents liberation, but threatens stable employment, with workers being managed by algorithms rather than humans. This increases precarity and doesn't improve the conditions of workers.
@@ -100,5 +97,196 @@ Though not fully impacting the UK yet, climate change could make land inhospitab
 
 These sources aren't exclusive, but are examples.
 
-Wetzstein, S. (2017) 'The global urban housing affordability crisis', *Urban Studies*, 54(14), pp.3159-3177.
+***
 
+# 3. Who is the Precariat?:
+
+The term **precariat** comes from the work of Guy Standing, and is a play-on-word of the term **proletariat** originating from Karl Marx and his description of the working class. Traditional distinctions of socio-economic class such as the working class, middle class, and upper class where created when employment was more stable.
+
+Marx's proletariat idea is centred around: *workers who were systematically exploited through their labour, and alienated from their own potential to flourish as rounded people.* This idea was underlined by the notions of the time, that:
+
+- Men were the majority of the salaried workforce.
+- Economic migration was less common and more difficult.
+- People though less about their identities - or had limited means of expression.
+- Heavy industries like manufacturing were the dominant forces in the economy.
+
+These jobs were hard, but were more predictable and stable. In the modern era, the UK has shifted towards service work, temporary/zero hour contracts managed by algorithms and technology.
+
+The working class are less likely to be members of trade unions, to have collective means of communication and don't hold a job for long.
+
+With our workforce being more diverse, people experience multiple overlapping forms of precarity simultaneously rather than a single, isolated challenge. Feminist theory supports this as being **Intersectionality.**
+
+Different combinations of social identities (gender, race, disability, sexual orientation) creates minority groups that interact and influence each other. Being a minority in any setting poses risks and challenges. So it's isn't about who suffers most - but its about understanding how different groups of people suffer from precarity and how to manage it.
+
+We can use intersectionality and rough generalizations of people to develop a framework to understand and manage the varying ways people experience social pressure and marginalization.
+
+**Use the questions in the activities to help you think about whether you would like to focus on a group in precarity in your planned interview (for example with a politician) to consider the link between precarity and leadership.**
+
+Let's now talk about different groups of the precariat:
+
+***
+## 3.1. Migrants:
+
+Many migrants from foreign countries that try to enter Europe in order to secure a better life or escape danger live in extreme precarity. Many of which die in trying to escape, either drowning at sea, dehydration, accidents, etc.
+
+They fall victim to smugglers or other criminal organisations, who can exploit them.
+
+In the UK - migrants are given £37.75 per week, they often suffer economic hardship, hostility and racism. As well as disorientation at being in a foreign land. Thus, severe problems or issues can occur.
+
+### Questions:
+
+**Q:** Can you find a single source of extra information that could enrich your understanding of the experiences of refugees and migrants?
+
+**A:** The experiences of displaced populations are characterized by multiple, intersecting vulnerabilities. Research indicates that refugees face significantly elevated risks of mental health challenges, with depression rates notably higher than those of host populations (UNHCR, 2025). These mental health impacts are particularly acute among individuals who have experienced violence, been separated from partners, or are living in adverse conditions (UNHCR, 2025).
+
+UNHCR (2025) *Global Trends Report 2024*. Geneva: United Nations High Commissioner for Refugees. Available at: [https://www.unhcr.org/global-trends-report-2024](https://www.unhcr.org/global-trends-report-2024) (Accessed: 30 October 2025).
+
+**Q:** Do you have any thoughts about where practices of leadership might be visible amongst refugees and migrants?
+
+**A:** Taking Hassan's story as an example, he embodied resilience through his determination to not give up and maintain hope, problem solving in adapting different strategies to improve his situation, and supporting and helping other refugees by advocating for them.
+
+***
+## 3.2 The Elderly, Disabled, and Unwell:
+
+Those who are physically unwell or weak, end up having to spend more to take care of themselves and are receiving benefit cuts. Governments have outsourced assessments of entitlements, and are being told they must work longer and retire on less pension.
+
+This move is based on the fact that people live longer, but is also a political move as well.
+
+**Q:** Can you find a single source of extra information that could enrich your understanding of the experiences of the elderly, disabled or unwell?
+
+**A:** Those who are disabled count for a large section of the population of which:
+- **16.1 million people** in the UK had a disability in 2022/23, accounting for **24% of the total population**
+- Disability prevalence rises with age: 11% of children, 23% of working-age adults, and 45% of adults over State Pension age
+- Two-thirds (67%) of people aged 85 or over reported a disability
+- The number claiming disability benefits rose from 3.9 million in May 2002 to **6.9 million in February 2024** [House of Commons Library](https://commonslibrary.parliament.uk/research-briefings/cbp-9602/)
+
+These groups of people suffer compared to their non-disabled counterparts in terms of:
+- Education
+- Employment
+- Housing
+- Physical and mental wellbeing
+- Experience of crime
+
+**Q:** Do you have any thoughts about where practices of leadership might be visible amongst this group?
+
+**A:** Policy Co-design occurs in Scotland, where access to disabled services are designed with help from those who are actually disabled, showing that the government is giving the disabled a voice and are trying to help them. OHCHR - [Summary on Inquiry report in the UK.](https://www.ohchr.org/en/meeting-summaries/2024/03/committee-rights-persons-disabilities-holds-follow-dialogue-inquiry) . Lived realities are being converted into policy.
+
+Leadership also occurs in grassroots organisations. Often something is created from nothing off the backs of volunteers - this fosters creativity, passion, and extraordinary commitment. Service leadership and informal systems where people help each other out.
+
+***
+## 3.3 Working Class Men:
+
+During the global financial crisis, male workers were hit hard, leading to the coining of the term: "mansession". As construction and manufacturing suffered.
+
+The traditional masculine ideal of being the breadwinner and a blue collar workers has declined, as the service industry has been preferred, with more office work or technological work being the norm.
+
+Because of the precarity, and lack of security male working class workers can no longer reliably take care of themselves or their family.
+
+Trade unions are likely most applicable in this group and a more structured form of leadership would benefit them. a typical hierarchical structure. Charismatic leadership that appears to be honest and to advocate for the individual would be most effective.
+
+***
+## 3.4 Women:
+
+Women suffer from the double day phenomenon, where they have to go out and work, then come back home and do domestic work due to entrenched gender roles, which harms their own employability and makes them more vulnerable.
+
+Women's work is also lower paid and concentrated within service sector and hospitality jobs. Such as caring, serving, and cleaning. These jobs are being handed up on precarious terms, e.g. zero hour contracts and gig economy. Thus women are effected negatively.
+
+Precarity levels also exists in different forms, depending on race, economic wellbeing, social class, etc.
+
+Women can embodied leadership qualities through fighting for their rights and protections such as maternity leave and discrimination and challenging reproductive health issues at work.
+
+***
+
+### 3.4.1 Women on the Edge:
+
+Woman who are left on their own to raise children are particularly precarious as they have limited support in these systems.
+
+There can be a various cocktail of emotions in these cases, such as:
+- Shame and humiliation
+	- Needing to use a food bank
+- Desperation
+	- Having no choice in the matter
+- Feeling Overwhelmed
+	- Having children, work, or financial issues to juggle.
+- Isolation
+	- Being unable to talk about problems or solve things together with people.
+- Material Anxiety
+	- Worried about being a "bad mum".
+- Vulnerability
+	- And everyone can see this.
+
+***
+## 3.5 Young People:
+
+Young people have increasingly been hit by austerity, recessions. They are worse off than their parents when they were young. Young people cannot afford property and cannot afford families. They must work longer before they retire and their pensions will be lower.
+
+Raising a child into an adulthood costs around £230k. And the younger generation are responsible for taking care of elders too. They also have to deal with problems such as climate change, that weren't a serious issue until now.
+
+Young people in response to this are voting for more radical political parties at either end of the spectrum.
+
+Take for example Ava:
+
+**Background:** Ava is a 21-year-old working multiple jobs in the UK while pursuing her dream of becoming an actor. She works as a waitress at a high-street restaurant, a qualified nanny for three families (eight children total), and runs a small baking business making occasion cakes.
+
+She is burning out feeling insecure about her financial future and in put into a situation where she is ripe for exploitation, managements of the places she are at put her into a position where she is exploited for her talents and gifts, and cannot devote time or energy to her real passion. 
+
+Creative careers and pursuits are often become unsustainable for those who aren't already wealthy. Unless they are willing to sacrifice to the extreme personally.
+
+***
+
+# 4. Precarious Lives in and between Work:
+
+**1. Zero-Hours Contracts**
+- **Economic insecurity**: Variable weekly income makes financial planning impossible
+- **Temporal precarity**: Short notice scheduling prevents life planning (childcare, education, commitments)
+- **Rights erosion**: Strips away traditional employment protections (sick pay, holiday pay, pensions)
+- **Class dimension**: The text notes some privileged groups (retirees, those with earning partners) can benefit, but for most workers this represents exploitation
+
+**2. "Ambiguous" Self-Employment** The careful language choice ("ambiguous" vs "false/fake") is deliberate - it acknowledges the grey area while still critiquing the practice:
+- **Legal loophole**: Companies gain worker labour without legal obligations
+- **Risk transfer**: Workers bear all costs (equipment, insurance, fuel) and risks (no sick pay, no guaranteed income)
+- **One-sided relationship**: Companies maintain control typical of employment without reciprocal responsibilities
+
+**3. Neo-Villeiny - A Powerful Historical Parallel** This concept (Harvey et al., 2017) is particularly incisive:
+- **Medieval feudalism updated**: Like medieval villeins paying lords for the "privilege" to farm, modern workers pay companies for the "privilege" to work
+- **Investment without ownership**: Workers invest time/money into business infrastructure they don't own
+- **Examples**:
+    - Fitness instructors paying gym fees without guaranteed work
+    - City Link drivers (2014) - paid for vans, fuel, insurance but received no pay when company collapsed on Christmas Day
+
+### Power Dynamics
+
+1. **Financial risk asymmetry**: Companies externalize costs and risks onto workers while maintaining profits
+2. **Precarity as control mechanism**: Uncertain income/hours keep workers compliant and desperate
+3. **Legal status manipulation**: "Self-employed" designation denies workers collective bargaining rights and legal protections
+4. **Timing exploitation**: City Link's Christmas Day closure shows calculated exploitation during workers' most vulnerable moment
+
+### "Between Work" - The Hidden Labour
+
+- Job searching itself becomes unpaid labour
+- Constant need to seek multiple income streams
+- Psychological toll of uncertainty and rejection
+- This "between work" time has increased compared to past stable employment models
+
+***
+
+# 5. Is Precarity the Future for Most of Us?
+
+Precarity often runs rampant in the modern era, where people end up struggling due to systemic issues, in which those in charge or those in power control and manipulate those who do not have power or opportunities. 
+
+If current trends continue such as: *Erosion of rights at work, cuts to welfare and public services, privatisation, increasing debt, climate change, hostility to migrants, more workplace automation*
+
+**More people will become the precariat.**
+
+In essence, leadership becomes harder when people are stressed, unwell, or are only in an organisation temporarily. Not only does it strain leaders, but it hamstrings future leaders in collective leadership.
+
+The outcome is to connect more, collaborate, and mobilises leadership in a way that is more resistant and strong against the pressures of precarity.
+
+***
+# Week 2 Reflections:
+
+I've synthesised the concept of **intersectionality** - precarity compounds across different identity aspects, like interest multiplying problems.
+
+Example: working class = job insecurity. Add disability and problems multiply beyond addition - physical jobs become inaccessible, benefit cuts compound poverty, keeping up burns massive energy.
+
+For leadership practice, this means refusing to perpetuate systems reinforcing precarity or exploitation. When that's impossible, use your limited power to help, understand, and support those struggling.
