@@ -1,6 +1,6 @@
 ---
 date created: Thursday, October 30th 2025, 3:18:24 pm
-date modified: Thursday, October 30th 2025, 6:37:29 pm
+date modified: Saturday, November 1st 2025, 11:06:46 am
 ---
 
 # Turbulent Contexts: Leadership and Populism:
@@ -137,7 +137,6 @@ An example of **resistance leadership**.
 
 ## 2.3. Understanding the Rise of Populism:
 
-
 1. What clues can you find to suggest why populism is increasing in support in society?
 	1. It is suggested that precarity and turbulence, increases populism. In the UK there is a growing distrust, apathy, and hatred for the establishment. Because it feels as if there is a failure in the Government, that they do not help improve peoples lives.
 	2. If people were employed, had strong communities with friends and family, and had meaningful time for leisure, would they even care about policy?
@@ -164,6 +163,225 @@ An example of **resistance leadership**.
 
 Populist movements are often associated with a single leader who appears uniquely gifted at promoting the interests of the group.
 
-A *charismatic leader* is one who is larger than life figures who seem to understand the concerns of ordinary people, they grow and then sustain public support.
+A *charismatic leader* is one who is larger than life figures who seem to understand the concerns of ordinary people, they grow and then sustain public support. We could say that Martin Luther King and Hitler were both charismatic leaders, but on two different ends of the pole.
 
 ![[../../../04_Reference/Pictures/Steve Jobs Vs JFK.png]]
+
+Charismatic leadership in secular contexts was first established by Max Weber in 1947, stating that:
+
+>The leader who has charisma is ‘set apart from ordinary men and is treated as endowed with…exceptional powers and qualities… which are not accessible to the ordinary person but are regarded as of divine origin or as exemplary, and on the basis of them the individual concerned is treated as a leader
+
+Two elements are made clear in his definition:
+1. The exceptional powers.
+2. The perception that the leader is extraordinary or unique in a way that causes followership.
+
+You can see that the way in which Hitler entranced people through speeches, that there was an emotional, irrational, even magical response - to genocide and war. Thus highlighting the power and dangers of a charismatic leader.
+
+## 3.1. Charismatic Leadership in Turbulent Times:
+
+There have been academic studies focused on the followers and leaders in great charismatic leaders to try a deduce why they work so well, but it is not clear to note a single personality trait between Kennedy, Churchill, and Gandhi.
+
+Most commonly, the charismatic leader has outstanding rhetoric skills - you don't just say things well, but you inspire people to action and people feel as if they are heard and understood.
+
+*Charismatic leadership* is more commonly present in times of turbulence or crisis. People want to believe that leaders can save them, and charismatic leaders step in and take control of that danger, such as war, social uncertainty, or economic uncertainty.
+
+Winston Churchill was called back into office during world war 2. Where as he struggled to garner the same support after the war.
+
+## 3.2. The Risks of *Charismatic Leadership:*
+
+Leadership that depends of charisma has inherent risks, the two core problems being:
+
+1. All individuals make mistakes, thus charismatic leaders may not be able to achieve everything there followers wish.
+2. Relying on one extraordinary figurehead or individual carries risk as they can break down, leave, etc.
+
+Diving into the specifics we have:
+
+### Unethical Behaviour:
+
+Donald Trump's: "Throw them around and grab them by the pussy.", Epstein files, etc.
+JFK - Cheating with sectaries whilst married.
+Steve Jobs - Verbal abuse and lack of empathy for others.
+
+You have examples of great leaders who mask their deficiency of character by being strong leaders, who often use their personality and skills to break other people down or to seduce others. We can have leaders who are charismatic but who have little ethical boundaries.
+
+### Expectations of the Individual:
+
+Large amounts of emotional, physical, and psychological exhaustion is loaded onto the back of a single person, due to irrational and unreasonable demands. This can lead for an individual to believe that they are above or better than the law and to set their own moral standards. This can be very destructive.
+
+> Power tends to corrupt, and absolute power corrupts absolutely. - Lord Acton
+
+### Accountability:
+
+Especially in developing countries, but in other turbulent environments, charismatic leaders can get into power then remove some of the structure holding themselves accountable. By removing term restrictions on office or dismantling unfavourable judicial institutions. 
+
+During crisis charismatic leaders can be great, but what happens when the crisis is over? When popularity fades? Charismatic leaders can't be in charge or popular forever, but the are very useful during moments of hesitation and indecision to get the ball rolling.
+
+Being a good follower means to look beyond the façade of charisma and understand leaders for who they really are, not just strong personalities. That ethical and accountable leaders are also strong.
+
+In essence, these pitfalls are not always fallen into, nor are charismatic leaders always populist. But charismatic leadership can become crazed with populism and turn into totalitarian power if not careful.
+
+***
+
+# 4. Charisma and the Populist Leader:
+
+Populist leaders aren't always the exact mould of a confident and charismatic leader. Populist leaders are defined by the *Vox populi* (voice of the people). They rely on two key elements:
+
+1. Outsider status - being distinct from the corrupt elite
+2. Authenticity - appearing to have a genuine connection to the people.
+
+Most successful populist leaders are **insider-outsiders** they have elite connections, but mask it through performance and rhetoric. For example:
+
+|Type|Characteristics|Success Rate|Examples|
+|---|---|---|---|
+|**Outsiders**|No elite connections, built career outside mainstream|Very rare|Hugo Chávez, Alberto Fujimori|
+|**Insider-Outsiders**|Connected to elite but never part of inner circle|Most successful|Berlusconi, Haider, Sarah Palin|
+|**Insiders**|Former/current members of political elite|Very rare|Viktor Orbán, Thaksin Shinawatra|
+
+***
+### Young Populist Leaders:
+
+Young leaders can use **ethnopopulism** using their age and authentic representation of both *outsider credential* and *authentic representation*
+
+e.g. I share your lived experience of being young AND I'm excluded from the power structure of the old.
+
+To do this, you want to:
+
+1. **Claim moral authority through your position.**
+2. **Pivot to inclusive culture.**
+	1. Don't exclude older allies, refer to their children.
+
+For example : The elite are a different generation who systematically extracted our future, we don't seek revenge but justice and sustainability for all. We will inherit a planet that the current elites will not face, we are moral because we are building a future we will live in.
+
+This approach is adapted from Evo Morales.
+### Female Populist Leaders:
+
+Female leaders use gender as an outsider credential. e.g. shaking up the status quo by being not part of the **old boys club**. Present themselves are reluctant politicians and use family roles and motherhood for authenticity.
+
+They can work in traditional structures either as inherited leadership or self-made in the free world. Leadership isn't just a masculine activity, but women can succeed greatly if they leverage their own traits.
+
+**Examples:** Eva Perón, Marine Le Pen, Pauline Hanson, Sarah Palin, Pia Kjærsgaard
+
+### Entrepreneur Populist Leaders:
+Entrepreneurs can say that they are self-made, and are reluctant, and use business success as outsider competence. You can still be for the people and against the corrupt elite - it's moral not economical
+
+**Berlusconi's revealing quote:** "I don't need to go into office for the power. I have houses all over the world, stupendous boats... I am making a sacrifice."
+
+**Examples:** Silvio Berlusconi ($7.8B), Thaksin Shinawatra ($1.6B), Ross Perot ($3.7B)
+
+Really this can be done with any characteristic, common tactics are:
+- Simple Language - You can understand my messaging clearly.
+- Vulgar Expressions - I'm speaking honestly, clearly, and in an regular way.
+- Sports ownership - I'm connecting to you through the things you enjoy.
+- Ethnic Identity - I've felt your exclusion
+
+Populist leaders who are most successful exploit the low-trust and turbulent system whilst having elite connections behind the scenes, or doners, etc. Claiming to be different whilst actually being the same.
+
+***
+
+# 5. Case Study Analysis:
+
+### Part A - Choose a Movement + Gather Information:
+
+**Movement:** The Hungarian government led by Viktor Orbán
+**Sources:**
+- [How to erode a democracy - Hungary's Illiberal Turn under Orbán](https://democratic-erosion.org/2025/04/18/how-to-erode-a-democracy-hungarys-illiberal-turn-under-orban/)
+- [Wikipedia - Victor Orbán](https://en.wikipedia.org/wiki/Viktor_Orb%C3%A1n)
+- [NPR - Hungry inspires US conservatives by running a dictatorship.](https://www.npr.org/2025/05/29/nx-s1-5399682/hungary-trump-viktor-orban-cpac)
+### Part B:
+
+**Who are the people in Orbán's Hungary?:**
+The people are regular citizens or ordinary Hungarians, especially those who are rural and not cosmopolitan. People who are Christian conservatives, traditional values, likely those who will stay in Hungary there whole life.
+
+His politics appeal to the working class and peasantry - they aren't happy with how things are going - he promises to care and help them.
+
+**Who are the elite?:**
+- Rich, Cosmopolitan, elite class
+- George Soros
+- Immigrants
+- Liberal elites
+- Brussels bureaucrats and EU.
+
+Foreign entities that are looking to exploit Hungary and it's culture and resources. Either for security, or to soak up money, or to restrict and control it.
+
+**Circumstances of growth:**
+- **1989-2010 -** After the communist collapse, the democratic institutions were young and fragile, some of the corruption likely remained.
+- **2008 financial crisis** - hit the country hard, creating economic precarity.
+- **2015 refugee crisis -** Orbán said that these Muslim immigrants where a threat to hungry.
+- EU austerity measures and the perceived loss of control at the national level.
+	- Perceived loss of sovereignty.
+
+**How does this illustrate the working definition of populism:**
+Fits well as you have the following:
+- **Virtuous people**
+	- Christian, traditional Hungarians.
+- **Corrupt elite**
+	- EU bureaucrats, Soros, liberal NGOs
+		- Claims that these elites restrict: Rights, prosperity, identity, and voice.
+- **Opposes any resistance to his claims**
+	- Critics are feathered and tarred as traitors, media is captured and controlled.
+
+**What political leaning is this movement:**
+
+Right-wing, as:
+- National conservation, Christian identity politics.
+- Anti-immigration, anti-LGBTQ
+- Defence of traditional family values.
+
+Typical sort of right-leaning structure, it's easier to place the blame for your countries problems on to other factors outside of your people or governance.
+
+**Characteristics and leadership:**
+
+Orbán won 68% of parliamentary seats in 2010 with just 52.7% of votes, then used this supermajority to rewrite the constitution.
+
+- Legal manipulation
+	- Re-writing policy to benefit himself and his party.
+- Media dominance
+	- Uses state and allied outlets to spread propaganda.
+- EU obstruction
+	- Vetoes on Russia sanctions and Ukraine support.
+- International outreach
+	- Hosts CPAC and funds think tanks to spread his model.
+
+In summary, Orbán is a classical populist and charismatic leader who appears to be a strong leader who wants to help the people against the enemy/elite, uses social media such as Instagram as well.
+### Part C:
+
+What are key factors that contributed to populist conditions?:
+1. Working class economic insecurity
+2. 2008 global financial crisis
+3. 2015 refugee crisis
+4. EU integration tensions
+5. Post communist institutional weakness
+
+Why did this work?:
+- Simple solutions to complex problems.
+	- Fuck Soros, Brussels, Migrants. Get rid of them.
+- Emotional over rational
+	- Rallies, social media, visual communication. Less structure policy arguments or detailed debates.
+- Scapegoating precarity
+	- Rather than fixing systematic issues - blame is placed at external enemies rather than internal.
+- Illusion of control
+	- Having a strong leader who will fix things.
+
+***
+# 6. Reflecting on Populist Leadership:
+
+Populist leaders pretend to care about the people, whilst coming from privileged backgrounds themselves - which they shield by being insider-outsiders - they often provide scapegoats and simple answers to complex issues, which doesn't solve root problems.
+
+The reality is that Populist leaders depend on elite connections, business lobbying, and keeping precarity - e.g. Reform MPs voted against banning zero hour contracts. They need the funding, want to pursue their own self-interest, and need the elite support to compete.
+
+I'd define this as: **Performative Populism**, rather than **Ideological Populism.**
+
+Farage is a deadly in the UK politics scene at the moment, as he not only believes in Brexit and independence - 32 years campaigning for it - but also is an opportunist and a charismatic populist leader. Making Reform UK in a strong position to seize control over Westminster.
+
+But he routinely dodges serious responsibility and exits and returns when it suits him.
+
+***
+# 7. Populism and Business:
+
+Populism has also spilled over into business, where you have workers vs leaders. Many workers are disenchanted by those who are elite, rich and have little care or concern about them, loyalty feels non-existent. 
+
+This has made it more demanding to be a leader in businesses.
+
+In turn, what this means for businesses, is that they are likely wanting to ride the wave of populism sentiment, and hire those who appear to be charismatic leaders, who can garner followership and boost productivity and efficiency whilst the structure remains fundamentally the same.
+
+Businesses could see through this populist disguise though, and instead choose leaders who are held accountable, and that power is spilt between numerous leadership figures and comities rather than one figure.
