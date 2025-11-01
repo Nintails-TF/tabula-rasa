@@ -1,6 +1,6 @@
 ---
 date created: Thursday, October 30th 2025, 3:18:24 pm
-date modified: Saturday, November 1st 2025, 11:06:46 am
+date modified: Saturday, November 1st 2025, 11:26:45 am
 ---
 
 # Turbulent Contexts: Leadership and Populism:
@@ -385,3 +385,19 @@ This has made it more demanding to be a leader in businesses.
 In turn, what this means for businesses, is that they are likely wanting to ride the wave of populism sentiment, and hire those who appear to be charismatic leaders, who can garner followership and boost productivity and efficiency whilst the structure remains fundamentally the same.
 
 Businesses could see through this populist disguise though, and instead choose leaders who are held accountable, and that power is spilt between numerous leadership figures and comities rather than one figure.
+
+***
+
+# Tutor Form Submission:
+
+Most successful populist leaders are **insider-outsiders** who maintain elite connections whilst performing outsider status - what I'd call **performative populism**. They exploit precarity with simple solutions and scapegoats whilst depending on the elite structures they claim to oppose.
+
+Orbán crystallized this. He captured and re-wrote institutions (media, judiciary, constitution) to cement power whilst performing as defender of "traditional Hungarians." 
+
+The contradiction: populist leaders may genuinely oppose certain elites, but their solutions maintain or worsen precarity because they depend on elite funding and structures to succeed. **They redirect anger at scapegoats rather than solving root problems.**
+
+I believe that social media has increased the rise of populism, as quick emotional clips of a rival politician being destroyed and them winning, can go viral and build their reputation as being for the people even more. 
+
+Nobody is willing to read a 50 page policy document, but they will watch an entertaining tweet/youtube short.
+
+Wondering what other perspectives are on social media and how it has influenced this "performative" populism?
