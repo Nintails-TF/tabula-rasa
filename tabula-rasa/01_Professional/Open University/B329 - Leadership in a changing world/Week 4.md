@@ -1,6 +1,6 @@
 ---
 date created: Saturday, November 1st 2025, 12:22:44 pm
-date modified: Sunday, November 2nd 2025, 12:26:23 pm
+date modified: Monday, November 3rd 2025, 11:05:17 am
 ---
 
 
@@ -50,3 +50,46 @@ So we can start to act, behave, or believe in ways that make no rational or logi
 
 Schein and Schein use the following diagram to illustrate this:
 ![[../../../03_Reference/Pictures/Culture-conscious-to-unconscious.png]]
+
+The **correct** and **valid** solution to these internal and external problems, may be a successful well-rounded strategy, but it could also be actively harmful as well depending on the dynamics at play. It do believe that since working in cybersecurity, you have to understand this rule - and that it applies to culture as well:
+
+> **There are often multiple solutions to the same problem.**
+
+Each solution will have certain upsides and downsides, but don't **dismiss ideas or thoughts instantly because they don't agree with your culture or perspective**. *Though, this can be harder to do in practice.*
+
+It helps to assess ideas pragmatically, objectively, even dispassionately. The focus shouldn't be on your own biases or preferences, but on the actual outcomes and what works in practice
+
+## 1.3 Levels of Culture:
+
+Using the lily pond analogy, we can discuss different levels of culture:
+![[../../../03_Reference/Pictures/culutre-lily-pond.png]]
+*Fig. Schein and Schein 2016, artwork from James Bowers.*
+
+The process in which culture is formed, evolved, and is taken for granted can help answer our first key question: **Why culture has such large impact.** We are taught the correct way of doing things and thinking about problems, take them for granted, then they become part of the unconscious.
+
+Describing the lily-pad model:
+
+1. **Espoused values** - Openly communicated values and statements which are correct.
+	1. The open university preaches for open to people, open to ideas, open to new methods and ideas.
+2. **Cultural artifacts** - Visible and obvious signs of culture.
+	1. Look at how a website or person appears, their history, and stated values they support
+3. **Tacit cultural assumptions** - Looking at the underlying culture and how things *actually* are.
+	1. Amazon may say they are about the safety of workers **(Espoused values)**, but on the factory floor, they injure and crush people physically and mentally. **(Cultural artefacts)**
+		1. E.g. the culture within amazon is ruthlessly efficient and capitalistic. **(Tacit cultural assumptions)**
+		2. The gap between what Amazon espouses and what actually happens reveals the true underlying assumptions that drive behaviour.
+
+The submerged cultural ideas, are the root cause of the lily-pond either flourishing or dying.
+
+### 1.3.1 Exploring Culture:
+
+**Activity 2 - Exploring three levels of culture:**
+
+**Q:** Thinking about the OU and specifically this module and its website:
+- What are the lilies or cultural artefacts?
+- What does the farmer and those who maintain the pond say about the pond and the lilies, or what are the espoused values?
+- What is the hidden root system or basic assumptions?
+
+
+
+**Q:** Think about and record the strengths and weaknesses of the metaphor of culture as a lily pond. Think in terms of how culture is like a lily pond – the strengths of the metaphor – and how it differs – the weaknesses of the metaphor.
+
