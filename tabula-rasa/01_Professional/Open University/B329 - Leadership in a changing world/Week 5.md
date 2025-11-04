@@ -1,6 +1,6 @@
 ---
 date created: Tuesday, November 4th 2025, 11:01:20 am
-date modified: Tuesday, November 4th 2025, 2:14:01 pm
+date modified: Tuesday, November 4th 2025, 3:03:58 pm
 ---
 
 # Week 5 - Leading through Turbulent Contexts:
@@ -86,10 +86,12 @@ Idea: Discuss precarity and populism under the context of young people.
 
 **Who could I ask about this?:**
 
-Don't know.
+**SOSE YAF member - Hannah Brise** - I'm 24 and I'm from Newton Stewart, I've been on the Youth Advisory form for 2 years now. I enjoy seeing whatever input I have a difference, that's what makes me keep coming back. It was my main motivation when I joined was to have my voice on a table that it wouldn't normally be on. If it wasn't for the Forum, I don't think I would have been able to apply for uni to go into community development and education this year, it's always been something on the back of my mind but my involvement in the Forum and the personal journey I've been on and hopefully starting and getting a degree at some point in my life.
 
 **What would they say?:**
-
-Don't know.
+- Talk about personal struggles
+- Talk about what they do at the forum
+- etc
 
 ## 1.3 Writing Your Questions:
+
