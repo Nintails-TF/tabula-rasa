@@ -292,13 +292,13 @@ The GLM model developed by Davis et all (2008) has three elements that guide lea
 
 Culture formulates due to different approaches to problems that we face, these methods become entrenched overtime as the **right** way of doing things as to offload the solution to sub-conscious. However, cultures and problems can change, meaning that a static way of leading - especially with growing turbulence, precarity and global markets/connections - is limited and brittle.
 
-The most useful insight was the idea of tacit cultural implications, in other words, looking at why things happen due to underlying culture. e.g.
+The most useful insight was the idea of **tacit cultural implications**, in other words, looking at why things happen due to underlying culture.
 
-Amazon may say they are about the safety of workers **(Espoused values)**, but on the factory floor, they injure and crush people physically and mentally through quotas and ToT. **(Cultural artefacts)**
+For example:
+- Amazon may _say_ they are about the safety of workers **(Espoused values)**, but on the factory floor, they injure and crush people physically and mentally through rate quotas and ToT. **(Cultural artefacts)**
+- In essence, the culture within amazon is _ruthlessly efficient_ and _capitalistic._ **(Tacit cultural assumptions)**
 
-1. E.g. the culture within amazon is ruthlessly efficient and capitalistic. **(Tacit cultural assumptions)**
-2. The gap between what Amazon espouses and what actually happens reveals the true underlying assumptions that drive behaviour.
-
-It can show that what leaders or organisations say, isn't always how they operate and that looking into the underlying culture and a wide range of people is key for long-term success and growth.
-
+The gap between what Amazon espouses and what actually happens reveals the true underlying assumptions that drive behaviour.  
+  
+This has made me evaluate what is **actually** happening, not just what is being said. Enhancing my ability as a leader to make meaningful change.
 

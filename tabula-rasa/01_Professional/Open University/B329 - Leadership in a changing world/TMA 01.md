@@ -1,6 +1,6 @@
 ---
 date created: Friday, October 31st 2025, 7:11:33 am
-date modified: Friday, October 31st 2025, 7:30:37 am
+date modified: Tuesday, November 4th 2025, 2:14:20 pm
 ---
 
 # Rough Idea
@@ -11,13 +11,7 @@ Write about young people in the age of precarity and uncertainty. Can relate to 
 
 > "Traditional leadership failed us. We must lead ourselves."
 
-**Interview:** Interview one of my friends or some young person - ask them about their anxiety and fears for the future, job prospects, struggles with housing, etc.
-
-**Interview a member of the SOSE YAF Board.**
-
-Interview SOSE / talk about them. Ask what they feel young people are struggling with relate this to the YAF. Show that there are initiatives for young people, that they can look within their communities.
-
-Reach out to my peers on the OU forms and ask about their experiences as well? Gives useful info for YAF, show initiative for the OU and could raise interesting points.
+**Interview:** No clue
 
 **Call to action:** Advise young people to reach out to organisations that can help them grow and flourish, rather than organisations that exploit them. 
 
