@@ -1,6 +1,6 @@
 ---
 date created: Tuesday, November 4th 2025, 11:01:20 am
-date modified: Tuesday, November 4th 2025, 3:03:58 pm
+date modified: Wednesday, November 5th 2025, 5:41:35 pm
 ---
 
 # Week 5 - Leading through Turbulent Contexts:
@@ -95,5 +95,165 @@ Idea: Discuss precarity and populism under the context of young people.
 
 ## 1.3 Writing Your Questions:
 
+### Section 1: Establishing Precarity (3 questions)
+
+_Start by grounding the conversation in concrete experiences of precarity_
+
+1. **"You've mentioned struggling to find the confidence to apply for university. What kinds of pressures or uncertainties do you and other young people in Newton Stewart or the Wider UK face?"**
+    - _Gets at: personal experience of precarity, economic and social barriers_
+2. **"Researchers talk about young people facing a 'perfect storm' - unaffordable housing, zero-hour contracts, student debt, economic pressure. How do you see these issues playing out among people our age?"**
+    - _Gets at: defining precarity, intersecting pressures_
+3. **"When you're working unstable jobs, can't afford a home, and don't know what next month looks like - how does that affect your ability to believe in a stable future?"**
+    - _Gets at: psychological impact of precarity, erosion of hope_
+
+---
+
+### Section 2: Trust in Traditional Institutions (3-4 questions)
+
+_Establish why young people feel abandoned by the establishment_
+4. **"Traditional politicians often promise to help young people, but housing keeps getting more expensive, wages stay low, and conditions don't improve. Do you think young people still trust that mainstream political parties are working for them?"**
+    - _Gets at: erosion of trust in "the elite," setting up populist appeal_
+5. **"When young people turn to governments, employers, or established institutions for help with precarity, what kind of response do they typically get?"**
+    - _Gets at: specific failures of traditional structures, feeling unheard_
+6. **"Some people describe the current system as 'the elite' protecting their own interests while ordinary people struggle. Does that framing resonate with your experience and the people you work with?"**
+    - _Gets at: introducing populist "people vs elite" framework naturally_
+
+---
+
+### Section 3: The Appeal of Populism (4-5 questions)
+
+_Explore why precarity makes populist movements attractive_
+
+7. **"When people feel powerless and ignored by traditional politics, they often become attracted to leaders who promise radical change - to 'shake up the system' or 'drain the swamp.' Why do you think that message appeals to young people facing precarity?"**
+    - _Gets at: populist appeal, desire for disruption_
+8. **"Populist movements often frame politics as 'the virtuous people versus the corrupt elite.' When you're struggling to make ends meet while seeing wealthy people and corporations get richer, does that narrative feel true?"**
+    - _Gets at: populism definition, validation of frustration_
+9. **"Some populist leaders are charismatic figures who promise quick fixes to complex problems. What makes that more appealing than traditional politicians who talk about gradual reform or compromise?"**
+    - _Gets at: charismatic leadership, impatience with incrementalism_
+10. **"Young people are increasingly voting for parties on the far left and far right - movements that promise to completely overturn the system. Do you think that's because young people genuinely want extreme solutions, or because they feel they have nothing left to lose?"**
+	- _Gets at: radicalization driven by desperation, "nothing to lose" concept_
+11. **"Some researchers say that when people face precarity - uncertainty, instability, feeling disposable - they become more vulnerable to populist rhetoric. Do you think economic insecurity makes people more willing to take risks on radical political solutions?"**
+	- _Gets at: direct link between precarity and populist susceptibility_
+
+---
+
+### Section 4: The Dangers and Alternatives (3-4 questions)
+
+_Critically examine populism while exploring healthier responses_
+
+12. **"Not all populist movements are the same. Some fight for workers' rights and social justice, while others scapegoat immigrants or minorities. How can young people tell the difference between populism that empowers people and populism that divides them?"**
+	- _Gets at: left vs right populism, ethical dimensions_
+
+13. **"Populist movements often rely on a single charismatic leader who promises to fight for 'the people.' But history shows this can be dangerous - leaders can become unaccountable, break promises, or use their power unethically. What are the risks of putting all your faith in one person to save you?"**
+	- _Gets at: risks of charismatic leadership, accountability issues_
+14. **"The Youth Advisory Forum seems like a different kind of response to young people feeling powerless - more grassroots, collective, focused on building power from the ground up. How is that different from following a populist leader who promises to fix everything for you?"**
+	- _Gets at: grassroots organizing vs top-down populism_
+15. **"When you said the Forum gave you 'a voice on a table it wouldn't normally be on' - that sounds like challenging the elite/establishment, which is also what populists claim to do. What's the difference between healthy democratic participation and destructive populism?"**
+	- _Gets at: distinguishing legitimate resistance from dangerous populism_
+
+---
+
+### **Section 5: Moving Forward (2 questions)**
+
+_End with how to channel frustration productively_
+
+16. **"For young people who feel angry, abandoned, and ready to support anyone who promises to blow up the system - what would you say to them about channelling that energy in ways that actually create positive change rather than just destruction?"**
+
+- _Gets at: productive vs destructive responses to precarity_
+
+17. **"Do you think the answer to precarity is waiting for the right populist leader to save us, or is it young people organizing themselves to demand systemic change from the bottom up?"**
+
+- _Gets at: agency vs dependency, call to action_
+
+***
+
+# 2. Planning and Writing a Blog Post:
+
+To write a successful blog post, I need the following:
+
+- a catchy title aimed at getting attention
+- a key message illustrated by a well-developed argument which
+    - states a position (making clear what you think about a particular issue)
+    - gives reasons for that position (making clear why you think what you think about that particular issue)
+    - supported by evidence (making clear how you support your position and the reasons for it with facts, well-known and respected arguments by other people, or your own experience and/or that of other people)
+- a representative image within the main body of the blog post
+- a conversational tone, no jargon and no dense language
+- key references to external sources where possible.
+
+Quality blog posts also follow the invested pyramid or other structures:
+![[../../../03_Reference/Pictures/inverted-pyramid.png]]
+
+## 2.1 Newsworthiness:
+
+Newsworthiness is about grabbing the attention and presenting information in a way that invests the public or your audience.
+
+Precarity, populism, and multiculturalism are there important issues in modern society. So the challenge is, how do you link what you do or think or say to these issues in order to drum up a buzz.
+
+This is key in leadership, you need to be able to mobilise people for action and making an impact.
+
+### Tricks for Making Work More Newsworthy:
+
+1. Link your work to another popular event or topic.
+	1. Piggyback off current events to make the work feel more recent.
+2. Identify and highlight unique or landmark aspects
+	1. Highlight what makes your work stand out.
+3. Use emotion to engage the audience
+	1. Use outrage, humour, hope, fear, etc.
+	2. Make people feel something about your work.
+4. Simplify and make it accessible
+	1. Show don't tell, avoid academic terms where possible.
+	2. Use examples and human stories to make the information relatable and easy to grasp.
+5. Use lateral thinking
+	1. Use different or common sense items to explain more serious or obscure concepts.
+		1. We've all heard it before the rich vs the poor, the educated vs the uneducated.
+
+## 2.2 Speaking to Different Audiences:
+
+Flinders (2012) talked about the importance of academics of "triple writing", which is a technique used to display work to different levels of audiences.
+
+- **Phase 1:** Research results, findings and implications are written up into traditional academic outputs like books and articles (i.e. single-writing).
+	- Papers, books and academic journals.
+- **Phase 2:** The same research then forms the basis of a short research note that is intended to be both accessible and of value to a range of user groups (i.e. double-writing).
+	- Online and physical news, blogs and reports, etc.
+- **Phase 3:** In the final stage the research forms the focus of a number of succinct, pithy and even controversial articles for newspapers, magazines or popular websites (i.e. triple-writing).
+	- Social media pieces, Podcasts, etc.
+
+For the TMA 01, it's going to be a phase 2 piece, that relates to young people and tries to inspire them to action if they feel screwed by the societal structure and problems in place.
+
+***
+
+## 2.3. Images of Leadership:
+
+![[../../../03_Reference/Pictures/week5-form-post.png]]
+
+***
+
+# 2.4. Beginning Your Blog Post:
+
+My top 3 titles are:
+
+Top 3:
+1. The Generation with Nothing to Lose
+2. No House, No Hope, No Problem?
+3. The Algorithm Knows You're Replaceable
+   
+My introductory sentence is:
+
+Zero-hour contracts. Algorithmic bosses. Unaffordable housing. Welcome to the expendable generation - where stability is a luxury and young people work harder for less, with no voice in the systems that exploit them.
+
+***
+
+# Summary for TGF (Tutor Group Form):
+
+What have I learned this week that is particularly important or relevant?
+How could this inspire me to make a change in my professional or personal life?
+
+This week I realised the importance of **attention** - that it doesn’t matter what content you create or what you ask for; you must first capture people’s **attention** and use your words precisely.
+
+> **Attention** is the gateway to influence.
+
+This insight has inspired me to analyse how I can design better marketing for my business and consider how to appeal more effectively to clients by leveraging tools such as _emotional resonance, strong value propositions, and connections to issues people care about.  
+  
+***
 
 
