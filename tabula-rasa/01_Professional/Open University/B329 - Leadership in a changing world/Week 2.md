@@ -41,7 +41,7 @@ The challenge is to develop leadership that helps people break free from precari
 
 We define precarious as:
 
-> To be vulnerable to the kill or decision of others, dependant on chance or circumstance; uncertain; liable to fail; exposed to risk, hazardous, insecure, unstable, subject to or fraught with danger or insecurity.
+> To be vulnerable to the will or decision of others, dependant on chance or circumstance; uncertain; liable to fail; exposed to risk, hazardous, insecure, unstable, subject to or fraught with danger or insecurity.
 
 Precarity creates two circumstances:
 
