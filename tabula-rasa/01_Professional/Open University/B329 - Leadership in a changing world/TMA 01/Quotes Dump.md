@@ -1,6 +1,6 @@
 ---
 date created: Friday, November 7th 2025, 4:35:49 pm
-date modified: Friday, November 7th 2025, 4:44:56 pm
+date modified: Saturday, November 8th 2025, 1:03:36 pm
 ---
 
 # Quotes Dump
@@ -180,16 +180,119 @@ These quotes provide strong academic backing for discussions of youth precarity,
 > "The youth minimum wage rates should not be abolished. The fact that young workers (aged under 21) aren't affected by the employer NICs increase will mitigate employment risks this year, but there remains uncertainty about the impact of the Government's employment reforms on younger workers."
 
 ***
+
+# Shades of Populism: Anti-Migrant Rhetoric in Political Discourse in the United Kingdom, Ireland and Sweden, 2020-2024:
+
+## On Economic Factors Driving Populism:
+
+**"Among the most frequently mentioned in the literature on populism are those relating to economic factors, like for instance: perceived financial inequalities resulting from income disparities, unequal redistribution of wealth, rising living costs, accumulated frustration of less privileged social groups etc."** (p. 232)
+
+**"Periodic stabilisation, combined with (periods) of individually perceived uncertainty, may give rise to resentment related to the subjectively perceived vulnerability – one of the effects of globalisation."** (p. 232)
+
+## On Populist Drivers:
+
+**"Benjamin Moffitt, in The Global Rise of Populism, identified six main drivers of populism: frustration, insufficient education, helplessness, perceived inequality, need for a change, and anti-democratic liberalism."** (p. 240)
+
+## On How Populism Exploits Economic Anxiety:
+
+**"The growing number of dissatisfied citizens, especially those eligible to vote, becomes an attractive target group for populist discourse produced by politicians, the so-called 'defenders of the common man struggling to meet the ends'."** (p. 232)
+
+**"Periods of economic, political or health crisis (e.g. COVID pandemic), create conditions conducive to the rise of populist attitudes, as individuals are more inclined to follow leaders offering simple solutions in difficult times."** (p. 233)
+
+## On Populist Rhetoric Structure:
+
+**"These are the basic elements of the strategies pursued by populist-oriented political actors who, by drawing a simplistic, 'black and white' picture, reach for contrasting juxtapositions verbalised in oppositional phrases: 'the pure people' versus 'the corrupt elite', 'the voice of 'the silent' majority' versus 'the detached from reality minority'."** (p. 241)
+
+## On Institutional Distrust:
+
+**"Institutional distrust animates populist, anti-establishment movements seeking to break with 'corrupt elites'."** (p. 233)
+
+***
+
+# Austerity and Young People's Political Attitudes in the UK:
+
+## On Austerity's Impact on Young People's Political Attitudes
+
+**"The welfare cuts had a negative impact on the political efficacy of young people, as they were more inclined to believe that public officials did not care about them and that they had no say in the actions of the government."** (p. 603)
+
+**"The implementation of austerity measures increased the likelihood of political disenfranchisement among young people in Britain."** (p. 603)
+
+## On Youth Political Disengagement
+
+**"Young people's political efficacy diminished as they were more likely to believe public officials do not care about them and that they have no say in what the government does. In parallel, their sense of satisfaction with politics, measured, for example, by their perceived political influence, also decreased."** (p. 604)
+
+**"These results provide grounds to see the welfare cuts as a factor in the lower engagement of young people in the Brexit referendum."** (p. 604)
+
+## On Long-term Consequences for Young People
+
+**"Those aged 18 to 24 will have to live with the consequences of the Brexit vote for an average of 69 years, compared with 16 years for those over 65."** (p. 605)
+
+***
+
+# Researching Young People and Far-right Populism:
+
+## On Youth and Precarity:
+
+**Page 2:**
+
+- "Some youth end up feeling like a 'lost generation' (Krasteva 2016, p. 150) because in late modernity they lack economic and political power over their own lives (Storm et al. 2020)."
+- "The difficult circumstances experienced by contemporary youth per se in western countries are primarily driven by deep economic and political changes. Yet disenfranchised young (white) people are encouraged by right-wing populist propaganda to blame immigration, diversity equity strategies, and removal of traditional privilege (Nilan 2021; Rydgren 2013)."
+
+## On Populism's Appeal to Youth:
+
+**Page 1:**
+
+- "That 'black and white' discourse appeals to young (white) people facing a precarious labor market who feel that they have lost the entitlements of race and gender (Mudde 2014)."
+
+**Page 2:**
+
+- "the discourse of right-wing populism may seem to offer young people 'a space to express anger, rebellion and resistance against the mainstream' (Miller-Idriss 2018, p. 356)"
+- "those who support right-wing populism are more numerous among the younger generation (see Abou-Chadi 2024; Mierin, a and Korol,eva 2015)."
+
+## On the Connection Between Economic Insecurity and Populism:
+
+**Page 2:**
+
+- "young (white) men find themselves floundering when elements of their gendered and classed habitus (Bourdieu 1990) encounter unstable segments of the male labor market, as well as fluid gender identities and relations (Kimmel 2010; Standing 2011). The resulting ontological insecurity (Giddens 1991) may pull them toward far-right propaganda that constructs them as white male victims yet at the same time (potentially) as brave combatants in a gendered race war (Marantz 2019; Johanssen 2022)."
+
+## On Youth Leadership as a Temporal Phase:
+
+**Page 3:**
+
+- "the attraction of young (white) men to far-right discourse may well represent their temporal location in the period of youth (Latif et al. 2020) rather than signaling a life-long pathway of involvement in the field"
+- "Kimmel (2007) points out that supporting far-right discourse may be a 'rite of passage' for some young (white) men"
+- "It is likely that engagement with the far right will diminish as they get older and try to achieve important life goals in their careers and personal lives (Latif et al. 2020)."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+***
  Sources:
-- https://www.resolutionfoundation.org/publications/housing-hurdles/
+- <https://www.resolutionfoundation.org/publications/housing-hurdles/>
 	- Between 1990 and 2022-23, the proportion of young people renting privately more than tripled, growing from 10 per cent to 33 per cent.
 		- Private renting is the most expensive.
 	- Over recent decades, house prices have risen far faster than wages across the UK, but the increase in house prices has been particularly steep in regions like London and the South East, which have seen the median house price as a proportion of household disposable income increase by 239 per cent and 104 per cent, respectively, since 1998-99. 
-- https://www.resolutionfoundation.org/publications/false-starts/
+- <https://www.resolutionfoundation.org/publications/false-starts/>
 	- We estimate that the number of NEETs aged 16-24 has risen sharply (by 195,000) between 2022-23 and 2024-25 to reach 940,000, reflecting falling labour-market participation and stalling education participation.
 	- Employment and vacancies are falling most sharply in youth-heavy sectors of the economy. For example, while the total number of vacancies has fallen by 17 per cent over the last year, there were falls of 20 per cent in hospitality and 25 per cent in the arts, entertainment and recreation.
 	- First, labour market participation among young people has been falling since 2022-23. In the latest data from August 2025,there were 3.80 million young people aged 16-24 in pay rolled employment, down from 3.98million three years earlier in August 2022, a fall of 178,000 (or 4.5 per cent). Second, after fast increases during the Covid-19 pandemic, increases in education participation have started to slow. 
-- https://www.resolutionfoundation.org/publications/minimum-wage-maximum-pressure/
+- <https://www.resolutionfoundation.org/publications/minimum-wage-maximum-pressure/>
 	- On April 1st, the adult minimum wage will rise by 6.7 per cent – the seventh-largest rise in 26 years.
 	- We judge that the combined of NICs and the minimum wage increase will reduce total employment by 85,000
 - [Precarious Hope: Situated Perspectives on the COVID-19 Pandemic from Undergraduate Students in Manchester, UK](https://pmc.ncbi.nlm.nih.gov/articles/PMC8586825/pdf/43151_2021_Article_57.pdf)
@@ -197,4 +300,9 @@ These quotes provide strong academic backing for discussions of youth precarity,
 - [Post-crisis precarity: Understanding attitudes to work and industrial relations among young people in the UK](https://journals.sagepub.com/doi/pdf/10.1177/0143831X19894380)
 	- Two-thirds of the growth in employment since 2008 has been in “atypical” roles such as self-employment, zero-hours contracts or agency work’ (Clarke and Cominetti, 2019: 6–7)
 	- Specific concerns included low pay, poor job quality (particularly in the retail sector), unreasonable employer expectations, insecurity and, to some extent, the prospect of automation.
-	- 
+- <https://www.cambridge.org/core/journals/journal-of-public-policy/article/austerity-and-young-peoples-political-attitudes-in-the-uk/965994719F0409F16970C8FA21CA0A10>
+- <https://www.mdpi.com/2076-0760/14/5/270>
+- <https://www.jstor.org/stable/27418221>
+
+
+***
