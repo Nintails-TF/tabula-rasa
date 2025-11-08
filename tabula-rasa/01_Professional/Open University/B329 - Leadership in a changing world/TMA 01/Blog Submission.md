@@ -1,6 +1,6 @@
 ---
 date created: Thursday, November 6th 2025, 11:36:23 am
-date modified: Saturday, November 8th 2025, 1:57:54 pm
+date modified: Saturday, November 8th 2025, 2:01:28 pm
 ---
 
 # Blog Submission:
@@ -16,7 +16,7 @@ Young people in the UK face unprecedented *precarity* - the condition of living 
 
 In essence, what was once attainable for young people around the nation is now out of reach.
 
-This shows no quick signs of changing, as government forces pushed back against a bill to ban 0-hour contracts. The House of Lords continues to strike back against the Employment Rights Bill (Moss, 2025), which would seek to improve the working conditions of many young people across the UK. There are people in house of commons who do want to help young people, yet there are those in the Lords who are elite, unaccountable and who actively sow the seeds of *precarity* and 
+This shows no quick signs of changing, as government forces pushed back against a bill to ban 0-hour contracts. The House of Lords continues to strike back against the Employment Rights Bill (Moss, 2025), which would seek to improve the working conditions of many young people across the UK. There are people in house of commons who do want to help young people, yet there are those in the Lords who are elite, unaccountable and who actively sow the seeds of *precarity.*
 
 Is it no wonder why young men and women are becoming more radical, when there are systems in place which actively harm young people in a way in which they cannot be touched - as they benefit those who are already within power?
 
