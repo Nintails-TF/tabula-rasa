@@ -13,25 +13,25 @@ This vault contains my study of 13 classical chess masters, focusing on pre-comp
 ## Masters by Style Category
 
 ### Positional & Technical Mastery
-- [[Capablanca]]
-- [[Rubinstein]]
-- [[Smyslov]]
-- [[Karpov]]
+- [[Masters/Capablanca]]
+- [[Masters/Rubinstein]]
+- [[Masters/Smyslov]]
+- [[Masters/Karpov]]
 
 ### Strategic & Prophylactic
-- [[Nimzowitsch]]
-- [[Petrosian]]
-- [[Botvinnik]]
-- [[Steinitz]]
+- [[Masters/Nimzowitsch]]
+- [[Masters/Petrosian]]
+- [[Masters/Botvinnik]]
+- [[Masters/Steinitz]]
 
 ### Attacking & Tactical
 - [[Masters/Morphy]]
-- [[Tal]]
-- [[Alekhine]]
+- [[Masters/Tal]]
+- [[Masters/Alekhine]]
 
 ### Universal & Flexible
-- [[Spassky]]
-- [[Fischer]]
+- [[Masters/Spassky]]
+- [[Masters/Fischer]]
 
 ---
 
@@ -39,19 +39,19 @@ This vault contains my study of 13 classical chess masters, focusing on pre-comp
 
 | Master          | Games Studied | Key Principles Learned | Mastery Level (1-5) |
 | --------------- | ------------- | ---------------------- | ------------------- |
-| [[Capablanca]]  | 0             |                        |                     |
-| [[Rubinstein]]  | 0             |                        |                     |
-| [[Smyslov]]     | 0             |                        |                     |
-| [[Karpov]]      | 0             |                        |                     |
-| [[Nimzowitsch]] | 0             |                        |                     |
-| [[Petrosian]]   | 0             |                        |                     |
-| [[Botvinnik]]   | 0             |                        |                     |
-| [[Steinitz]]    | 0             |                        |                     |
-| [[Spassky]]     | 0             |                        |                     |
-| [[Fischer]]     | 0             |                        |                     |
+| [[Masters/Capablanca]]  | 0             |                        |                     |
+| [[Masters/Rubinstein]]  | 0             |                        |                     |
+| [[Masters/Smyslov]]     | 0             |                        |                     |
+| [[Masters/Karpov]]      | 0             |                        |                     |
+| [[Masters/Nimzowitsch]] | 0             |                        |                     |
+| [[Masters/Petrosian]]   | 0             |                        |                     |
+| [[Masters/Botvinnik]]   | 0             |                        |                     |
+| [[Masters/Steinitz]]    | 0             |                        |                     |
+| [[Masters/Spassky]]     | 0             |                        |                     |
+| [[Masters/Fischer]]     | 0             |                        |                     |
 | [[Masters/Morphy]]      | 1             | Initiative             | 0.1                 |
-| [[Tal]]         | 0             |                        |                     |
-| [[Alekhine]]    | 0             |                        |                     |
+| [[Masters/Tal]]         | 0             |                        |                     |
+| [[Masters/Alekhine]]    | 0             |                        |                     |
 
 ---
 

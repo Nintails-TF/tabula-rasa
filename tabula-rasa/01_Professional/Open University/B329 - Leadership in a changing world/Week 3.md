@@ -1,6 +1,6 @@
 ---
 date created: Thursday, October 30th 2025, 3:18:24 pm
-date modified: Saturday, November 1st 2025, 11:26:45 am
+date modified: Saturday, November 8th 2025, 3:51:52 pm
 ---
 
 # Turbulent Contexts: Leadership and Populism:
@@ -21,7 +21,7 @@ The focus is on how populist leaders operate within turbulent environments, and 
 
 *What is populism, how are populist movements lead, and what is the impact of populism in our world?*
 
-**Populism:** *Describes a political approach or ideology that frames problems as a struggle between the people/average (portraited as virtuous) against against the elite/establishment (Depicted as being corrupt and self-serving).*
+**Populism:** *Describes a political approach or ideology that frames problems as a struggle between the people/average (portraited as virtuous) against the elite/establishment (Depicted as being corrupt and self-serving).*
 
 In essence, people want to believe in a leader or person who will change things for the better for them or their families/communities. The danger is that populism can be used to promote harmful ideologies - racism, sexism, xenophobia, etc.
 
