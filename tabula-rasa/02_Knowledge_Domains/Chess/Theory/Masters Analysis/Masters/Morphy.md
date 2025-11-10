@@ -30,7 +30,6 @@ Genius of the romantic era, far ahead of contemporaries. Emphasized rapid develo
 ## Pre-Study Questions
 
 **Before looking at the game, what do I know?**
-
 - What's the Philidor Defence generally about?
 - What do I expect from a Morphy game?
 - What does "punishing slow development" mean?
