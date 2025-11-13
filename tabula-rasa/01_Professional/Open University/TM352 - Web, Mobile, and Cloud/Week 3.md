@@ -1,6 +1,6 @@
 ---
 date created: Thursday, November 13th 2025, 12:17:30 pm
-date modified: Thursday, November 13th 2025, 1:34:35 pm
+date modified: Thursday, November 13th 2025, 2:41:16 pm
 ---
 
 # Week 3:
@@ -141,8 +141,71 @@ This significantly speeds up the development process.
 
 ### 1.1.2. Vite:
 
+Vite handles lots of manual configuration of Rollup and HMR, it gives us a development server and runs the other libraries and software we need to build our app.
 
+Vite is typically configured using `vite.config.ts`, in our project this refers to:
+
+```TypeScript
+import { defineConfig } from 'vite'
+import { svelte } from '@sveltejs/vite-plugin-svelte'
+
+let base = process.env.JUPYTERHUB_SERVICE_PREFIX || "/";
+let app_path = "http://localhost:5173";
+if (process.env.VSCODE_PROXY_URI) {
+  const url = new URL(process.env.VSCODE_PROXY_URI);
+  app_path = url.protocol + "//" + url.host;
+  base = base + "proxy/absolute/5173";
+}
+app_path = app_path + base;
+console.log("\nServer available at " + app_path + "\n");
+
+// https://vitejs.dev/config/
+export default defineConfig({
+  plugins: [svelte()],
+  base: base,
+})
+```
+
+**Code Summary:**
+- **Basic setup**: Uses Vite's `defineConfig` with the Svelte plugin to handle Svelte-specific build processing
+- **Base path configuration**: The `base` parameter tells Vite where the app is hosted (e.g., root `/` vs sub-path `/path/to/app`) so it generates correct URLs
+- **Automatic environment detection**: The code intelligently determines the correct `base` path by checking:
+    - If running in OCL (Online Coding Lab): uses `JUPYTERHUB_SERVICE_PREFIX` environment variable
+    - If running in VCE (VS Code Environment): detects `VSCODE_PROXY_URI` and appends `"proxy/absolute/5173"` to route through VCE's proxy
+- **User convenience**: Calculates and displays the full server URL so users don't have to manually construct it themselves
 ## 1.2. Basic Structure:
+
+```Bash
+npm run dev
+```
+
+The basic structure of a Svelte Application is the component. The `src/App.svelte`component is the default main component. 
+
+Within Svelte each file defines one component which has three elements:
+
+1. A `<script>` tag at the top of the file into which you will place all of the TypeScript code.
+2. One or more HTML tags that define the HTML that is rendered in the browser
+3. A `<style>` tag for defining CSS rules that are applied only to this component. Due to using Tailwind, we generally won’t use this, but it can be useful when using CSS directly or using other CSS frameworks.
+
+The case study of **Sounds Good! - Music Streaming Service.** Is how we are going to show and expand knowledge of Svelte.
+
+#### Header:
+```HTML
+<header class="max-w-screen-md mx-auto bg-pink-600 text-2xl font-bold p-3">
+  <h1>Sounds Good! - Epic Playlist</h1>
+</header>
+```
+
+The challenge of writing a new web app, is not writing the code, but splitting the big problems into smaller chunks so that you can handle them.
+
+#### List:
+```HTML
+<main class="max-w-screen-md mx-auto">
+  <ol class="border-4 border-pink-600">
+  </ol>
+</main>
+```
+
 
 ## 1.3. Using Components:
 
