@@ -1,6 +1,6 @@
 ---
 date created: Thursday, November 13th 2025, 12:17:30 pm
-date modified: Thursday, November 13th 2025, 2:41:16 pm
+date modified: Thursday, November 13th 2025, 3:12:18 pm
 ---
 
 # Week 3:
@@ -198,20 +198,107 @@ The case study of **Sounds Good! - Music Streaming Service.** Is how we are goin
 
 The challenge of writing a new web app, is not writing the code, but splitting the big problems into smaller chunks so that you can handle them.
 
-#### List:
+#### List Structure:
 ```HTML
 <main class="max-w-screen-md mx-auto">
-  <ol class="border-4 border-pink-600">
-  </ol>
-</main>
+    <ol class="border-4 border-pink-600">
+      <li class="flex flex-row px-3 py-2 space-x-4 mb-2">
+        <div
+          class="w-12 h-12 text-neutral-400 p-2 border border-neutral-400"
+          aria-hidden="true"
+        >
+          Art
+        </div>
+        <div class="flex-1 flex flex-row items-center">
+          <div class="flex-1">
+            <h2 class="font-bold">Track title</h2>
+            <p>Track artist - Track album</p>
+          </div>
+          <p class="text-neutral-200">Track length</p>
+        </div>
+        <button class="w-12 h-12 p-2">Pause</button>
+      </li>
 ```
-
 
 ## 1.3. Using Components:
 
-## 1.4. Conditionals:
+So the current approach only uses code that is defined within the `src/App.Svelte` this isn't scalable so we need to start to build components which can be reused.
 
-## 1.5. User Interaction:
+### Specifying Component:
+
+```HTML
+<script lang="ts">
+  // Importing icons from the Material Design Icons
+  import { mdiMusic, mdiPause } from "@mdi/js";
+  import Icon from "./lib/Icon.svelte";
+</script>
+
+<div>
+	<Icon path={mdiMusic} />
+</div>
+```
+
+As we can see, we've importing the Icon component into the and we pass the parameters of `mdiMusic` and `mdiPause` into the prop.
+
+Result:
+![[../../../Pasted image 20251113150322.png]]
+
+## 1.4. Loops:
+
+```HTML
+<script lang="ts">
+  import { mdiMusic, mdiPause } from "@mdi/js";
+  import Icon from "./lib/Icon.svelte";
+  
+  const TRACKS = [
+    {
+      id: 1,
+      title: "Midnight Dreams",
+      artist: "The Echoes",
+      album: "Night Sessions",
+      length: "4:23",
+    },
+    {
+      id: 2,
+      title: "Summer Vibes",
+      artist: "Coastal Sound",
+      album: "Beach Days",
+      length: "3:45",
+    },
+  ];
+</script>
+
+...SNIP...
+
+<ol class="border-4 border-pink-600">
+  {#each TRACKS as track}
+    <li class="flex px-3 py-2 space-x-4">
+      ...SNIP...
+      <h2 class="font-bold">{track.title}</h2>
+      <p>{track.artist} - {track.album}</p>
+      ...SNIP...
+    </li>
+  {/each}
+</ol>
+
+...SNIP...
+
+```
+
+In order to create our application so far, we've duplicated code, now if a user wants to set a certain amount of songs to their playlist, this implementation doesn't work too well.
+
+Solutions to this type of problem is as followed:
+1. First we need to move track data outside of the HTML.
+	1. We move this data into some kind of array structure.
+2. We use a loop to generate HTML, but dating the data from the array.
+
+This is a common design practice. **First design using static data, then introduce dynamic data.**
+
+## 1.5. Creating Our Own Components:
+
+## 1.6. Conditionals:
+
+## 1.7. User Interaction:
 
 # 2. Basic React Application:
 
