@@ -1,6 +1,6 @@
 ---
 date created: Thursday, November 13th 2025, 12:17:30 pm
-date modified: Thursday, November 13th 2025, 1:03:12 pm
+date modified: Thursday, November 13th 2025, 1:34:35 pm
 ---
 
 # Week 3:
@@ -77,9 +77,26 @@ The most used modern frameworks are:
 - Angular
 - Svelte
 
-You can build a functional web app
+You can build a functional web app with any frameworks. They have advantages and disadvantages for a developer. Though, most of these decisions are non-technical. Such as:
 
-# 5. Svelte
+- **Technical constraints** come first - existing codebases and client requirements typically lock you into a specific framework. If your team already has experience with a framework, leveraging that expertise makes sense for consistency and knowledge transfer.
+- **Framework capabilities** matter for specialized needs, particularly around tooling for specific use cases like offline functionality.
+- **Security factors** are critical - you should evaluate the framework's security track record, how it handles vulnerability reports, and its history of patching issues, since framework vulnerabilities directly affect your application.
+- **Community support** is essential for long-term success. Look at responsiveness to bug reports, the number of open issues, and how welcoming the project is to external contributions, as you'll inevitably need help with framework-specific problems.
+- **Installation complexity** can signal underlying code complexity, which correlates with potential issues down the line.
+- Finally, **strategic skill development** might influence your choice if the business wants to expand into new technical areas.
+
+It isn't enough to just understand and know one framework, even if it is super popular - it may work for now, but not forever.
+
+# 5. Svelte:
+
+Svelte takes a different approach than other frameworks. It combines the **application code** and **framework code.** In React, the application code and framework library code is both ran by the browser.
+
+The framework then would call the application code and re-render the page based on application changes made by the application code.
+
+Svelte does most of the work at build time. Svelte compiles application code, and inserts JavaScript code from the Svelte library to update details to the user.
+
+This structure can simplify code, but can run into problems in the lifecycle for code. In practice, this makes little difference and large-scale complex web apps can be built in Svelte.
 
 # 6. React
 
@@ -90,6 +107,40 @@ You can build a functional web app
 # 1. Basic Svelte Application:
 
 ## 1.1. Development Server:
+
+The web bundler software used throughout this module is called: [Rollup](https://rollupjs.org/). The following process is used when we build our application:
+
+1. **Svelte** is used to compile our application code, creating the necessary JavaScript and CSS code
+2. **Tailwind** is used to identify which CSS classes are used in the application code and output the necessary CSS
+3. **Rollup** writes the JavaScript and CSS code to one or more files.
+
+To see this in action, we can build our code - normally this is only done for a final deployment:
+
+```Bash
+npm ci
+npm run build
+
+Server available at http://localhost:5173/
+
+vite v5.3.5 building for production...
+✓ 31 modules transformed.
+dist/index.html                 0.46 kB │ gzip: 0.30 kB
+dist/assets/index-D94lVMts.css  6.62 kB │ gzip: 1.93 kB
+dist/assets/index-BKUxqrnq.js   9.27 kB │ gzip: 4.06 kB
+```
+
+As we can see, Vite then runs Rollup to build our app. The builder can split files into separate CSS and JS files, to improve loading speed, but that isn't required here.
+
+### 1.1.1. Hot Module Replacement:
+
+As our project grows, build processes can take longer and longer, this is fine for the production build, but if we are testing or developing, this can be troublesome.
+
+**Hot Module Replacement** (HMR) enables a build to inject extra code into the JavaScript. When a file is modified by a developer, only that file is rebuilt. 
+
+This significantly speeds up the development process.
+
+### 1.1.2. Vite:
+
 
 ## 1.2. Basic Structure:
 
