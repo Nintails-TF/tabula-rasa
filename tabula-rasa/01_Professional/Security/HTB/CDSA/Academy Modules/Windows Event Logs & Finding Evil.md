@@ -1,7 +1,29 @@
 ---
 date created: Saturday, October 11th 2025, 10:08:42 am
-date modified: Saturday, October 11th 2025, 10:08:53 am
+date modified: Sunday, November 23rd 2025, 3:43:36 pm
 Parent Link: "[[../CDSA Index|CDSA Index]]"
 ---
 
-# Windows Event Logs & Finding Evil
+# Introduction:
+
+## Windows Event Logs:
+
+## Analysing Evil With Sysmon & Event Logs:
+
+---
+
+# Additional Telemetry Sources:
+
+## Event Tracing for Windows (ETW):
+
+## Tapping Into ETW:
+
+---
+
+# Analyzing Windows Event Logs En Masse:
+
+## Get-WinEvent:
+
+---
+
+# Skills Assessment:

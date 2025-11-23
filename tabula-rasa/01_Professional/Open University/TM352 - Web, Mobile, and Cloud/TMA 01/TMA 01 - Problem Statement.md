@@ -28,28 +28,28 @@ You need to build a web-based ticketing prototype for the Isca Augusta public ba
     - Copy API URL into `serverBaseUrl` variable in App files
 
 #### Required Features (implement in BOTH frameworks):
-- [ ] Fetch 3 ticket categories from API (`GET /api/categories`)
-- [ ] Display categories to user as buttons
-- [ ] Let user select a category
-- [ ] Send selection to API (`POST /api/pay/{id}/{cardno}`)
-- [ ] Show success message
+- [x] Fetch 3 ticket categories from API (`GET /api/categories`)
+- [x] Display categories to user as buttons
+- [x] Let user select a category
+- [x] Send selection to API (`POST /api/pay/{id}/{cardno}`)
+- [x] Show success message
 
 #### Exact UI Requirements:
-- [ ] H1 heading: "Isca Augusta Public Baths"
-- [ ] H2 heading: "Ticket category"
-- [ ] 3 buttons with format: "{title} {price}"
-- [ ] After selection, hide unselected buttons
-- [ ] Show H2 "Payment"
-- [ ] Input field labelled "Card number"
-- [ ] Input field labelled "Validation"
-- [ ] "Pay now" button (initially disabled)
-- [ ] Validate: 8-digit card number, sum equals validation field
-- [ ] Show appropriate error/success messages
-- [ ] Final message: "You have paid for access for one {title}."
+- [x] H1 heading: "Isca Augusta Public Baths"
+- [x] H2 heading: "Ticket category"
+- [x] 3 buttons with format: "{title} {price}"
+- [x] After selection, hide unselected buttons
+- [x] Show H2 "Payment"
+- [x] Input field labelled "Card number"
+- [x] Input field labelled "Validation"
+- [x] "Pay now" button (initially disabled)
+- [x] Validate: 8-digit card number, sum equals validation field
+- [x] Show appropriate error/success messages
+- [x] Final message: "You have paid for access for one {title}."
 
 #### Testing:
-- [ ] Run `npm run assess` in each frontend folder
-- [ ] All tests must pass for full marks
+- [x] Run `npm run assess` in each frontend folder
+- [x] All tests must pass for full marks
 
 ### **Part 2: Framework Comparison Report (Question 2) - 30 marks**
 

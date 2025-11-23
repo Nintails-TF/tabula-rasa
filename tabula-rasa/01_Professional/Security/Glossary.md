@@ -1,0 +1,57 @@
+---
+date created: Sunday, November 23rd 2025, 1:59:26 pm
+date modified: Sunday, November 23rd 2025, 2:12:42 pm
+---
+
+# Definitions:
+
+- Event
+- Incident
+- Incident Handling
+- Remediation
+- Investigations
+- Prioritization
+- Cyber Kill Chain
+	- Recon
+	- Weaponize
+	- Deliver
+	- Exploit
+	- Install
+	- C&C
+	- Action
+- Droppers
+- Backdoors
+- Rootkits
+- C&C (Command and Control)
+- MITRE ATT&CK
+- Persistence
+- Privilege Escalation
+- Pyramid of Pain
+- Jump bag
+- DMARC
+- Endpoint Hardening
+- EDR (Endpoint Detection and Response)
+- MFA (Multi-Factor Authentication)
+- CIA Triad
+	- Confidentiality
+	- Integrity
+	- Availability
+- IOC (Indication Of Compromise)
+- YARA Rules (Yet Another Ridiculous Acronym)
+- STIX (Structured Threat Information eXpression)
+- JSON (JavaScript Object Notation)
+- PowerShell
+- Bash
+- False Positives
+- True Negatives
+- Chain of custody
+- Triage
+- Incident Recovery Process:
+	- Containment
+	- Eradication
+	- Recovery
+- IDS (Intrusion Detection System)
+- Firewall
+- WAF (Web Application Firewall)
+- SIEM (Security Incident and Event Manager)
+- 

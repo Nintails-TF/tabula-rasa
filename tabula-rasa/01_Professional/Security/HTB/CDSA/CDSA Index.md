@@ -12,9 +12,7 @@ date modified: Wednesday, October 15th 2025, 11:59:58 am
 
 ### SIEM & Log Analysis
 - [Security Monitoring and SIEM Fundamentals](./Academy%20Modules/Security%20monitoring%20and%20SIEM%20Fundamentals.md)
-	- *Estimated: 5 hours*
-	- *Actual: 1.5 hours*
-- [Understanding Log Sources & Investigating with Splunk](./Academy%20Modules/Understanding%20Log%20Sources%20%26%20Investigating%20with%20Splunk.md)
+- [[Academy Modules/Understanding Log Sources & Investigating with Splunk|Understanding Log Sources & Investigating with Splunk]]
 - [Detecting Windows Attacks with Splunk](./Academy%20Modules/Detecting%20Windows%20Attacks%20with%20Splunk.md)
 
 ### Threat Detection & Hunting
