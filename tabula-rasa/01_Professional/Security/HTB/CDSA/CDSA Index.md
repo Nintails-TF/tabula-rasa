@@ -1,36 +1,77 @@
 ---
 date created: Saturday, October 11th 2025, 10:17:46 am
-date modified: Wednesday, October 15th 2025, 11:59:58 am
+date modified: Sunday, November 23rd 2025, 4:06:16 pm
 ---
 
 # CDSA Academy Modules
 
 ### Incident Response & Forensics
+
 - [Incident Handling Process](./Academy%20Modules/Incident%20handling%20Process.md)
+    - 8 Hours Expected
+    - Hours Actual:
 - [Introduction to Digital Forensics](./Academy%20Modules/Introduction%20to%20Digital%20Forensics.md)
+    - 16 Hours Expected
+    - Hours Actual:
 - [Security Incident Reporting](./Academy%20Modules/Security%20Incident%20Reporting.md)
+    - 4 Hours Expected
+    - Hours Actual:
 
 ### SIEM & Log Analysis
+
 - [Security Monitoring and SIEM Fundamentals](./Academy%20Modules/Security%20monitoring%20and%20SIEM%20Fundamentals.md)
+    - 5 Hours Expected
+    - Hours Actual:
 - [[Academy Modules/Understanding Log Sources & Investigating with Splunk|Understanding Log Sources & Investigating with Splunk]]
+    - 8 Hours Expected
+    - Hours Actual:
 - [Detecting Windows Attacks with Splunk](./Academy%20Modules/Detecting%20Windows%20Attacks%20with%20Splunk.md)
+    - 40 Hours Expected
+    - Hours Actual:
 
 ### Threat Detection & Hunting
+
 - [Introduction to Threat Hunting and Hunting with Elastic](./Academy%20Modules/Introduction%20to%20Threat%20Hunting%20and%20Hunting%20with%20Elastic.md)
-- [YARA & Sigma for SOC Analysts](./Academy%20Modules/YARA%20%26%20Sigma%20for%20SOC%20Analysts.md)
+    - 4 Hours Expected
+    - Hours Actual:
+- [[Academy Modules/YARA & Sigma for SOC Analysts|YARA & Sigma for SOC Analysts]]
+    - 24 Hours Expected
+    - Hours Actual:
 
 ### Windows Security
+
 - [Windows Event Logs & Finding Evil](./Academy%20Modules/Windows%20Event%20Logs%20%26%20Finding%20Evil.md)
+    - 5 Hours Expected
+    - Hours Actual:
 - [Windows Attacks & Defence](./Academy%20Modules/Windows%20Attacks%20%26%20Defence.md)
+    - 16 Hours Expected
+    - Hours Actual:
 
 ### Network Analysis
+
 - [Into to Network Traffic Analysis](./Academy%20Modules/Into%20to%20Network%20Traffic%20Analysis.md)
+    - 8 Hours Expected
+    - Hours Actual:
 - [Intermediate Network Traffic Analysis](./Academy%20Modules/Intermediate%20Network%20Traffic%20Analysis.md)
+    - 7 Hours Expected
+    - Hours Actual:
 - [Working with IDS & IPS](./Academy%20Modules/Working%20with%20IDS%20%26%20IPS.md)
+    - 16 Hours Expected
+    - Hours Actual:
 
 ### Malware Analysis
+
 - [Introduction to Malware Analysis](./Academy%20Modules/Introduction%20to%20Malware%20Analysis.md)
+    - 24 Hours Expected
+    - Hours Actual:
 - [JavaScript Deobfuscation](./Academy%20Modules/JavaScript%20Deobfuscation.md)
+    - 4 Hours Expected
+    - Hours Actual:
+
+### Summary:
+
+**Total Time Expected:** 189 Hours 
+**Actual Time:** 
 ***
 # Learning Outcomes
 

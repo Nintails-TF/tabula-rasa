@@ -54,4 +54,3 @@ date modified: Sunday, November 23rd 2025, 2:12:42 pm
 - Firewall
 - WAF (Web Application Firewall)
 - SIEM (Security Incident and Event Manager)
-- 
