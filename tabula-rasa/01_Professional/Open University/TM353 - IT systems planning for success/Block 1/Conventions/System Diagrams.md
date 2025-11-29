@@ -1,7 +1,9 @@
 ---
 date created: Friday, November 21st 2025, 2:34:19 pm
-date modified: Saturday, November 22nd 2025, 1:12:49 pm
-Parent Link: "[[../Part 1 - Successful IT Systems#Systems Maps|Part 1 - Successful IT Systems]]"
+date modified: Thursday, November 27th 2025, 11:58:58 am
+Parent Link:
+  - "[[../Part 1 - Successful IT Systems#Systems Maps|Block 1: Systems Map]]"
+  - "[[../Part 2 - Learning from Failure#2.3.2. Systems Maps|Block 2 - Systems Map]]"
 ---
 
 # Purpose:
@@ -24,12 +26,14 @@ A systems diagram/map must have the following:
 - A diagram title, specifying the system of interest.
 - A system boundary
 - System components represented by blob lines and described in short phrases or words within the boundary.
+	- Don't use regular boxes, as it implies that the system is clearly defined, when it often isn't.
 - Environmental components described in words or phrases as blobs outside of the boundary.
 - **Don't link or show influence at this stage.**
 # Conventions:
 The key conventions to follow when producing a systems map is the following:
 - Words are used to name each component of the system and the environment.
 - Blobs can overlap only if some of the components are seen as common in the early stages.
+- Use overlaps sparingly, as they can reduce clarity. Overlap only when necessary.
 
 # Guidelines:
 
@@ -45,3 +49,5 @@ The key conventions to follow when producing a systems map is the following:
 # Example:
 ![[../../../../../03_Reference/Pictures/Wow-2004-systems-map.png]]
 *Note that you would typically use circles for everything, but I find that this is a little cleaner, and gets the point across just fine.*
+
+![[../../../../../03_Reference/Pictures/CASPA-systems-map.png]]

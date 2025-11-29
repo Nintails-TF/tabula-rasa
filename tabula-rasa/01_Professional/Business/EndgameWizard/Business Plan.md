@@ -1,6 +1,6 @@
 ---
 date created: Tuesday, October 7th 2025, 10:52:12 am
-date modified: Friday, October 10th 2025, 3:01:42 pm
+date modified: Friday, November 28th 2025, 2:51:37 pm
 Reminder: Update this as the project evolves.
 ---
 
@@ -11,6 +11,7 @@ Reminder: Update this as the project evolves.
 EndgameWizard is a gamified web app that makes chess endgame training actually fun. Using daily gauntlets with varied difficulty and time controls, the platform solves a simple problem: **players lose won endgames because endgame training is boring, so they don't practice it.**
 
 The goal is to create an addictive daily habit around endgame improvement - something players _want_ to do, not something they know they _should_ do.
+
 
 **Brand:** EndgameWizard  
 **Tagline:** "The fun way to stop losing won endgames"  
@@ -41,7 +42,6 @@ The goal is to create an addictive daily habit around endgame improvement - some
 **Core Promise:** Master chess endgames in 10 minutes a day without it feeling like homework
 
 **What Makes It Different:**
-
 - **Variety-driven sessions:** Mix of blitz (timed/easy) and slower (untimed/hard) positions keeps it fresh
 	- Give options for either blitz only or untimed only. But give bonus points to those who choose the multi-path.
 		- Don't want to force players who prefer blitzing things out to play slow, don't want to force slow players to stress. But the uncertainty of the gauntlet should improve engagement.
@@ -60,15 +60,15 @@ The goal is to create an addictive daily habit around endgame improvement - some
 The heart of EndgameWizard is the Daily Gauntlet - a curated set of 5-10 endgame positions designed for optimal engagement.
 
 **Structure:**
-1. **Warm-up (2-3 positions):** Timed, easy, build momentum
+1. **Warm-up (2-3 positions):** Timed, easy, build momentum.
     - Example: "Win K+Q vs K in 45 seconds"
-2. **Main Challenges (3-5 positions):** Medium difficulty, untimed
+2. **Main Challenges (3-5 positions):** Medium difficulty, untimed.
     - Example: "Convert this won pawn endgame"
-3. **Boss Position (1 position):** Hard, optional, for mastery
+3. **Boss Position (1 position):** Hard, optional, for mastery.
     - Example: "Master challenge: Draw this tricky Rook endgame"
 
 **Why This Works:**
-- Starts easy to build confidence and momentum
+- Starts easy to build confidence and momentum.
 - Variety prevents monotony (players don't know what's coming)
 - Natural difficulty curve within each session
 - Completable in one sitting (satisfying)
@@ -104,7 +104,6 @@ The heart of EndgameWizard is the Daily Gauntlet - a curated set of 5-10 endgame
 ## 6. Business Model (Future)
 
 **Phase 1 (First 6 months):** Free MVP
-
 - Focus entirely on product-market fit
 - Gather feedback and iterate rapidly
 - Build waitlist and community
@@ -137,26 +136,22 @@ The heart of EndgameWizard is the Daily Gauntlet - a curated set of 5-10 endgame
 - Aim for 10-20 active daily users
 
 **Phase 2: Online Communities (Months 2-4)**
-
 - Share on Reddit r/chess (cautiously - community is sceptical of promotion)
 - Post in chess Discord servers
 - Reach out to chess streamers for feedback (not sponsorship yet)
 - Create content: "Why you're losing won endgames (and how to fix it)"
 
 **Phase 3: Influencer Validation (Months 4-6)**
-
 - Offer free premium access to chess content creators for honest reviews
 - Targets: Smaller streamers first (GothamChess, Anna Cramling tier is later)
 - Focus on educational chess creators who value tools
 
 **Phase 4: Organic Growth (Months 6+)**
-
 - SEO: Target "endgame training," "chess endgame practice," etc.
 - User referrals: "Challenge a friend" features
 - Community-driven growth through club partnerships
 
 **Marketing Principles:**
-
 - Product quality over marketing spend
 - Word of mouth from satisfied users
 - Focus on retention metrics, not vanity metrics

@@ -1,6 +1,6 @@
 ---
 date created: Wednesday, November 12th 2025, 10:09:10 am
-date modified: Saturday, November 22nd 2025, 2:58:44 pm
+date modified: Thursday, November 27th 2025, 12:09:50 pm
 ---
 
 # 1. Introduction:
@@ -316,12 +316,12 @@ It's key that you can write a paragraph to describe what decisions you've made w
 Often when consulting a problem, you'll have to consider factors that haven't been directly implied by a client or problem statement. In this way, you can come up with new insights when building systems diagrams.
 ### Building Systems Maps:
 
-The conventions of a system diagram can be seen within [[Conventions/System-Influence Diagrams|System Diagram Conventions]].
+The conventions of a system diagram can be seen within [[Conventions/System Diagrams|System Diagram Conventions]].
 
 ***
 ## Influence Diagrams:
 
-Systems diagrams/maps are useful, but they only show components, not how they would interact. Influence diagrams as the same as systems maps, but have arrows showing flow between components.
+Systems diagrams/maps are useful, but they only show components, not how they would interact. [[Conventions/Influence Diagrams|Influence Diagrams]] are similar to systems maps, but have arrows showing flow between components.
 
 The key conventions are:
 - Do not use double headed arrows, use two separate arrows to denote flow in both directions.
@@ -571,43 +571,181 @@ To identify stakeholders, it can be valuable to ask the following questions:
 
 For example:
 
+Assume that the scenario is an IT system within a production factory, the stakeholders could be the following:
 
+- All people who record, collate, distribute data amongst the system.
+	- Admin team, sales staff, 
+- All the people who receive data from the old system.
+	- Managers, accountants, junior sales members.
+- Anyone who uses the data from decision making
+	- Production and warehousing managers
+- Those who design and develop the new system, as well as those who are familiar with the old system.
+	- Programmers, IT specialists
+- Suppliers who will in directly interface with the new system as their products or information will be recorded
+- The maintainers of the old systems and/or the people who will maintain the new system
+- Senior executives who funded or greenlit the project.
+- Other people who voted or pushed towards a different project or different implementation, who aren't getting resources because of this project
+- The customers of the factories projects.
 
-### Understanding and Prioritising Key Stakeholders
+It's key to represent less obvious stakeholders, you don't just want to refer stakeholders as the carbon copies of:
 
+- Senior Management
+	- Directors, Executives, Investors, Owners, Seniors, C-suite, etc.
+- Project core team
+	- Engineers, organisational involvement (business, sales, marketing, etc.), team leaders, project personnel, team members, etc.
+- Project recipient.
+	- Clients, customers, consumers, end-users
+
+Not that these are bad to mention, it's just that they are very obviously stakeholders. Considering alternative or overlooked stakeholders enables you to get a broader picture about how an IT system will actually influence an organisation.
+### Understanding and Prioritising Key Stakeholders:
+
+We can view stakeholders in a context of priorities, so who do we prioritise the most and the least:
+
+1. **Primary Stakeholders** - The people who will actually use the system
+2. **Secondary Stakeholders** - The people who don't use the system, but who receive output or provide input into the system. (e.g. Receiving a report produced by the system, working with members who are within the current system, etc.)
+3. **Tertiary Stakeholders** - People who aren't primary or secondary. but who are effected by the success or failure of the IT system. (Leadership who will receive kudos or blame if the system goes well or poorly)
+4. **Facilitation Stakeholders** - People who design, develop, and maintain the system.
+
+Feedback should be gathered from each of the different groups in order to align the project correctly with the needs and wants of each group. If there are conflicting desires, it's best to inform both parties and let them come to a solution.
 ### Managing Stakeholders:
 
+We can use Mendelow's Matrix to map out how we should deal with each stakeholder or group of stakeholders:
+
+![[../../../../03_Reference/Pictures/Mandelow's-Stakeholder-Matrix.jpg]]
+
+When considering the matrix there are a few caveats:
+1. Shifts in power and interest can occur over time, so you must be observant to the changes within a project or organisation.
+2. People with low levels of power and interest can rally together to force change from the bottom-up.
+
+The following table, expresses stakeholder analysis:
+
+| Stakeholder           | Individual Goal                | Past Reactions                                                     | Expected Reaction                                             | Impact                                                                  | Future reactions                                                                             | Ideas to ensure support                                              |
+| --------------------- | ------------------------------ | ------------------------------------------------------------------ | ------------------------------------------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| Project Managers      | Keep production and quotas met | Sceptical of benefits, worried about problems.                     | Furious if things go wrong during the switch                  | Very positive if it makes life easier for them, negative if goes poorly | Could refuse new system if they remain sceptical of success                                  | Keep them updated and informed with process and testing              |
+| Production Operatives | Remain in paid employment      | Contact unions if change will have a negative impact on their job. | Likely to obstruct the system if change is viewed as negative | Positive if system improves their job or makes tasks easier.            | Could refuse to work with new system or not comply fully if they feel watched or threatened. | Explain benefits for the new system, offer bonuses for productivity. |
 
 ***
-
 # 1.6. Power and Success in IT Systems:
+
+Power and position often shape the relationships between players in the organisation, this is true when developing a new IT system or new system as well.
+
+It can be challenging to define [[../Glossary#^Power-def|Power]] as it can be quite broad and not fit neatly under one term or definition. Power can also be grouped as:
+
+- **Dispositional:** Power as a set of abilities (Technical abilities, Social skills, natural leadership, etc.)
+- **Agency-based:** Power as the ability to set change in motion (Social sway, Influence, position in hierarchy)
+- **Facilitative:** Power to make change happen. (Operational/Enabling power, Decision makers, Financial power/connections to investors, etc.)
+- **Structural:** Power that operates through institutions and systems. (Legal, Policy, Company structure, etc.)
+
+These categories aren't exclusive but you can have levels of different amounts of power. You may be technically brilliant and have the power to develop a better system, but socially or politically it may be unpopular for your developments to happen, or if your suggestions came from someone more established, that the same suggestions would succeed, because there may be a lack in your social capital or your position in the system hierarchy.
+
+The [[../Glossary#^Struc-def|Structures]] of power often manifest in different ways depending on the individual. We can also add that the process of using or gaining power is known as [[../Glossary#^Poli-def|Politics.]]
 
 ***
 ## 1.6.1 Politics and Rationality:
+
+Organisations aren't completely rational and not all members are committed to achieving a common goal within an organisation.
+
+Goals may be rational for one party, but irrational for another. So there is an implicit battle for interests, resources, and to define the goals in the first place. People aren't neutral actors and when decisions are made, they either benefit, remain neutral, or are harmed by the process.
+
+These politics remain underground, as long as a few conditions are met:
+1. The politics are structured and predictable.
+	1. Consistent pecking orders, Unwritten rules are followed, Power balances are stable.
+	2. When order breaks down, Politics become
+2. There is an absence of visible conflict.
+
+Organisations run into problems with politics, because people are placed into environments where they are suppose to **compete** (Limited promotions, status, interesting work, money, etc.) and **collaborate** (Working together, sharing knowledge, mentoring others).
+
+Since these are at odds with each other, politics being a part of organisations are a result of this structure. Thus, no organisation or people can avoid this conflict between the individual and group.
+
+### Activity - Analysis of Stakeholders within a Failure:
+
+- Due to the failure of the BBC DMI, John Linwood was dismissed. However; this has broken the law and reading the tribunal findings, makes it clear that it wasn't just John Linwood.
+- The BBC culture was one of avoidance, blame shifting, and politics. Where people feared being associated with a sinking ship, so cut ties.
+- Linwood ended up taking a £100m project that was already late and overbudget, the outsources Siemens was terminated and the DMI was brought in house.
+	- This was suppose to be a fresh start. With a new deadline for February 2011, with a MVP for then.
+- However, by the summer another £19m was lost due to delays and other issues.
+- Linwood was saying that there was a desperate need for a senior owner from the BBC's vision group to deliver the project.
+- George Entwistle was assigned, but promptly kicked out. At the same time the Jimmy Savile scandal was ongoing.
+- A chairman Lord pattern declared he was going to fess up to the house of commons who had been monitoring the DMI and failure of it.
+	- Promising that external consultants would figure out what went wrong.
+- Linwood's one-page summary was not reference during a key two hour executive meeting.
+- The executives looked at getting rid of Linwood as the CTO of the BBC.
+- Linwood's lack of collaboration and loss of confidence with executives according to Coles.
+	- There was no notes or evidence of this during the meeting though.
+- Coles and Burdon had a meeting with Linwood.
+	- Coles and Burdon knew what the meeting was about, and both being long term board members for decades, said that they had hit Linwood cold.
+- Linwood rejected the attempt to blame the DMI failure on him, whilst being told to resign or go through a disciplinary process and face dismissal. 
+- The DMI was scrapped, and Linwood was suspended.
+
+The failure of the project is an issue of ownership and blame shifting, people looking for a "fall-guy" and nobody wanting to be said fall-guy.
 
 ***
 
 ## 1.6.2. The Causes and Value of Conflict:
 
+Conflicts can occur when two or more social actors, where they interact with each other trying to pursue their own goals, this often happens because of the following reasons:
+
+1. Competition for a resource that is scare.
+2. Different expectations and behaviours of join action.
+3. Different attitudes, values, beliefs, and skills.
+
+This conflict isn't always bad, it's both legitimate and inevitable, as it can lead to creative solutions. A lack of conflict can lead to poor decisions and ineffectiveness.
+
 ***
 
 ## 1.6.3. The Politics of Stakeholder Identification:
+
+Drawing boundaries and prioritising stakeholders is political in itself, you define an in/out group or important people and unimportant people. So politics can be used to influence the drawing of lines.
+
+Identification of stakeholders within IT systems is political. If a system is deemed to be high-visibility and have a strong chance of success, then more people will scheme to be the lead, to take the credit. Vice Versa.
+
+There is no purely neutral view - even if you hired external consultants, who may be less biased, but would be more biased to whoever is paying them or if others have communicated with them asking for a specific result/outcome - especially if they are in power.
 
 ***
 
 ## 1.6.4 Stakeholder Legitimacy and Conflict:
 
+Stakeholders attempt to exert and maintain influence by legitimising their own interests whilst de-legitimising and dismissing others. A common method of this is executives/managers/designers use their power to create a structure that benefits them rather than other groups (workers/users).
+
+For this reason, formal methods of techniques of controlling and planning the implementation of systems is required, so that the actual performance aligns with the actual stated views, standards, and goals of an organisation.
+
+In addition to this, informal systems such as peer pressure, tradition, and convention are also in place. The can again result in the "Implementation Gap" the difference between the planned and actual implementation.
+
+For example: Technology can be designed to do one thing, but in practice is used for another, or features can be ignored.
+
+These mechanism of domination through leadership, culture, and structured are often treated as being neutral, inevitable, and aren't marked as being a real issue.
+
+These issues congregate into a problem called: "Goal incongruence", the goals of each actor are mismatched and their is conflict within stakeholders. This issue is often further agitated by management - as management tends to believe that they are neutral or rational actors. This leads to power and interests that remain invisible until the boiling point of conflict occurs, in which management or leadership needs to step in.
+
 ***
 
 ## 1.6.5 Expert Stakeholder Power:
+
+The power exercised by programmers and designers plays an important role within the systems, since they have a strong basis of knowledge and understanding about how to design and make systems that other people don't have.
+
+This is because credentials can act as a shield or buffer. If a person has a set of credentials or a strong basis of experience, then they can legitimately work on the system. Other's who don't have this cannot. Certain professions have more power than others.
+
+The power of experts changes depending on the stage of the system life cycle. With development practices like Waterfall, those in a technical position have more power, within agile some of that power is diminished as other stakeholders have a bigger say now.
+
+Desires of an agile team to flatter leadership or management often lead to ineffective decision-making or learning to occur, by making the power more symmetric systems can turn out worse.
 
 ***
 
 ## 1.6.6. Stakeholder Power Relations and System Success:
 
+During the implementation of a system some groups will be better placed to influence the inputs, outputs, and outcomes of the process. With power being in constant flux, system success can be harder to obtain.
+
+In essence, "A system may be wholly accurate in achieving the needs of an organisation. But may be resisted as it redistributes power in an unfavourable manner. If a system can be described as invalid if it challenges the power structure of the organisation."
+
+The success or failure of an IT system can be hotly debated if the dominant powers think so or disagree.
 ***
 
 # 1.7. Summary:
+
+This part has discussed both technical and system concepts, as well as politics and organisational structures about the sociotechnical aspects of a system and how it operates.
+
+***
+
 
 
 

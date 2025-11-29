@@ -1,6 +1,6 @@
 ---
 date created: Friday, November 21st 2025, 7:23:46 pm
-date modified: Friday, November 21st 2025, 7:55:51 pm
+date modified: Sunday, November 23rd 2025, 6:32:04 pm
 ---
 
 # Quick Notes:
@@ -28,4 +28,13 @@ date modified: Friday, November 21st 2025, 7:55:51 pm
 - To connect to a share: `smbclient //SERVER/SHARE`
 
 **Redeemer:**
-
+- `nmap -sV -p- --min-rate 5000 10.129.34.116` - Scan all ports (1-65535), Do so aggressively with 5000 packets per second.
+	- In an actual engagement, this can flag IDS or cause network congestion (Higher Latency, Packet loss, connection timeouts.)
+- A Redis database is running on port 6379
+	- We can use `redis-cli` to interact with this.
+	- Connecting to the Redis database port: `redis-cli -h HOSTNAME/IP`
+- Retrieving DB info
+	- `info` - returns information and stats about the server.
+	- `select` - Enables us to select a database within Redis.
+	- `KEYS *` - Returns all keys within a database.
+	- `GET <Keyname>` - retrieves the string value associated with the key.
