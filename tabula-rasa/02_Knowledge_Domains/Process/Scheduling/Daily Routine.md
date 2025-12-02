@@ -1,6 +1,6 @@
 ---
 date created: Saturday, November 8th 2025, 9:47:01 am
-date modified: Saturday, November 8th 2025, 11:55:38 am
+date modified: Tuesday, December 2nd 2025, 11:26:29 am
 ---
 
 # Daily Processes:
@@ -54,14 +54,4 @@ date modified: Saturday, November 8th 2025, 11:55:38 am
 - [ ] (10:00PM) - Bedtime.
 
 ***
-
-If work is done early - Top 3 done, pivot to:
-
-- Reading.
-	- Finance books/articles
-	- Philosophy and psychology pieces
-	- Other misc reading.
-- Chess playing.
-- Getting ahead in other areas.
-- Business planning/work.
 

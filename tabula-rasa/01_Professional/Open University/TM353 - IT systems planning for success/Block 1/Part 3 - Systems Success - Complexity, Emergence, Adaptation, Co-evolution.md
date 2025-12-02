@@ -1,6 +1,6 @@
 ---
 date created: Tuesday, November 25th 2025, 1:01:03 pm
-date modified: Saturday, November 29th 2025, 2:25:28 pm
+date modified: Monday, December 1st 2025, 12:13:36 pm
 ---
 
 # 3. Introduction:
@@ -128,6 +128,10 @@ A few key points here is that:
 2. But, when an IT system reaches a state of Chaos, the possibility of bifurcation into a new system emerges. So it may be necessary to redefine an IT system with a new structure or roles.
 
 ## 3.1.5. Principles:
+
+We can summarise what has been learned within the following three points:
+
+1. Existing at the edge of chaos.
 
 ***
 # 3.2. Emergence:
