@@ -1,6 +1,6 @@
 ---
 date created: Monday, December 1st 2025, 1:49:46 pm
-date modified: Monday, December 1st 2025, 2:04:27 pm
+date modified: Tuesday, December 2nd 2025, 2:22:48 pm
 ---
 
 ---
@@ -22,13 +22,14 @@ date modified: Monday, December 1st 2025, 1:47:00 pm
 
 ### Part (a) - Spray Diagram or Rich Picture (10 marks)
 
-[INSERT DIAGRAM HERE]
+![[../../../../03_Reference/Pictures/TMA01-spray-diagram-final.png]]
 
 **Rationale and Insights**:
+I've chosen this approach to building a spray diagram, as when working through various pieces of material, I found the Figure 2.4. that depicted the Post Office Horizon failure to be very readable. I decided to include details about how key stakeholders such as customer and staff where effected, highlighting the stress and anxiety felt by both parties. 
 
-[Your 100-word explanation here]
+The core insight was that the system failure was catastrophic because it occurred across 3 different domains (technical, temporal, social/cultural). e.g. The mainframe bug was the catalyst, it happened during tax season, Barclay's didn't learn from previous incidents.
 
-*Word count: XX/100*
+**Word Count: 98**
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 date created: Saturday, November 22nd 2025, 1:11:16 pm
-date modified: Wednesday, November 26th 2025, 12:02:26 pm
+date modified: Tuesday, December 2nd 2025, 2:24:05 pm
 ---
 
 # Purpose:
@@ -8,7 +8,6 @@ date modified: Wednesday, November 26th 2025, 12:02:26 pm
 The purpose of a multiple-cause diagram is to consider how events combine together to form a larger problem. They can identify feedback loops and get closer to the root issue of why things are happening.
 
 Think of it as starting to untie a bundle of string.
-
 # Elements:
 - A title describing the purpose of the diagram.
 - Phrases used to describe the event/states
