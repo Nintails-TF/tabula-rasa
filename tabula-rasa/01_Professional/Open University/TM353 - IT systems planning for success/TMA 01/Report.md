@@ -1,11 +1,6 @@
 ---
 date created: Monday, December 1st 2025, 1:49:46 pm
-date modified: Tuesday, December 2nd 2025, 2:22:48 pm
----
-
----
-date created: Monday, December 1st 2025, 1:47:00 pm
-date modified: Monday, December 1st 2025, 1:47:00 pm
+date modified: Thursday, December 4th 2025, 8:44:44 am
 ---
 
 # TM353 TMA 01 - Report Submission
@@ -22,7 +17,7 @@ date modified: Monday, December 1st 2025, 1:47:00 pm
 
 ### Part (a) - Spray Diagram or Rich Picture (10 marks)
 
-![[../../../../03_Reference/Pictures/TMA01-spray-diagram-final.png]]
+![[../../../../03_Reference/Pictures/TMA01-spray-diagram.drawio (1).png]]
 
 **Rationale and Insights**:
 I've chosen this approach to building a spray diagram, as when working through various pieces of material, I found the Figure 2.4. that depicted the Post Office Horizon failure to be very readable. I decided to include details about how key stakeholders such as customer and staff where effected, highlighting the stress and anxiety felt by both parties. 
@@ -35,130 +30,116 @@ The core insight was that the system failure was catastrophic because it occurre
 
 ### Part (b) - Multiple Cause Diagram (10 marks)
 
-**Significant event selected**: [Your chosen event]
-
-[INSERT MULTIPLE CAUSE DIAGRAM HERE]
+**Significant event selected**: Widespread customer dissatisfaction and financial hardship.
+![[../../../../03_Reference/Pictures/TM353-Multiple-Cause-Diagram.drawio.png]]
 
 **Rationale and Insights**:
 
-[Your 100-word explanation here]
+I examined widespread customer frustration as the significant event, focusing on how system failure impacts business's core need: maintaining customer relationships. I began with root causes, expanding outward before grouping spatially into four categories: temporal amplifiers, technical failures, operational failures, and customer perspective.
 
-*Word count: XX/100*
+What I found was how the technical issue bled into all categories except the temporal. The key insight was how customer-company trust is critical. That emotions and negative perceptions can turn a technical incident into a relationship breakdown.
+
+Systems that are customer facing require robustness, as trust is hard to rebuild once broken.
+
+**Word count: 96**
 
 ---
 
 ### Part (c) - Five Key Stakeholders (10 marks)
 
-**Approach used**: [State which approach: Questions / Dix's four classes / Power-interest grid]
+I've used **Dix's four classes of stakeholders** approach to identify five key stakeholders.
+#### Primary Stakeholders
+Barclays 13+ million active customers who operate through online/mobile banking, branch services, and debit cards. Their primary interest is fundamental: Reliable access to deposits and withdrawals to store or access cash either physically or digitally. 
+#### Secondary Stakeholders
+HMRC relies on payments that are processed through Barclays system. Their interest is tied into the financial system as a whole, they want citizens to be able to submit self-assessment taxes by the deadline. System failure creates administrative burden on their end.
 
-**Stakeholder 1**: [Name/Type]  
-**Description**: [Who they are]  
-**Interest**: [Their stake in the IT system]
+Barclays Branch and Contact Centre Staff are also secondary stakeholders, they depend on the system outputs to effectively serve customers. Their interest is in giving accurate, current system data to process transactions and resolve issues. System failure can break this process and make them unable to help customers.
+#### Tertiary Stakeholders:
+Barclays Senior Management/CEO are affected by system failure through multiple channels: reputational damage, regulatory scrutiny, and in this case parliamentary accountability. Their interest is in organizational reputation and regulatory compliance, they face consequences from the FCA/Parliament if the system breaks down.
+#### Facilitating Stakeholders:
+UK Mainframe provider is the external vendor who designed, developed, and maintains the critical Mainframe software to ensure that processes at Barclays work as intended. Their interest is in building a reliable system, that works well for their clients. A system failure in this case forces them to develop a fix quickly and manage liability.
 
-**Stakeholder 2**: [Name/Type]  
-**Description**: [Who they are]  
-**Interest**: [Their stake in the IT system]
-
-**Stakeholder 3**: [Name/Type]  
-**Description**: [Who they are]  
-**Interest**: [Their stake in the IT system]
-
-**Stakeholder 4**: [Name/Type]  
-**Description**: [Who they are]  
-**Interest**: [Their stake in the IT system]
-
-**Stakeholder 5**: [Name/Type]  
-**Description**: [Who they are]  
-**Interest**: [Their stake in the IT system]
-
-*Word count: XX/250*
+**Word count: 245**
 
 ---
 
 ## Question 2: Systems Failures (30 marks)
 
-### Part (a) - Identifying and Analyzing Failures (8 marks)
+### Part (a) - Identifying and Analysing Failures (8 marks)
 
 **Three significant failures identified**:
 
-1. [Failure 1 - brief description]
-2. [Failure 2 - brief description]
-3. [Failure 3 - brief description]
+1. **Single point of failure architecture** - The UK Mainframe had no redundancy or backup system. Causing a system-wide collapse when a single module failed. The mainframe code, or Barclays implementation of the mainframe should of been changed.
+2. **Pattern of reoccurring incidents** - 33 incidents in 2 years with similar root causes to this event. Systematic failure with the current approach and a failure to learn from mistakes.
+3. **Inadequate testing procedures** - Software fault that was critical within the Mainframe model should never of reached live production.
 
-**Selected failure for detailed analysis**: [Number/description]
 
 **Analysis**:
 
-[Your analysis covering:
-- Why this is a failure
-- Why it's significant enough for analysis
-- Who would/wouldn't agree and why
-Maximum 200 words]
+I have chosen the **pattern of recurring incidents** as my main issue. I consider this to be a critical failure as 33 incidents in two years indicates systemic inability to learn and improve organizational processes. The same root causes *(technology change, operational error, third-party issues)* repeatedly occur despite previous incidents. This is suitable for further analysis as it reveals deeper cultural and governance failures that resist technical fixes; changing organizational culture and learning mechanisms is far more challenging than fixing individual bugs. The **FCA** and **customers** would strongly agree this represents failure. **Barclays management** might defensively argue complex systems inevitably experience incidents.
 
-*Word count: XX/200*
+**Word Count: 196**
 
 ---
 
 ### Part (b) - Systems Map (10 marks)
 
-**Sociotechnical system selected**: [Name of system]
-
-[INSERT SYSTEMS MAP DIAGRAM HERE]
-
+**Sociotechnical system selected**: Barclays Banking Delivery System
+![[../../../../03_Reference/Pictures/Pasted image 20251203154502.png]]
 **Rationale and Insights**:
+I selected Barclays **Banking Service Delivery**, drawing the boundary around components Barclays directly operates. I positioned **UK Mainframe System Infrastructure straddling the boundary** because ownership is ambiguous. Barclays depends entirely on it but cannot control it. This represents a **critical architectural error**: tight coupling to partially-controlled infrastructure. 
 
-[Your 100-word explanation covering:
-- How you drew the map
-- Elements included/excluded
-- Insights about system and failure]
+I placed the 33 previous incidents within the external environment, as it is historical pattern that the system failed to learn from. The key insight: this dependency creates systemic vulnerability—when the Mainframe fails, cascading collapse occurs across all services, yet accountability for prevention is unclear between Barclays and Mainframe UK.
 
-*Word count: XX/100*
+**Word count: 98**
 
 ---
 
 ### Part (c) - Influence Diagram (6 marks)
+![[../../../../03_Reference/Pictures/Pasted image 20251203162911.png]]
 
-[INSERT INFLUENCE DIAGRAM HERE]
 
 **Transition and Further Insights**:
 
-[Your 100-word explanation covering:
-- How you transitioned from map to influence diagram
-- Further insights gained]
+I transitioned from systems map to influence diagram by adding arrows, starting with obvious service delivery flows (technical infrastructure → customers), then mapping operational dependencies and external influences. 
 
-*Word count: XX/100*
+The key insight: **the UK Mainframe Infrastructure's central position with arrows radiating to all technical components demonstrates single-point-of-failure vulnerability**—when it fails, cascading collapse occurs. 
+
+The **dotted arrow from 33 previous incidents to IT Team** shows this influence should exist but is weak—the system fails to learn from failure history. This reveals how tight coupling and broken organizational learning combine to enable recurring incidents.
+
+**Word Count: 92**
 
 ---
 
 ### Part (d) - Lessons and Prevention (6 marks)
 
-**Lessons and Prevention Strategies**:
+The 33 recurring incidents reveal systematic organizational failure, not just technical problems.
 
-[Your 100-word response covering:
-- Lessons drawn from failure
-- How to prevent similar failures]
+The **three root causes**: architectural vulnerability from tight coupling to single infrastructure, ambiguous product ownership, and insufficient learning to prevent recurrence.
 
-*Word count: XX/100*
+Prevention occurs within two main factors:
+- **Architectural**
+	- Implement redundancy eliminating single points of failure; establish clear ownership boundaries with Mainframe UK Provider defining responsibilities and testing protocols before production deployment.
+- **Organisational**
+	- Mandate post-incident reviews ensuring lessons directly influence testing procedures and implementation; foster learning culture where failure analysis drives improvement.
+
+Technical bug fixes will fix the symptoms, where as organisational change will prevent reoccurrence.
+
+**Word count: 101**
 
 ---
 
 ## Question 3: Systems Concepts (20 marks)
 
-### Complexity
+### Complexity:
 
-[Your paragraph analyzing complexity in the Barclays system, with justification, evidence from case study, and reference to Part 3 principles where appropriate]
+### Emergence:
 
-### Emergence
+### Adaptation:
 
-[Your paragraph analyzing emergence in the Barclays system, with justification, evidence from case study, and reference to Part 3 principles where appropriate]
+### Co-evolution:
 
-### Adaptation
 
-[Your paragraph analyzing adaptation in the Barclays system, with justification, evidence from case study, and reference to Part 3 principles where appropriate]
-
-### Co-evolution
-
-[Your paragraph analyzing co-evolution in the Barclays system, with justification, evidence from case study, and reference to Part 3 principles where appropriate]
 
 *Word count: XX/500*
 
@@ -170,69 +151,57 @@ Maximum 200 words]
 
 ### Part (a) - Identification (7 marks)
 
-| Dimension | Factor 1 | Factor 2 |
-|-----------|----------|----------|
-| Socio-cultural | [Your factor] | [Your factor] |
-| Technology | [Your factor] | [Your factor] |
-| Economic | [Your factor] | [Your factor] |
-| Environmental | [Your factor] | [Your factor] |
-| Political | [Your factor] | [Your factor] |
-| Legal | [Your factor] | [Your factor] |
-| Ethical | [Your factor] | [Your factor] |
+| Dimension      | Factor 1                                      | Factor 2                   | Description                                                                                                                                                             |
+| -------------- | --------------------------------------------- | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Socio-cultural | Aging Population                              | Digital Literacy levels    | Rural populations often have lower digital skills, meaning strong UI/UX design is key. Aging populations often exacerbate this.                                         |
+| Technology     | Broadband Infrastructure                      | Cybersecurity Threats      | Remote rural can still have limited internet connectivity/speeds, solutions that are low bandwidth or have offline functionality help.                                  |
+| Economic       | Cost of Implementation                        | Rural economic conditions  | High upfront implementation costs, create a cost-effective solution to suit the budget.                                                                                 |
+| Environmental  | Geographical Challenges with remote locations | Climate impact             | Scattered population makes it difficult to access physical support systems. Rural citizens highly value climate/green space, so minimize climate impact where possible. |
+| Political      | Government healthcare policy                  | Funding priorities         | Government policy can provide either opportunity or challenges, depending on how they are aligned within the area.                                                      |
+| Legal          | Data protection (GDPR)                        | Accessbility requirements  | Healthcare data is very sensitive, so sufficient encryption and protection of data is necessary for regulatory compliance                                               |
+| Ethical        | Digital divide                                | Equal access to healthcare | Need to be careful to not exclude those who are vulnerable. As a digital solution could exclude those who need it most, ensure robust accessibility features.           |
 
-*Word count: XX/150*
+**Word Count: 125**
 
 ---
 
 ### Part (b) - Analysis (5 marks)
 
-**Opportunities**:
+**Opportunities**: 
 
-**Opportunity 1**: [Identified opportunity]  
-**Why it's an opportunity**: [Explanation]
+**Government Funding:** Government investment in healthcare digitalisation provides grants and contracts, creating revenue opportunities for transformation projects in under-invested rural areas.
 
-**Opportunity 2**: [Identified opportunity]  
-**Why it's an opportunity**: [Explanation]
+**High Value Proposition:** Successfully delivering digital healthcare to rural populations enhances consultancy reputation and demonstrates real impact, boosting the reputation and potential clients for a consultancy firm.
 
-**Threats**:
+**Threats**: 
 
-**Threat 1**: [Identified threat]  
-**Why it's a threat**: [Explanation]
+**Poor Broadband Infrastructure:** Rural areas often lack modern connectivity, requiring additional resources to design low-bandwidth or offline-capable solutions, increasing development costs and complexity.
 
-**Threat 2**: [Identified threat]  
-**Why it's a threat**: [Explanation]
+**GDPR Compliance/Cybersecurity:** Healthcare data regulations create significant compliance burdens, extending development timelines and costs. Cyber threats require robust security measures, increasing operational expenses and liability risks.
 
-*Word count: XX/100*
+**Word Count: 99**
 
 ---
 
 ### Part (c) - Prioritisation (5 marks)
 
-**Criteria used**: [State which one: Impact on organisation and stakeholders / Strategic significance / Risk and likelihood / Resources]
+Chosen Factor: **Impact on the organisation and stakeholders**
 
-**Most critical opportunity**: [Opportunity chosen]
+The most critical opportunity is: **Government Funding**. Without this factor, public facing rural organisations cannot afford a digital transformation or maintenance of one. Without working together with the government, the project will not even get its feet off the ground.
 
-**Justification**:  
-[Your justification with reference to digital transformation in rural healthcare and strategic planning for service expansion]
+The most critical threat is: **GDPR Compliance/Cybersecurity**. Non-compliance poses a severe risk due to fines, legal liability, and reputational damage. Which harms the rural healthcare organisations and the reputation of the consultancy group. Data breaches affect vulnerable patients, cause ethical harm, and destroy trust with stakeholders.
 
-**Most critical threat**: [Threat chosen]
-
-**Justification**:  
-[Your justification with reference to digital transformation in rural healthcare and strategic planning for service expansion]
-
-*Word count: XX/100*
+**Word Count: 95**
 
 ---
 
 ### Part (d) - Reflection (3 marks)
 
-**Reflection**:
+As a systems planner, Personally I'm biased in a cynical direction. I'm looking at this project in terms of risk, and where as developing a strong IT system for a rural population can have an enormous positive impact. Simultaneously, it is a very risky and difficult endeavour for consultants.
 
-[Your reflection covering:
-- How assumptions, values, or biases influenced your analysis
-- How this question enhanced understanding of planning in complex IT systems]
+This highlights how important aspects outside of technical aspect, such as social, economic, and political environments/states wildly affect the success/failure of IT systems. In the future, when planning or building projects, I'd ensure to focus and understand what these external factors are, to increase the chance of success.
 
-*Word count: XX/100*
+**Word Count: 99**
 
 ---
 
@@ -243,69 +212,3 @@ Aliaj, O. (2025) 'Barclays app outage deprives customers of banking services', *
 Maru, V. (2025) *Letter to Treasury Committee of the UK Parliament*, 26 February. Available at: <https://committees.parliament.uk/publications/46937/documents/242221/default/> (Accessed: 1 December 2025).
 
 [Add any other references if used]
-
----
-
-## Total Word Count Summary
-
-| Question | Part | Word Count | Limit | Status |
-|----------|------|------------|-------|--------|
-| Q1 | (a) | XX | 100 | ✓/✗ |
-| Q1 | (b) | XX | 100 | ✓/✗ |
-| Q1 | (c) | XX | 250 | ✓/✗ |
-| Q2 | (a) | XX | 200 | ✓/✗ |
-| Q2 | (b) | XX | 100 | ✓/✗ |
-| Q2 | (c) | XX | 100 | ✓/✗ |
-| Q2 | (d) | XX | 100 | ✓/✗ |
-| Q3 | All | XX | 500 | ✓/✗ |
-| Q4 | (a) | XX | 150 | ✓/✗ |
-| Q4 | (b) | XX | 100 | ✓/✗ |
-| Q4 | (c) | XX | 100 | ✓/✗ |
-| Q4 | (d) | XX | 100 | ✓/✗ |
-| **TOTAL** | | **XXXX** | **1900** | ✓/✗ |
-
----
-
-## Submission Checklist
-
-**Content**:
-- [ ] All questions answered
-- [ ] All diagrams included
-- [ ] All word counts provided
-- [ ] All word limits observed
-- [ ] All required elements present
-
-**Specific Requirements**:
-- [ ] Q1(a): Diagram + rationale + insights
-- [ ] Q1(b): Diagram + rationale + insights
-- [ ] Q1(c): Approach stated + 5 stakeholders
-- [ ] Q2(a): 3 failures + 1 analysed + perspectives
-- [ ] Q2(b): Systems map + rationale + insights
-- [ ] Q2(c): Influence diagram + transition explanation
-- [ ] Q2(d): Lessons + prevention
-- [ ] Q3: All 4 concepts + principles referenced
-- [ ] Q4(a): STEEPLE table complete
-- [ ] Q4(b): 2 opportunities + 2 threats explained
-- [ ] Q4(c): Criteria stated + prioritization justified
-- [ ] Q4(d): Reflection on assumptions and learning
-
-**Quality**:
-- [ ] Case study evidence used throughout
-- [ ] Critical analysis demonstrated
-- [ ] Multiple perspectives considered
-- [ ] Professional presentation
-- [ ] Diagrams clearly labelled
-- [ ] Rationales provided for all diagrams
-
-**References**:
-- [ ] Aliaj (2025) cited correctly
-- [ ] Maru (2025) cited correctly
-- [ ] Reference list included
-
-**Final Checks**:
-- [ ] Name and PI on submission
-- [ ] All formatting correct
-- [ ] Proofread completed
-- [ ] Ready for submission
-
----
