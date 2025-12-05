@@ -1,6 +1,6 @@
 ---
 date created: Monday, December 1st 2025, 1:49:46 pm
-date modified: Thursday, December 4th 2025, 8:44:44 am
+date modified: Thursday, December 4th 2025, 9:47:16 am
 ---
 
 # TM353 TMA 01 - Report Submission
@@ -131,17 +131,23 @@ Technical bug fixes will fix the symptoms, where as organisational change will p
 
 ## Question 3: Systems Concepts (20 marks)
 
-### Complexity:
+Understanding and modelling **complexity** was a critical issue within Barclays, as they treated their infrastructure as a **simple system** when it exhibited characteristics of a **complex system**. (Casti, 1994) identifies four factors distinguishing complex from simple systems: **predictability**, **interactions**, **control**, and **decomposability**. The case study particularly demonstrates complexity through **interactions** and **control**.
 
-### Emergence:
+The **interactions** within Barclays' IT infrastructure spanned numerous interdependent components. The critical incident demonstrates this: the initial Mainframe failure cascaded through mobile/web applications, debit cards, and payment processing, an unpredictable cascade characteristic of complex systems. **Control** was fragmented between Barclays (institutional knowledge) and Mainframe UK (technical expertise). This distributed control reduced **decomposability**. Barclays could not easily isolate or fix individual components during the outage, demonstrating that the system's complexity required more coordinated management across organizational boundaries.
 
-### Adaptation:
+**Emergence** refers to properties that arise from interactions between system components that are not present in the components themselves (Open University, 2025, p.137-139). The Barclays case demonstrates emergence through **organizational learning failure**. The inability to prevent recurring incidents emerged from interactions between technical complexity, organizational culture, and fragmented responsibilities.
 
-### Co-evolution:
+No single component contained this failure; it arose from how technical systems' complexity overwhelmed organizational capacity for effective response and learning. Similarly, **system fragility** emerged from the interaction of tightly-coupled components, insufficient redundancy, and accumulated technical debt. Thus, creating **brittleness** not predictable from examining individual components.
 
+**Adaptation** refers to how systems change in response to their environment to maintain viability (Open University, 2025, p.142-143). The Barclays case reveals **inadequate adaptation** despite environmental pressures. Following each incident, Barclays implemented technical controls and process changes which demonstrated attempted adaptation to failures. However, the **recurring nature** of incidents between 2023-2025 indicates these adaptations were insufficient. The adaptations were primarily **reactive and technical** (fixing immediate causes) rather than **proactive and systemic** (addressing underlying organizational and cultural factors).
 
+Effective adaptation requires not only technical change, but cultural and organizational change too. Which is much harder to achieve, as without external challenge or a devil's advocate. Fixing systemic problems with people is more challenging, as there is no social cost of fixing a bug, but changing an organisation or people has a high social cost.
 
-*Word count: XX/500*
+**Co-evolution** describes how interconnected systems mutually influence each other's development over time (Open University, 2025, p.149). The Barclays case demonstrates **problematic co-evolution** across multiple dimensions. Technical systems and organizational capabilities should have co-evolved harmoniously, but instead the **technical infrastructure evolved faster than organizational capacity** to manage it—creating a capability gap that contributed to failures. Similarly, customer expectations co-evolved with digital banking technology, increasing pressure on system reliability while Barclays' infrastructure remained fragile. Third-party relationships co-evolved with Barclays' operations, creating interdependencies that distributed knowledge and control.
+
+The core insight is that when co-evolution is mismatched between parties, it's similar to a three legged race - where one person speeds off and other gets dragged, resulting in them both falling. Successful IT systems require alignment and co-ordination within technical, organizational, and environmental domains to ensure harmonious co-evolution.
+
+**Word count: 496**
 
 ---
 
@@ -211,4 +217,6 @@ Aliaj, O. (2025) 'Barclays app outage deprives customers of banking services', *
 
 Maru, V. (2025) *Letter to Treasury Committee of the UK Parliament*, 26 February. Available at: <https://committees.parliament.uk/publications/46937/documents/242221/default/> (Accessed: 1 December 2025).
 
-[Add any other references if used]
+**Casti, J.L. (1994)** *Complexification: Explaining a Paradoxical World Through the Science of Surprise*. New York: HarperCollins.
+
+**The Open University (2025)** *TM353 IT Systems: planning for success*, Milton Keynes: The Open University.

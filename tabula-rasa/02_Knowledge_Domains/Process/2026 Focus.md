@@ -1,6 +1,6 @@
 ---
 date created: Tuesday, December 2nd 2025, 11:18:14 am
-date modified: Tuesday, December 2nd 2025, 11:24:03 am
+date modified: Friday, December 5th 2025, 11:49:55 am
 ---
 
 # 2026
@@ -25,5 +25,6 @@ date modified: Tuesday, December 2nd 2025, 11:24:03 am
 	1. Chill/Zone out.
 	2. Decompression time.
 
+It's hard to beat modernity, since you've got to operate within it. The best move is to leverage it without being crushed by it. Which is revolution through discipline.
 ***
 

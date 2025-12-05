@@ -1,147 +1,101 @@
 ---
 date created: Thursday, October 30th 2025, 6:56:13 pm
-date modified: Thursday, October 30th 2025, 8:47:04 pm
+date modified: Friday, December 5th 2025, 10:58:00 am
 ---
 
-# Introductory Tutorial:
+# Introductory Tutorial
 
-## Basic Introduction:
+## 1. Dr. Chris O'Toole: Background & Advice
 
-Dr Chris O'Toole:
-![[../../../03_Reference/Pictures/Pasted image 20251030193853.png]]
+Dr. Chris O'Toole is a **life-long learner** with a background in both **commercial IT (financial services)** and **teaching**. He emphasizes that **keeping learning and striving** and obtaining every extra qualification **opens more doors**.
 
-*What made you go down the OU route? What advice would you give to your younger self starting out with self-learning?:*
+#### Personal Philosophy & Advice
+- A broad, complementary skill set is valuable (e.g., Software Engineer and Project Manager).
+- Working with technology requires continuous learning to **keep on the ball**.
+- **Plan strictly according to the course calendar**.
+    
 
-Life-long learner, enjoy learning. Working with technology helps you keep on the ball in the field. Every extra course or qualification opens more and more doors. Works both in practical and commercial IT in financial services and also teaching. Keep learning and striving and learn a broad range of skills and knowledge.
+### Dr. O'Toole's Qualifications
 
-Plan in accordance to the course calendar. Employment in the sector has grown, so there is a vested financial interest in teaching people tech.
+|**Qualification Level**|**Subject**|
+|---|---|
+|**BA**|Math and Computer Studies|
+|**Dip**|Law|
+|**Dip**|Computing for Commerce and Industry|
+|**MSc**|Computing for Commerce and Industry|
+|**MBA**|Technology Management|
+|**QFA**|Qualified Financial Advisor|
+|**PhD**|E-Research and Technology Enhanced Learning|
 
-Variety works well and the larger skills base helps - especially complimentary skills. Chris has been a software engineer and a project manager.
-## Background and Philosophy:
+---
 
-**TM354 Includes:**
-- Structure, case study
-	- Build summary notes, at the end of the module, be able to quickly skim the material.
-	- Coursework is dense - key words and terms are repeated.
-		- 6-10 key diagrams - feature in the final exam too.
-		- Have a key term glossary and diagram list.
-- TMAs are good for learning
-	1. One thing to read, another thing to actually make. This is when you actually understand it.
-		1. Solidify the theoretical knowledge through practice.
-	2. Look at tutor feedback in TMAs. Helps your learning.
-		1. TMA questions are similar to the EMA.
-	3. Look at the 3 TMAs or doing the questions again can work well.
-		1. You refresh your knowledge, get more practice doing, and make what you've made better.
-	4. If something comes up in the TMA - LEARN IT!
-- Use the course forms
-	- Ask for help in the forms, read them and keep and eye on them.
-	- If you ask questions, you expand your students know
-- Up to 3 weeks extensions (All tutors can give this as a minimum)
+## 2. Module Philosophy and Learning Strategy
 
-Follow the course calendar and go to tutorials, the more information you soak up. Different tutors have different perspectives. Follow the weekly course blocks and content.
+### Success In TM354
+- **Revision:** Build **summary notes** for quick skimming.
+- **Key Resources:** Create a **key term glossary** and a list of **6–10 critical diagrams** (these diagrams often feature in the final exam).
+- **Coursework:** The material is dense, so look for repeated keywords.
+    
 
-***
-## Module Outline and Content
+### The Value of TMAs
+- True understanding comes when you **apply or build** concepts.
+- Review **tutor feedback** carefully.
+- TMA questions are similar to the EMA; **if a topic appears in a TMA, LEARN IT!**
+    
 
-### Block 1 - Domain to Requirements:
+#### Support And Administration
 
-- Software, architecture, process choice
-- Different approaches to software development
-	- Plan-driven (Waterfall) to agile.
-	- Factors that affect the choice of a process.
-- Modelling within software development
-	- Agile perspective
-	- UP (Unified Processing) /UML
+- **Course Forms:** Use the forms as the **first instance** for questions.
+- **Extensions:** Tutors can grant up to a **3-week extension**.
+- **Tutorials:** Attend tutorials to gain different perspectives.
+    
 
-- Requirements and Agile
-	- Functional - What the user wants or needs
-	- Non-functional - The useability of the system
-- Representing requirements
+---
 
-- Understand the domain
-	- Business rules and processes
-	- Representing domain activity
-- Capturing requirements with use cases
-	- I.e. The tutor or the student accessing the TM354
-- Prototyping the user interface.
-	- What the UI would
+## 3. Module Outline: Block Content
 
-- Case study part 1.
-	- Chain of hotels: problem statement, use cases, user stories, Volere templates
-	- Case study focus
-		- 
-### Block 2 - Analysis to Design:
+The module has three blocks, each featuring a book and a final case study unit.
 
-Structural modelling
-- Modelling the structure of the domain (techniques
+|**Block**|**Primary Focus**|**Key Concepts/Techniques**|
+|---|---|---|
+|**Block 1**|**Domain to Requirements**|Process choice (Agile vs. Waterfall), Modelling (UP/UML), Functional/Non-functional Requirements, Use Cases, Prototyping.|
+|**Block 2**|**Analysis to Design**|Structural Modelling, Design by Contract (DBC), Dynamic Modelling, Sequence Diagrams, Interaction Diagrams, Managing associations.|
+|**Block 3**|**Architecture to Product**|Architecture, Design Patterns, Reuse, Scenarios, Testing, Code Complexity.|
 
-Dynamic Modelling - from analysis to design
-- Design by contract (DBC)
-- Dynamic Modelling
-	- Sequence Diagrams
-- Interaction diagrams
-- Design decisions
-	- Managing associations
-### Block 3 - Architecture to Product:
+---
 
-Each block has a book and there is a case study at the last unit of each block. Sometimes the course team highlights errata's or news in the tech world.
+## 4. Assessment Details
 
-*Would you say that creating diagrams, is critical to success in TM354?*
+- **Assessment:** **3 equally weighted TMAs** and an **EMA (Exam)**. All are **open book** but subject to plagiarism checks.
+- **Questions:** Short questions on concepts and longer questions on application of techniques.
+    
 
-***
-## Assessment:
+#### **Writing And Presentation**
 
-Formative quiz at the end of each unit (Except unit tests)
+- **Read Carefully:** **Only include what is asked for**.
+- **Word Count:** Adhere strictly to limits (generally $\pm 10\%$).
+- **Style:** Use a **succinct, accurate** style and pay attention to operative words (e.g., 'list' vs. 'describe').
+    
 
-3 equally weighted TMAs, EMAs - so there are all open book. Plagiarism checker, you'll get flagged if you take info that isn't in your own words. 
+---
 
-Short question on concepts and relating to them.
-Longer question on application of techniques.
+## 5. Sharespace Practice and Tutorials
 
-Revision for the exam - Look through the exam papers and the structure and going through together and what approach and mark breakdown can be done.
+- **Sharespace:** Simulates **stand-up meetings**. You **must upload your own work** before accessing others' shared materials.
+#### Tutorial Schedule and Deadlines:
 
-You can send questions in the forms. First instance should be the module forms. Course team made the course, so they understand how it would work. 
-
-Ask questions to tutors if you don't get a response in due time. Should be on the same day responses in the forms.
-
-TMA01 - requirements concepts
-- Agile, sharing activity diagram, a use case, choice of approach.
-
-TMA01 - Structural modelling: 
-- Designing a class diagram, completing a model, sequence diagram, state chart diagram.
-
-TMA03 - architecture, patterns and reuse
-- shareholders, design patterns, architectural styles, scenarios, testing, code complexity.
-
-Exam assesses everything.
-
-- Read the question - Only Include what is asked for.
-- Stay within the world limit.
-	- (+ or - 10%. e.g. 100 word limit 90-110 words)
-- Use a succinct writing style that is accurate.
-- Avoid scrappy writing and poor English.
-	- Completing diagrams, making a clear diagram, explaining things clearly.
-
-## Sharespace Practice:
-
-Make a diagram, get feedback, make improvements.
-
-Share spaces simulate stand-up meetings. When you log into sharespace, you can't access any work until you upload your own work.
-
-## Tutorials:
-
-All of Chris's lectures
-![[../../../03_Reference/Pictures/chris-lecture-list.png]]
-
-
-## Questions:
-
-*Would you prefer a shorter, leaner answer to a question in a TMA or Exam. Or a more detailed and thorough explanation of a concept?:*
-
-Follow the word limit, use things such as formatting, italics - bold and clear formatting and grammar.
-
-Certain topics can be explained in a few worlds - list meaning list - don't describe in detail. Briefly describe, describe in detail - look at the operative words.
-
+|**Date**|**Time**|**Topic / Assessment**|**Submission Deadline (Red Text)**|
+|---|---|---|---|
+|**Thu 23 Oct 2025**|19:30|Introduction||
+|**Thu 30 Oct 2025**|19:30|Introduction||
+|**Thu 13 Nov 2025**|19:30|TMA01/Block 1|**(4th Dec)**|
+|**Mon 17 Nov 2025**|19:30|TMA01|**(4th Dec)**|
+|**Thu 29 Jan 2026**|19:30|TMA02/Block 2|**(26th Feb)**|
+|**Thu 05 Feb 2026**|19:30|TMA02|**(26th Feb)**|
+|**Wed 25 Feb 2026**|19:30|TMA02|**(26th Feb)**|
+|**Thu 19 Mar 2026**|19:30|TMA03/Block 3|**(30th Apr)**|
+|**Thu 02 Apr 2026**|19:30|TMA03|**(30th Apr)**|
+|**Sat 16 May 2026**|13:00|Revision||
 
 
 

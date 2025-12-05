@@ -117,16 +117,16 @@ Based on 33 incidents in 2 years (Jan 2023 - Jan 2025):
 
 #### Service Availability During Incident
 
-| Service | Status | Notes |
-|---------|--------|-------|
-| Mobile app login | Severely impacted | 5% failure rate |
-| Online banking login | Severely impacted | Same as app |
-| Payment processing | Critically impacted | 56% failure rate for those who could log in |
-| Debit cards (in-store/online) | Mostly functional | Short periods of reduced availability |
-| ATM withdrawals | Mostly functional | Short periods of reduced availability |
-| Branches | Open | Normal or extended hours, but technology impacted |
-| Contact centres | Open | Normal or extended hours, long wait times |
-| Interactive phone | Impacted | Contributed to long wait times |
+| Service                       | Status              | Notes                                             |
+| ----------------------------- | ------------------- | ------------------------------------------------- |
+| Mobile app login              | Severely impacted   | 5% failure rate                                   |
+| Online banking login          | Severely impacted   | Same as app                                       |
+| Payment processing            | Critically impacted | 56% failure rate for those who could log in       |
+| Debit cards (in-store/online) | Mostly functional   | Short periods of reduced availability             |
+| ATM withdrawals               | Mostly functional   | Short periods of reduced availability             |
+| Branches                      | Open                | Normal or extended hours, but technology impacted |
+| Contact centres               | Open                | Normal or extended hours, long wait times         |
+| Interactive phone             | Impacted            | Contributed to long wait times                    |
 
 ### Timing Significance
 
