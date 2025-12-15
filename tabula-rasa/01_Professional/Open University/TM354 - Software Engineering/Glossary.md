@@ -1,8 +1,81 @@
 ---
 date created: Friday, December 5th 2025, 10:58:53 am
-date modified: Friday, December 5th 2025, 10:59:06 am
+date modified: Saturday, December 13th 2025, 3:14:39 pm
 ---
 
 # Definitions:
 
-
+- **System** - An assembly of components that are connected together in an organised way. ^sys-def
+- **Process** - A transformational sequence that takes inputs, performs operations or transformations on them, and produces outputs toward a specific goal. ^process-def
+- **Sociotechnical Systems** - IT systems cannot be understood or designed without both considering social aspects (organisational and people) as well as technical aspects (hardware and software). ^SoTech-def
+- **Viewpoints** - The perspective from which a system is studied or used, which determines what aspects are considered relevant and where system boundaries are drawn. ^viewp-def
+- **Boundary** - What a system cannot or should not do; the line distinguishing system components from environmental factors. ^Bo-def
+- **Domain** - The particular area of interest or scope of concern that defines what a system is intended to develop, enhance, or maintain. ^domain-def
+- Characteristics of software
+	- **Usability** - The degree to which software can be used by specified users to achieve specified goals with effectiveness, efficiency, and satisfaction in a specified context of use; encompasses the quality of the user interface and overall user experience. ^usability-def
+	- **Reliability** - The ability of a software system to perform its required functions under stated conditions for a specified period of time, with minimal errors and consistent operational stability. ^reliability-def
+	- **Flexibility** - The capacity of a software system to adapt to changing requirements, accommodate modifications, and evolve over time without requiring complete redesign or reconstruction. ^flexibility-def
+	- **Availability** - The degree to which software is accessible and operational when required for use, including compatibility with target environments, platforms, and services that users need. ^availability-def
+	- **Affordability** - The economic feasibility of software development and maintenance, ensuring that costs remain within budget constraints for developers and at an acceptable price point for customers throughout the software's lifecycle. ^affordability-def
+- **Maintainability** - The ease with which a software system can be modified, updated, and repaired over time; greatly influenced by how the existing project or program was designed, written, and documented. ^maintainability-def
+- **Legacy Systems** - Old, large, business-critical software systems developed using outdated programming languages that have been modified numerous times since inception. ^legacy-systems-def
+- **Decomposition** - The technique of breaking down complex problems or systems into smaller, more manageable parts by identifying patterns and sub-systems. ^decomp-def
+- **Modules** - Smaller sub-systems or components identified through decomposition that encapsulate specific functionality. ^modules-def
+- **Heroic Programming** - A development anti-pattern where a single individual attempts to build a complex system that would be better suited to team collaboration. Thus creating knowledge silos and technical debt. ^HeroProg-def
+- **Problem Domains** - The real-world context and challenges that exist outside the computer system, where developers must understand user needs and problems before designing technical solutions. ^ProbDom-def
+- **Modularisation** - The practice of dividing large, complex systems into self-contained elements (such as programs, libraries, or classes) that can be developed and maintained independently while working together as parts of a larger whole. ^modularisation-def
+- **Interface** - A description of all externally visible operations of a module, defining what other modules need to know to use the system without revealing implementation details. ^interface-def
+- **Encapsulation** - The bundling of data and operations within a module, hiding internal implementation details while exposing only necessary functionality through a defined interface. ^encapsulation-def
+- **Context Dependencies** - Additional services or requirements that must be present for module-to-module communication to function correctly, forming part of the module's contract with clients. ^ContextDep-def
+- **Client Contract** - An agreement between a module and its clients that defines what the module will and will not do, including interface requirements and context dependencies that clients must meet to ensure proper system operation. ^ClientContract-def
+- **Abstraction** - A technique for viewing complex problems by grouping similar objects and situations while ignoring non-essential details, allowing focus on key aspects without being overwhelmed by complexity. ^abstraction-def
+- **Coupling** - The degree of interdependence between system components, where loose coupling indicates greater independence and tight coupling indicates heavy mutual dependence. ^coupling-def
+- **Circular Dependencies** - An extreme case of tight coupling where two or more modules depend on each other in a loop, creating complex interdependencies that make the system difficult to maintain or modify. ^CircDep-def
+- **Cohesion** - A measure of how closely related the activities and responsibilities within a single module are to each other, where high cohesion indicates a module performs a single, well-defined task. ^cohesion-def
+- **Architecture** - The overall structure of a software system, comprising the software elements, the relationships among them, and the properties of both. It provides a framework for reasoning about the system and serves as a communication platform for stakeholders to discuss design decisions and trade-offs. ^architecture-def
+- **Layered Architecture** - A software architecture pattern that organizes a system into distinct horizontal layers (typically presentation/UI, application logic/domain, and infrastructure), where each layer has specific responsibilities and changes to one layer minimally impact others. ^LayeredArch-def
+- **Component** - A unit of reuse or replacement within a system that has well-defined interfaces, context dependencies, and clear boundaries. Components are modules designed at an appropriate level of abstraction to be reusable across projects or easily replaceable within a system. ^component-def
+- **Services** - Reusable, technologically-independent chunks of functionality that can be invoked according to a standard interface, such as SaaS (Software as a Service) applications like Google Docs or Gmail that only require a web browser to use. ^services-def
+- **Service-Oriented Architecture** - A software design model where programs and functionality run in the "cloud" and are accessed as services, often utilizing platforms like PaaS (Platform as a Service) or IaaS (Infrastructure as a Service) to deliver computing resources over the internet. ^SOA-def
+- **Quality Software** - Software that meets defined requirements and user expectations through a well-managed development process, demonstrating reliability, usability, maintainability, and fitness for its intended purpose. ^quality-software-def
+- **Deliverables** - The outputs or end products created upon completion of various activities within the software development process, such as requirement documents, design specifications, code modules, test reports, or working software components. ^deliverables-def
+- **Customers** - Individuals or organizations who pay for a software system, who may or may not be the direct users of that system. ^customers-def
+- **Users** - People who interact with and use software on a day-to-day or regular basis, who may or may not be the customers paying for the system. ^users-def
+- **Software Development Activities:**
+    - **Domain Modelling** - Understanding the environment in which a system may be introduced, the business processes and rules. This is typically an activity that precedes a decision to develop a software system. ^domain-modelling-def
+    - **Requirements** - A set of steps including requirements elicitation, where you identify the problem, and requirements analysis, where you categorise, prioritise and model requirements. This defines what the system is to do. ^requirements-def
+    - **Design** - Determining how you will solve the problem, including architectural decisions, component structure, data models, and interface specifications. ^design-def
+    - **Implementation** - Acting upon the decisions made at the design stage by writing code and building the actual software components. ^implementation-def
+    - **Testing** - Testing what you have done so that you can determine whether or not you have solved the problem, including verification that the software meets requirements and validation that it fulfils user needs. ^testing-def
+- **Unified Process** - An iterative and incremental software development framework that organizes work into four distinct phases. It's not a rigid methodology but rather a flexible process framework that can be tailored to different project needs. ^UP-def
+	- **Inception**
+	- **Elaboration**
+	- **Construction**
+	- **Transition**
+	- **Business Modelling**
+- **Integration** - The process of bringing together smaller solutions or components that have been developed separately into a complete, cohesive software system. ^integration-def
+- **Delivery** - The deployment and running of a software system, which may be combined with integration depending on the project contract and approach (such as in DevOps practices). ^delivery-def
+- **Maintenance** - The ongoing process that enables a software system to evolve over time by correcting errors, adapting to changing environments, introducing customer-required enhancements, and improving software in anticipation of future changes. ^maintenance-def
+- **Project Management** - One of the critical activities that serves as the "glue" holding the development process together, involving planning, organizing, monitoring, and controlling software development projects to ensure they stay on budget and within timeline. ^project-management-def
+- **Quality Management** - A critical activity alongside project management that ensures both the quality of the product being built and the processes used to build it meet defined standards and expectations. ^quality-management-def
+- **Waterfall Method** - A sequential software development approach where the five main activities (Requirements, Design, Implementation, Testing, and Maintenance) are performed one after another without revisiting completed stages, based on the assumption that tasks are fully completed the first time. ^waterfall-def
+- **Agile** - A lightweight, flexible, and iterative approach to software development that emphasizes individuals and interactions over processes and tools, working software over comprehensive documentation, customer collaboration over contract negotiation, and responding to change over following a plan. ^agile-def
+- **Extreme Programming (XP)** - One of the most commonly used agile methods that defines specific practices including incremental design, test-first programming, pair programming, continuous integration, and weekly planning cycles. ^xp-def
+- **Scrum** - A popular agile framework that defines a set of roles, events, artifacts, and rules, utilizing timeboxed sprints (development phases no longer than a month), sprint planning sessions, and daily stand-up meetings. ^scrum-def
+    - **Sprint** - A timeboxed development phase in Scrum lasting no more than a month that produces a working deliverable by the end. ^sprint-def
+    - **Sprint Planning** - A Scrum event lasting no more than eight hours where the team plans the work for the upcoming sprint. ^sprint-planning-def
+    - **Daily Scrum/Stand-up** - A daily meeting in Scrum lasting no longer than 15 minutes, reviewing what has been done and planning for the next 24 hours of work. ^daily-scrum-def
+- **Risk Management** - The practice of identifying, evaluating, and managing risks within software development projects to reduce the likelihood of failure and increase confidence in meeting requirements and deadlines. ^risk-management-def
+- **Traceability** - The ability to trace the history of requirements, decisions, and changes throughout the software development process, essential for dispute resolution, understanding impacts of modifications, and maintaining accountability for successes or failures within the system. ^traceability-def
+- Modelling
+	- Modelling
+	- Modelling Language
+	- UML (Unified Modelling Language)
+- Structural/Static models
+- Behaviour/Dynamic models
+- Timeboxing
+- Business processes
+- Business rules
+- Conceptual Model
+- Volere Template
+- 

@@ -1,57 +1,86 @@
 ---
 date created: Saturday, November 8th 2025, 9:47:01 am
-date modified: Tuesday, December 2nd 2025, 11:26:29 am
+date modified: Sunday, December 7th 2025, 1:21:22 pm
 ---
 
 # Daily Processes:
 
-> **Keep compounding each day. You'll build a fantastic life.**
+> Keep compounding each day. You'll build a fantastic life.
 
 ## Morning:
-
-- [ ] (6:00AM) - Waking up
-- [ ] (6:05AM) - Start morning plan
-	- [ ] Brush teeth (3 mins)
-	- [ ] Shower (10 mins)
-	- [ ] Skincare (5 mins)
-	- [ ] Take morning stack (2 mins)
-	- [ ] Dress (5 mins)
-- [ ] (6:30AM) - Breakfast
-- [ ] (7:00AM) - Morning Stretching
-- [ ] (7:15AM) - Planning
-	- [ ] Todays Top 3.
-	- [ ] What does success look like?
-	- [ ] What mentality am I bringing today?
-- [ ] (7:30AM) - Cyber skills/certification block.
-- [ ] (8:30AM) - Break/Final prep
-	- [ ] Loosen up and relax
-	- [ ] Attune physical workplace variables
-	- [ ] Setup digital environment
-- [ ] (9:00AM) - Main work block
-- [ ] (11:00AM) - Break
-- [ ] (11:15AM) - Consolidate/Continue/Review work block
+- [ ] (6:00AM) - Wake up
+- [ ] (6:00AM) - Morning basics
+	- [ ] Quick hygiene (5 mins)
+	- [ ] Get dressed (5 mins)
+	- [ ] Take morning medicines (2 mins)
+- [ ] (6:15AM) - Morning stretching/mobility (15 mins)
+- [ ] (6:30AM) - Breakfast (15 mins)
+- [ ] (6:45AM) - Cybersecurity learning block (1 hour)
+- [ ] (7:45AM) - Morning Journaling
+	- [ ] Today's Top 3
+	- [ ] What does success look like today?
+- [ ] (8:00AM) - Buffer Time
+- [ ] (9:00AM) - Main work/study block
 
 ## Afternoon:
+- [ ] (12:00PM) - Lunch break
+- [ ] (12:30PM) - Continue work/study block
+- [ ] (5:00PM) - Finished work
 
-- [ ] (12:00AM) - Lunch break
-- [ ] (12:30AM) - Main work block 2
-- [ ] (2:30PM) - Break
-- [ ] (2:40PM) - Shorter work block
-- [ ] (3:50PM) - Break
-- [ ] (4:00PM) - Admin, easy work.
-- [ ] (5:00PM) - Finished work.
-## Evening:
-
+## Evening (Lifting Days - Mon/Wed/Fri):
 - [ ] (5:30PM) - Dinner
-- [ ] (6:00PM) - Go to gym
-- [ ] (6:30PM) - Lifting/Cardio
-- [ ] (8:00PM) - Back home + snack
-- [ ] (9:00PM) - Get ready for bed
-	- [ ] Brush Teeth (3 mins)
-	- [ ] Take evening stack (2 mins)
-	- [ ] Evening stretching (15 mins)
-	- [ ] Relax and chill (40 mins)
-- [ ] (10:00PM) - Bedtime.
+- [ ] (6:00PM) - Lifting (90 mins including travel/change)
+- [ ] (7:30PM) - Snack + Shower (30 mins)
+- [ ] (8:00PM) - Buffer Time (1 hour)
+- [ ] (9:00PM) - Evening yoga/relaxation (30 mins)
+- [ ] (9:30PM) - Brief meditation (10-15 mins)
+- [ ] (9:45PM) - Wind-down/bed prep
+	- [ ] Take evening medicines (2 mins)
+	- [ ] Brush teeth (3 mins)
+	- [ ] Reading (10 mins)
+- [ ] (10:00PM) - Bedtime
 
-***
+## Evening (Non-Lifting Days - Tue/Thu):
+- [ ] (5:30PM) - Dinner
+- [ ] (6:00PM) - Hiking/Buffer Time (90 mins)
+- [ ] (7:30PM) - Snack + Shower (30 mins)
+- [ ] (8:00PM) - Buffer Time (1 hour)
+- [ ] (9:00PM) - Evening yoga/relaxation (30 mins)
+- [ ] (9:30PM) - Brief meditation (10-15 mins)
+- [ ] (9:45PM) - Wind-down/bed prep
+	- [ ] Take evening medicines (2 mins)
+	- [ ] Brush teeth (3 mins)
+	- [ ] Reading (10 mins)
+- [ ] (10:00PM) - Bedtime
 
+## Weekend Structure:
+## Morning:
+- [ ] (6:00AM) - Wake up
+- [ ] (6:00AM) - Morning basics
+	- [ ] Quick hygiene (5 mins)
+	- [ ] Get dressed (5 mins)
+	- [ ] Take morning medicines (2 mins)
+- [ ] (6:15AM) - Morning stretching/mobility (15 mins)
+- [ ] (6:30AM) - Breakfast (15 mins)
+- [ ] (6:45AM) - Cybersecurity learning block (1 hour)
+- [ ] (7:45AM) - Morning Journaling
+	- [ ] Today's Top 3
+	- [ ] What does success look like today?
+- [ ] (8:00AM) - Buffer Time
+- [ ] (9:00AM) - Housework/Chores/Meal Prep
+## Afternoon:
+- [ ] (12:00PM) - Lunch break
+- [ ] (12:30PM) - Studying Cybersecurity/Finance
+- [ ] (5:00PM) - Finished self-study
+## Evening:
+- [ ] (5:30PM) - Dinner
+- [ ] (6:00PM) - Hiking/Buffer Time (90 mins)
+- [ ] (7:30PM) - Snack + Shower (30 mins)
+- [ ] (8:00PM) - Buffer Time (1 hour)
+- [ ] (9:00PM) - Evening yoga/relaxation (30 mins)
+- [ ] (9:30PM) - Brief meditation (10-15 mins)
+- [ ] (9:45PM) - Wind-down/bed prep
+	- [ ] Take evening medicines (2 mins)
+	- [ ] Brush teeth (3 mins)
+	- [ ] Reading (10 mins)
+- [ ] (10:00PM) - Bedtime
