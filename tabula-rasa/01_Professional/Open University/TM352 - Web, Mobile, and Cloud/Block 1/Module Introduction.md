@@ -15,7 +15,7 @@ date modified: Monday, November 10th 2025, 10:55:17 am
 
 ## Module Structure:
 
-![[../../../03_Reference/Pictures/TM352-overview.png]]
+![[../../../../03_Reference/Pictures/TM352-overview.png]]
 
 ***
 # Blocks:

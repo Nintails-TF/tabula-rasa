@@ -20,7 +20,7 @@ Stay 85% within the word count. Use Harvard CTR, be authoritative and confident.
 
 ## Overview:
 
-![[../../../03_Reference/Pictures/TM352-overview.png]]
+![[../../../../03_Reference/Pictures/TM352-overview.png]]
 
 **Block 1:**
 Web development with common frameworks. Like Svelte and React. Web-markup, architectures, web services, accessibility, and security issues.

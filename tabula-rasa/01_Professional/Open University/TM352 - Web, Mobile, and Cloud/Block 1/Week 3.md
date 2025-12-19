@@ -43,7 +43,7 @@ The core aspects of frameworks are the following.
 The primary structure for most modern front-end frameworks is the idea of a **single page application.** The idea is that a single HTML file is used to load the application, then JavaScript is used to update it.
 
 Basic Flow:
-![[../../../03_Reference/Pictures/week3-TM352-flowchart.png]]
+![[../../../../03_Reference/Pictures/week3-TM352-flowchart.png]]
 
 Depending on the framework and technologies used, the URL may updated to reflect changes in the application. However, like traditional navigation in a HTML site, the browser does not need to fetch a new URL. JavaScript will fetch any new data needed and update the HTML.
 ## 3.2. Server-side Rendering:
@@ -241,7 +241,7 @@ So the current approach only uses code that is defined within the `src/App.Svelt
 As we can see, we've importing the Icon component into the and we pass the parameters of `mdiMusic` and `mdiPause` into the prop.
 
 Result:
-![[../../../03_Reference/Pictures/Pasted image 20251113150322.png]]
+![[../../../../03_Reference/Pictures/Pasted image 20251113150322.png]]
 
 ## 1.4. Loops:
 

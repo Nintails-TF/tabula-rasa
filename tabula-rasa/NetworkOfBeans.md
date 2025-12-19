@@ -1,0 +1,64 @@
+---
+date created: Tuesday, December 16th 2025, 9:32:41 am
+date modified: Wednesday, December 17th 2025, 2:48:55 am
+---
+
+# NetworkOfBeans (Derrick):
+
+- How you got started
+	- 7 years ago - PHD program - cognitive psychology
+		- Learning and LLMs, human memory and learning.
+		- Programming and software developing on the side.
+	- Security - what do I tolerate and what can I do.
+		- Pen testing - OSCP at home.
+		- OSCP was very hard.
+		- Internship - AWD security -> F secure -> UK branch now.
+		- Consulting - Good to start with.
+			- Auditing work - Consulting - Checkboxes and meet sure they meet a list.
+			- Pen testing - Regulatory requirement for banks, web add and network tests.
+				- 3-10 Days generally, longer term would be months.
+				- Network test or Application test.
+				- Test what you've been given with a scope.
+			- Web app tests are 50:50 and network tests are very easy to break.
+		- Another company - Rapid7
+			- Metasploit - 2 year tenure - remote.
+			- Good company, fun to work for.
+			- Doing the same thing over and over again. 
+		- Internally for a bank
+			- Better work life balance
+			- Silver handcuffs
+				- Very comfortable money.
+			- Consulting builds the best technical skills.
+				- Learn more as well.
+			- Developers moving from software to cybersecurity
+				- Interesting, unique perspective. OK skills.
+				- Very mid skills.
+				- Developers fix things well but suck at breaking, whilst Consultants break things well but suck at fixing.
+			- Breaking with consulting is more sexy. Recognising things.
+			- Test APIs from Postman all day long.
+			- You find smaller things aspects.
+- Consulting or Internships are good for Pen testing
+	- 3-6 months if they like you they give an offer.
+	- London, Edinburgh, Glasgow, etc.
+	- Waldo - Polish (f-secure/NCC group - any postings?)
+- NCC group
+	- Associate would be entry or first step
+	- Everything else beyond that.
+- Research around Pen testing in the UK
+	- Scope out company
+	- Pen testing, penetration testing, offensive security, red teaming, OSCP, cyber security consulting.
+	- Red team = Attacking without knowledge, Pen testing = Attacking with knowledge.
+		- Red teaming means they wouldn't want to make noise. Advanced niche of pen testing.
+- Get the first job, and then degree becomes a checkbox.
+- Burp suite certification - Looks very good and is very cheap.
+	- Show that you are interested in offensive security work and some knowledge of skills.
+	- OWASP Zap is a meme-tool. 
+	- Very appealing to businesses and cheap.
+- Get bored easily - the skill curve - once you master it, becomes turbo-nerds through malware analysis.
+	- All the money is within Pen-testing.
+- Cybersecurity Pen testing aspects
+	- Not any more money, unless you move into leadership.
+	- You get to the top-end and then you get capped.
+	- Once you get good, gets easy enough.
+- 
+

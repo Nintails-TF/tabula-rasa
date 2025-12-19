@@ -105,19 +105,19 @@ songs:
 - Key exchange problem
 - More efficient than asymmetric
 
-![[../../../03_Reference/Pictures/week4-tm352-symmetric-encryption.png]]
+![[../../../../03_Reference/Pictures/week4-tm352-symmetric-encryption.png]]
 
 **Asymmetric Encryption**
 - Public/private key pairs
 - Public key encrypts, private key decrypts
 - Solves key exchange problem
 - Less efficient than symmetric
-![[../../../03_Reference/Pictures/week4-tm352-asymmetric-encryption.png]]
+![[../../../../03_Reference/Pictures/week4-tm352-asymmetric-encryption.png]]
 
 **Key Exchange (Diffie-Hellman)**
 - Creates shared secret without transmitting it
 - Combines asymmetric and symmetric benefits
-![[../../../03_Reference/Pictures/week4-tm352-diffie-hellman-key-exchange.png]]
+![[../../../../03_Reference/Pictures/week4-tm352-diffie-hellman-key-exchange.png]]
 
 **Transport Layer Security (TLS)**
 1. Client connects and shares supported algorithms
