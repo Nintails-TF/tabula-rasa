@@ -1,6 +1,6 @@
 ---
 date created: Sunday, November 23rd 2025, 1:59:26 pm
-date modified: Sunday, November 23rd 2025, 2:12:42 pm
+date modified: Tuesday, December 23rd 2025, 1:51:53 pm
 ---
 
 # Definitions:
@@ -30,7 +30,10 @@ date modified: Sunday, November 23rd 2025, 2:12:42 pm
 - Jump bag
 - DMARC
 - Endpoint Hardening
-- EDR (Endpoint Detection and Response)
+- **EDR (Endpoint Detection and Response)**
+	- EDR is security software that is installed on endpoints that monitors, detects, records, and responds to threats within endpoints. ^EDR-def
+	- EDRs generate very detailed logs for specific machines/endpoints.
+	- EDRs differ from antivirus, as they are behaviour based and not signature based, meaning they can flag or take action against unknown threats if the activity is strange.
 - MFA (Multi-Factor Authentication)
 - CIA Triad
 	- Confidentiality
@@ -50,7 +53,37 @@ date modified: Sunday, November 23rd 2025, 2:12:42 pm
 	- Containment
 	- Eradication
 	- Recovery
-- IDS (Intrusion Detection System)
+- **IDS (Intrusion Detection Systems) / IPS (Intrusion Prevention Systems)**
+	- Both of these monitor network traffic for suspicious activity. But the IDS will watch and report, where as an IPS will block threats in real time. ^IDS-IPS-def
+		- IPS can result in false-positives that disrupt legitimate traffic if not configured well.
+	- IDS is a security camera, IPS is a security guard.
+		- If IDS spots port scanning, then it generates an alert so a SOC team can look at it. If an IPS spots port scanning, it can block the source IP right away.
 - Firewall
 - WAF (Web Application Firewall)
-- SIEM (Security Incident and Event Manager)
+- **SIEM (Security Information and Event Management)**
+	- SIEMs collect information from across a network in real time, and alerts on potential incidents so that they can be reviewed. ^SIEM-def
+	- SIEMs collect data from various sources (firewalls, servers, endpoints, applications, etc) and aggregate them together for easier analysis.
+	- SIEMs are useful in alerting SOC analysts for suspicious patterns and anomalies.
+	- SIEMs are very helpful in legal compliance, as they provide audit trails - showing who, when, and what happened. 
+- **Endpoint** 
+	- An endpoint is any device that connects with a network that can send or receive data. You can think of them as a moat of your network. ^endpoint-def
+		- Some points are deeper or more shallow.
+	- Typical endpoints are: PCs (Laptops, Desktops), Smartphones (Tablets, Phones), Servers, IoT devices (Smart cameras, printers, sensors), and POS systems.
+	- Endpoints can be operated by humans and by autonomous systems.
+- **Point-of-sale (POS) systems**
+	- POS systems are the hardware and software setup where customers complete transactions. These are the checkout systems where payments are processed and sales are finalized. ^POS-definition
+	- These are high-value endpoints because they carry credit card details, customer payment info, and transaction records.
+		- Tablet-based systems, card readers, cash registers, self-payment kiosks, etc.
+	- They are often vulnerable as they run outdated software, are physically accessible, and are connected with a broader network.
+- **SOC (Security Operations Centre)**
+	- An essential facility that houses a team of information security workers responsible for continuously monitoring and evaluating an organizations security status. ^SOC-def
+	- The main job of a SOC team is to identify, examine, and address cybersecurity incidents by using technology solutions and procedures.
+- Threat Intelligence
+	- Threat Intelligence is actionable information about current or emerging threats that help make informed security decisions. In other words: *What are attackers doing out in the wild? So you can block it before it happens to you.* ^Threat-intelligence-def
+	- You can have different types of threat intel - strategic, tactical, operational, and technical.
+	- Threat intelligence informs threat hunting.
+- Threat Hunting.
+	- Threat Hunting involves searching through infrastructure and networks for threats that have evaded existing security services.  ^Threat-hunting-def
+		- They can either operate under the assumption of compromise ("Assume a breach, act as if attackers are in.") or operate without assuming breach ("What are our blind spots, what paths are we not monitoring?")
+	- This process is creative, hypothesis-driven, and can uncover unknown threats or potential threats.
+		- So test what attackers would want to do, and see if automated tooling catches it, if it doesn't build a rule or inform people who can make a rule.

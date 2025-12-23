@@ -16,10 +16,10 @@ date modified: Tuesday, December 23rd 2025, 9:45:28 am
     - [x]  Take morning medicines (2 mins)
 - [x]  (7:15AM) - Morning stretching/mobility (15 mins)
 - [x]  (7:30AM) - Breakfast (15 mins)
-- [ ]  (7:45AM) - Morning Journaling
-    - [ ]  Today's Top 3
-    - [ ]  What does success look like today?
-- [ ]  (8:00AM) - Cybersecurity learning block (1 hour)
+- [x]  (7:45AM) - Morning Journaling
+    - [x]  Today's Top 3
+    - [x]  What does success look like today?
+- [x]  (8:00AM) - Cybersecurity learning block (1 hour)
 - [ ]  (9:00AM) - Main work/study block
 
 ## Afternoon:

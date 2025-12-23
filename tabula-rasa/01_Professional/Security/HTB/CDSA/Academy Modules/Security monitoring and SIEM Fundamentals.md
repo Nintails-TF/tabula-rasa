@@ -1,6 +1,6 @@
 ---
 date created: Saturday, October 11th 2025, 10:07:40 am
-date modified: Sunday, October 19th 2025, 3:25:16 pm
+date modified: Tuesday, December 23rd 2025, 1:55:52 pm
 Parent Link: "[[../CDSA Index|CDSA Index]]"
 ---
 
@@ -25,7 +25,7 @@ Parent Link: "[[../CDSA Index|CDSA Index]]"
 
 ## What is SIEM? (Security Information and Event Management)
 
-The purpose of SIEMs is that they collect information across an environment. In essence they and the first line of human intervention in the system, if preventative controls such as firewalls, patches, access controls do not work.
+The purpose of [[../../../Glossary#^SIEM-def|SIEMs]] is that they collect information across an environment. In essence they and the first line of human intervention in the system, if preventative controls such as firewalls, patches, access controls do not work.
 
 SIEMs are the eyes and ears of your security architecture, not the shield. They enable people to monitor a system in real-time and respond to threats and alerts within the system.
 
@@ -103,7 +103,7 @@ Different SIEMs use unique methods—**Splunk** with TSIDX files and **Elastic**
 
 Retention policies tier log data by age to balance cost, performance, and compliance: **Hot** for real-time access, **Warm** for ongoing investigations, **Cold** for historical analysis, and **Frozen** for legal/archive needs. Tiering reduces storage costs compared to keeping all data on high-performance storage.
 
-Policies must meet regulatory requirements (PCI DSS, HIPAA, GDPR, SOX, GLBA), consider log criticality and type, and ensure archived data can be restored. SIEMs like Splunk, Elastic, QRadar, and Sentinel provide lifecycle or archive settings to enforce these policies efficiently..
+Policies must meet regulatory requirements (PCI DSS, HIPAA, GDPR, SOX, GLBA), consider log criticality and type, and ensure archived data can be restored. SIEMs like Splunk, Elastic, QRadar, and Sentinel provide lifecycle or archive settings to enforce these policies efficiently.
 
 [[../Extension Notes/Retention Polices|Retention polices in detail]]
 
@@ -314,6 +314,13 @@ The Elastic Common Schema (ECS) is a shared vocabulary list for events and logs 
 ***
 ## SOC Definition & Fundamentals:
 
+### What is a SOC?:
+
+A [[../../../Glossary#^SOC-def|Security Operations Centre (SOC)]] uses various tools such as SIEMs, [[../../../Glossary#^IDS-IPS-def|IDS/IPS]], and [[../../../Glossary#^EDR-def|EDR]] tools to ensure that an organisation protected against security threats. SOC teams also participate in [[../../../Glossary#^Threat-intelligence-def|Threat Intelligence]] and [[../../../Glossary#^Threat-hunting-def|Threat Hunting]] to proactively defend against threats and vulnerabilities.
+
+Asides from technological solutions, SOC teams use well-defined processes or playbooks to address security-incidents. These processes include triage, containment, elimination, and recovery. SOC teams work hand in hand with the incident response team to ensure that incidents are handled properly and the organisation is secure.
+
+The SOC is a vital element in the security of an organisation's cybersecurity approach, as it provides constant surveillance and response capabilities so that organisations can quickly fix and address security issues and decrease the likelihood of future attacks.
 ## MITRE ATT&CK & Security Operations:
 
 ## SIEM Use Case Development:
