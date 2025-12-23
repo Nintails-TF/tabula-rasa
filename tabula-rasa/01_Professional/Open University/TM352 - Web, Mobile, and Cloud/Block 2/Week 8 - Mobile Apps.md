@@ -1,6 +1,6 @@
 ---
 date created: Friday, December 19th 2025, 12:08:55 pm
-date modified: Friday, December 19th 2025, 1:57:44 pm
+date modified: Friday, December 19th 2025, 2:22:35 pm
 OU-date-range: 22nd-28th November
 ---
 
@@ -54,11 +54,31 @@ Another feature of native apps is needing to interface with the major mobile app
 
 ### Android:
 
+Writing apps for Android is easier, less expensive, and less time-consuming then for android. The following steps are:
+
+1. Sign up for a Google Play developer account
+2. You can use your own Integrated Developer Environment (IDEs), but Google has **Android Studio** which works on Windows, Mac, and Linux.
+3. Apps can be built in various programming languages but **Java** is one of the most popular.
+4. Android Studio also helps developers monetize their creations. By pricing the download or putting ads into the software.
+5. Generally has less restrictive rules than iOS
+6. A new app must be reviewed by Google, this takes under 24 hours usually and then the app is able to be published using the Google Play Developer Console.
+
 ### iOS:
 
+Writing apps of iOS is much harder, as Apple discourages generic and hybrid apps. Along with this, they have a much more strict set of rules (**Cupertino Rules**) for writing and deploying native iOS apps. The following steps are:
 
+1. Enrol in the Apple Developer Program via apples website.
+2. Download XCode as the development tool. XCode has been designed to only run on MacOS machines, so iOS development requires an all-Apple environment.
+3. Code your app. Originally, this was done using Objective-C, but because of the difficulty of the language - many developers weren't interested. Apple built Swift in 2014 to remedy this, which is a much more straightforward programming language that can be used instead of or alongside Objective-C
+4. Testing your app through Apples suite of tools that enable distribution and monetization of the app like Android Studio.
+5. Submit the app to be reviewed by Apple. This usually takes under 24 hours, and can be published once accepted.
 
 ## 3.2. Web Apps:
+
+Web apps will work on most, if not all mobile OS systems, and generally require less skill and experience to develop. Though they are less efficient than native apps, because of the technological overhead of components that convert JS or web components into native instructions.
+
+Web apps 
+
 
 ## 3.3. Hybrid Apps:
 
