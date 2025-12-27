@@ -1,6 +1,6 @@
 ---
 date created: Friday, December 19th 2025, 12:08:55 pm
-date modified: Tuesday, December 23rd 2025, 1:56:51 pm
+date modified: Tuesday, December 23rd 2025, 7:47:47 pm
 OU-date-range: 22nd-28th November
 ---
 
@@ -77,34 +77,109 @@ Writing apps of iOS is much harder, as Apple discourages generic and hybrid apps
 
 Web apps will work on most, if not all mobile OS systems, and generally require less skill and experience to develop. Though they are less efficient than native apps, because of the technological overhead of components that convert JS or web components into native instructions.
 
-Web apps 
+Web apps are build using HTML, CSS, and JavaScript and then run via the device's web browser. Developing an app using these tools is much faster and cheaper to build as well as to maintain in comparison to native OS programming for mobile devices.
 
+The downside of web apps is that they are slower to load and are less responsive than native mobile apps. Security is also a bigger factor, if the app has minimal functionality and connects to a remote web-server to do heavy lifting - security can be compromised.
 
+HTML5 has also enhanced the functionality of web apps, but web app are always lagging behind the features of native apps. A web app can use GPS, but it isn't as seamless or straightforward - as the device will often ask for confirmation about accessing these privileges.
 ## 3.3. Hybrid Apps:
+
+It is challenging to decide whether to choose to develop a web app or a native app, it depends on the experience of the programmer, resources, scope, time-frame, and so on.
+
+A useful middle group is the hybrid approach. This enables developers to native code from a single code base across the multiple mobile platforms, there can be different approaches in building a hybrid app. But in each case, the framework is often an intermediate step written by the developer that interfaces between native APIs.
+
+The goal of hybrid apps is to write JS code that will be converted into native level instructions and functionality. The hybrid approach lowers the barrier for entry giving web developers a chance to use existing skills to build a mobile app.
+
+The software framework chosen to be the intermediate actor can change, but all of them enable developers to work with familiar technology than the device specific features or APIs.
+
+You can research, look at modern data, stack overflow survey's, etc. to find modern frameworks.
+
+### 3.3.1. Flutter:
+
+[Flutter](https://flutter.dev/) which is a hybrid framework used and maintained by google, uses Dart. Dart is similar to JavaScript and Swift, Flutter either compiles to native code for apps or JavaScript for web apps to maximise performance. But there is also strong compatibility for Android, iOS platforms and web apps.
+
+A large focus of Flutter is in building a strong UI that functions across mobile, web, desktop, native, and embedded apps. Flutter is not dependant on widgets provided by each device, since it uses it's own rendering engine to build UI elements.
+
+### 3.3.2. React Native:
+
+[React Native](https://reactnative.dev/) uses the React framework to build mobile apps. As with React, applications are coded within JS but the UI is rendered natively to the mobile app. So native application code is built from the JS to render to the screen and complete other tasks.
+
+React Native supports Android and iOS as well as other third party apps. The difference from Flutter, is that apps developed with React Native use that devices native UI building blocks.
+
+### 3.3.3. Ionic
+
+[Ionic](https://ionicframework.com/) is built on [Cordova](https://cordova.apache.org/) and can use popular frameworks such as Angular, React, and Vue. Cordova works to provide the mobile integration and wraps HTML, CSS, and JS of a web app into a native view container.
+
+Cordova's native view container comprises of a special browser window that is embedded within a native app. It doesn't contain the typical window structure of a browser, so it runs the HTML, CSS, and JS that make up a hybrid application inside a web view container.
+
+The advantage of this is that hybrid apps can access the full features of a mobile app, as this would be more challenging if a web app running within a device's browser.
+### 3.3.4. Summary:
+
+Various mobile frameworks can be used to build hybrid apps, hybrid apps help developers as they can use their existing framework knowledge of JS and other JS frameworks to build a native experience and native device features can be integrated through JavaScript APIs.
 
 ***
 
 ## 4. Developing Mobile Apps:
 
+React Native is the most popular language at the moment, and previously we've used react to build web apps, so it's the framework we are going with in this module.
+
+You can use [Expo](https://expo.dev/) to build and demo mobile apps quickly, for the module we can't use this since the OCL doesn't support Metro via the proxy.
+
+Developing within the OCL is the easiest way forward to completing quality coursework, so that's what I'll be doing.
 ### 4.1. OpenComputing Lab (OCL):
 
+Using the OCL is similar to block 1.
 ### 4.1.1. Creating a React Native Project from a Provided Skeleton:
+
+To build and run any activity we can use the following within the integrated terminal in the VCE:
+
+```Bash
+tm352 block2 build <part> <activity>
+$ tm352 block2 build 1 3 # Build part 1 of activity 3
+$ node ~/block_2/resources/scripts/build.js 1 3 # If block2 command is not found.
+```
+
+Or, we can use bash to copy skeleton files we use the following:
+```Bash
+cp -r ~/block_2/skeletons/reactnative my-app
+cd my-app # Move to the directory
+npm clean-install # We then install the necessary dependancies.
+```
+
+Do note we don't need to run `npm audit fix` since it's fine for our coursework, but not for production.
+
+Finally, we run the environment similarly to block 1:
+```Bash
+npm run dev
+```
 
 ### 4.1.2. Building an Empty Reactive Native Project from Scratch:
 
+This isn't strictly required for the module, and I can use search engines and AI LLMs if I need to setup a production ready environment, or use policies given to me by a company.
+
 ### 4.1.3. Running the React App once Created:
+
+You just use `run dev`
 
 ***
 
 ## 4.2. Installing Expo and React Native Locally:
 
+This isn't strictly required for the module, and I can use search engines and AI LLMs if I need to setup a production ready environment, or use policies given to me by a company.
+
 ***
 
 ## 4.3. Expo Snack:
 
+This isn't strictly required for the module, and I can use search engines and AI LLMs if I need to setup a production ready environment, or use policies given to me by a company.
+
 ***
 
 ## 5. Gaining Feedback with OpenStudio:
+
+This section requires using the OUs OpenStudio to ask questions and share content with peers. So I'll follow the guide that is shown and place the content within the [[TMA 02/Question 1|TMA 02]].
+
+
 
 ***
 
