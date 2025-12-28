@@ -43,7 +43,7 @@ The first things we can do is to look at the plaintext within the email.
 less email.eml
 ```
 
-This reveals most of the data that we care about, but we still need to analyse the malicious zip, we can extract this using `ripmime`:
+This reveals most of the data that we care about, but we still need to analyse the malicious zip, we can extract this using `unzip`:
 
 ```Bash
 unzip -l Invoice_2025_Payment_1.zip # View the file WITHOUT extracting it.

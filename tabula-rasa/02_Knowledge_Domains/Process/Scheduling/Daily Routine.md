@@ -13,13 +13,13 @@ date modified: Tuesday, December 23rd 2025, 9:45:28 am
 - [x]  (7:00AM) - Morning basics
     - [x]  Quick shower (5 mins)
     - [x]  Get dressed (5 mins)
-    - [ ]  Take morning medicines (2 mins)
+    - [x]  Take morning medicines (2 mins)
 - [ ]  (7:15AM) - Morning stretching/mobility (15 mins)
-- [ ]  (7:30AM) - Breakfast (15 mins)
+- [x]  (7:30AM) - Breakfast (15 mins)
 - [ ]  (7:45AM) - Morning Journaling
     - [ ]  Today's Top 3
     - [ ]  What does success look like today?
-- [ ]  (8:00AM) - Cybersecurity learning block (1 hour)
+- [x]  (8:00AM) - Cybersecurity learning block (1 hour)
 - [ ]  (9:00AM) - Main work/study block
 
 ## Afternoon:

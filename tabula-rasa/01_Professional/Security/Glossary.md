@@ -1,6 +1,6 @@
 ---
 date created: Sunday, November 23rd 2025, 1:59:26 pm
-date modified: Tuesday, December 23rd 2025, 1:51:53 pm
+date modified: Sunday, December 28th 2025, 3:00:23 pm
 ---
 
 # Definitions:
@@ -83,7 +83,28 @@ date modified: Tuesday, December 23rd 2025, 1:51:53 pm
 	- You can have different types of threat intel - strategic, tactical, operational, and technical.
 	- Threat intelligence informs threat hunting.
 - Threat Hunting.
-	- Threat Hunting involves searching through infrastructure and networks for threats that have evaded existing security services.  ^Threat-hunting-def
+	- Threat Hunting involves searching through infrastructure and networks for threats that have evaded existing security services. ^Threat-hunting-def
 		- They can either operate under the assumption of compromise ("Assume a breach, act as if attackers are in.") or operate without assuming breach ("What are our blind spots, what paths are we not monitoring?")
 	- This process is creative, hypothesis-driven, and can uncover unknown threats or potential threats.
 		- So test what attackers would want to do, and see if automated tooling catches it, if it doesn't build a rule or inform people who can make a rule.
+- Telnet
+- Remote Desktop Protocol (RDP)
+- Directory Brute Forcing
+	- A reconnaissance technique where attackers systematically test a web server for hidden or unlinked directories and files by sending automated requests for common directory/file names. ^DBF-def
+		- Common targets: `/admin`, `/backup`, `/config`, `/uploads`
+		- Tools: Gobuster, Dirb, Dirbuster, ffuf
+		- Defence: Proper authentication, remove unnecessary directories, rate limiting, monitor for sequential 404 patterns
+- Wordlist
+	- A text file containing words or phrases (one per line) that automated tools use to systematically test possibilities. ^wordlist-def
+	- Size determines coverage vs. speed:
+		- Small (`common.txt`): ~4K entries, fast reconnaissance
+		- Medium: ~220K entries, thorough enumeration
+		- Large: Maximum coverage, slower scans
+	- Used across multiple techniques:
+		- Directory brute forcing, password cracking, subdomain enumeration, username enumeration, fuzzing
+	- Can be customized using OSINT, target-specific terminology, or industry terms
+- Transmission Control Protocol (TCP)
+- User Datagram Protocol (UDP)
+- Rsync 
+	- A utility for transferring files between a computer and external hard-drive across a network. Written in C, it's lightweight and uses minimal network resources. ^Rsync-def
+	- 
