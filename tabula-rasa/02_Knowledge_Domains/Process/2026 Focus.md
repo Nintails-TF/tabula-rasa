@@ -1,6 +1,6 @@
 ---
 date created: Tuesday, December 2nd 2025, 11:18:14 am
-date modified: Friday, December 26th 2025, 8:42:13 pm
+date modified: Thursday, January 1st 2026, 2:22:00 pm
 ---
 
 # 2026
@@ -10,7 +10,7 @@ date modified: Friday, December 26th 2025, 8:42:13 pm
 	2. Get paid
 	3. Solve real problems
 2. Exercise
-	1. Get strong and flexible/pain free
+	1. Get strong and flexible
 	2. Lifting
 	3. Yoga
 3. Improving basic functionalities
@@ -26,7 +26,9 @@ date modified: Friday, December 26th 2025, 8:42:13 pm
 	2. Learn how to not lose and compound money
 		1. Passive Index Fund Investing
 		2. Cutting costs + Avoiding Junk
+			1. John Bogle, Charlie Munger, Warren Buffet, etc.
 	3. Exploration/cross-domain insight
+		1. Reading fiction and non-fiction.
 5. Meditation + Mindfulness
 	1. Less stress
 		1. Removing the fluff

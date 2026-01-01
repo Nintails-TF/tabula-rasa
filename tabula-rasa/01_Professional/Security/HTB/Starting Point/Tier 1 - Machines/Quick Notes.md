@@ -1,6 +1,6 @@
 ---
 date created: Monday, December 29th 2025, 5:07:38 pm
-date modified: Thursday, January 1st 2026, 1:57:47 pm
+date modified: Thursday, January 1st 2026, 2:23:29 pm
 ---
 
 # Quick Notes:
@@ -53,6 +53,10 @@ date modified: Thursday, January 1st 2026, 1:57:47 pm
 - Directory Brute Forcing (`gobuster dir -u http://10.129.1.15 -w /usr/share/wordlists/dirb/common.txt -x php`)
 	- We see access to various `.php` files, of most promising is the `login.php`
 	- We can login with the credentials we've gained from the FTP server.
+
+***
+
+
 
 
 
