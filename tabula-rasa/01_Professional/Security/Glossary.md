@@ -1,6 +1,6 @@
 ---
 date created: Sunday, November 23rd 2025, 1:59:26 pm
-date modified: Sunday, December 28th 2025, 3:00:23 pm
+date modified: Sunday, December 28th 2025, 5:53:14 pm
 ---
 
 # Definitions:
@@ -17,7 +17,7 @@ date modified: Sunday, December 28th 2025, 3:00:23 pm
 	- Deliver
 	- Exploit
 	- Install
-	- C&C
+	- C&C (Command and Control)
 	- Action
 - Droppers
 - Backdoors
@@ -107,4 +107,4 @@ date modified: Sunday, December 28th 2025, 3:00:23 pm
 - User Datagram Protocol (UDP)
 - Rsync 
 	- A utility for transferring files between a computer and external hard-drive across a network. Written in C, it's lightweight and uses minimal network resources. ^Rsync-def
-	- 
+- AES
