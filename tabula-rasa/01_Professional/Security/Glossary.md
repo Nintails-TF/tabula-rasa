@@ -1,6 +1,6 @@
 ---
 date created: Sunday, November 23rd 2025, 1:59:26 pm
-date modified: Thursday, January 1st 2026, 2:31:42 pm
+date modified: Friday, January 2nd 2026, 11:06:02 am
 ---
 
 # Definitions:
@@ -108,8 +108,8 @@ date modified: Thursday, January 1st 2026, 2:31:42 pm
 - Rsync 
 	- A utility for transferring files between a computer and external hard-drive across a network. Written in C, it's lightweight and uses minimal network resources. ^Rsync-def
 - AES
-- Local File Inclusion (LFI) - A vulnerability where an application includes files that the user can control without proper sanitization. Can allow attackers to read sesnitive files or even execute code! - ^LFI-def
+- Local File Inclusion (LFI) - A vulnerability where an application includes files that the user can control without proper sanitization. Can allow attackers to read sensitive files or even execute code! - ^LFI-def
 	- See: [[Frameworks/Attack Techniques/Web/LFI (Local File Inclusion)|LFI (Local File Inclusion)]] for more details.
 - Log Poisoning
 - Remote Code Execution (RCE)
-- Remote File Include
+- Remote File Include (RFI)
