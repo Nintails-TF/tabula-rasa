@@ -8,7 +8,7 @@ date modified: Tuesday, November 4th 2025, 12:28:32 pm
 
 Leadership and culture have a **directional** and **cyclical** structure in nature. The following diagram, illustrates the flow:
 
-![[../../../03_Reference/Pictures/diagram-for-culture.png]]
+![[../../../../03_Reference/Pictures/diagram-for-culture.png]]
 
 ## Key Questions:
 - What is culture and why does it have a substantial impact on leadership?
@@ -28,7 +28,7 @@ If I was to define **culture:**
 
 > Culture are the thoughts and ideas behind an action or creation.
 
-![[../../../03_Reference/Pictures/value-chart.png]]
+![[../../../../03_Reference/Pictures/value-chart.png]]
 
 ## 1.1 Shaping the way We Think about the World:
 
@@ -49,7 +49,7 @@ In essence, culture progresses that the **conscious learning becomes unconscious
 So we can start to act, behave, or believe in ways that make no rational or logical sense, yet are ingrained in ourselves because the culture of a nation/environment, in order to fit in or navigate where we live.
 
 Schein and Schein use the following diagram to illustrate this:
-![[../../../03_Reference/Pictures/Culture-conscious-to-unconscious.png]]
+![[../../../../03_Reference/Pictures/Culture-conscious-to-unconscious.png]]
 
 The **correct** and **valid** solution to these internal and external problems, may be a successful well-rounded strategy, but it could also be actively harmful as well depending on the dynamics at play. It do believe that since working in cybersecurity, you have to understand this rule - and that it applies to culture as well:
 
@@ -63,7 +63,7 @@ It helps to assess ideas pragmatically, objectively, even dispassionately. The f
 ## 1.3 Levels of Culture:
 
 Using the lily pond analogy, we can discuss different levels of culture:
-![[../../../03_Reference/Pictures/culutre-lily-pond.png]]
+![[../../../../03_Reference/Pictures/culutre-lily-pond.png]]
 *Fig. Schein and Schein 2016, artwork from James Bowers.*
 
 The process in which culture is formed, evolved, and is taken for granted can help answer our first key question: **Why culture has such large impact.** We are taught the correct way of doing things and thinking about problems, take them for granted, then they become part of the unconscious.
@@ -140,7 +140,7 @@ Multiculturalism has different meanings, but generally it's distinct from Intern
 
 Multiculturalism is more about different cultures of people working together, so the US and Western Europe tend to be more multicultural and progressive (All be it, with a growing right-wing populist concerns).
 
-![[../../../03_Reference/Pictures/Pasted image 20251103120049.png]]
+![[../../../../03_Reference/Pictures/Pasted image 20251103120049.png]]
 
 ***
 

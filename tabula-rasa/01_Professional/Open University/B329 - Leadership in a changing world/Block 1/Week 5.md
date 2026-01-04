@@ -181,7 +181,7 @@ To write a successful blog post, I need the following:
 - key references to external sources where possible.
 
 Quality blog posts also follow the invested pyramid or other structures:
-![[../../../03_Reference/Pictures/inverted-pyramid.png]]
+![[../../../../03_Reference/Pictures/inverted-pyramid.png]]
 
 ## 2.1 Newsworthiness:
 
@@ -224,7 +224,7 @@ For the TMA 01, it's going to be a phase 2 piece, that relates to young people a
 
 ## 2.3. Images of Leadership:
 
-![[../../../03_Reference/Pictures/week5-form-post.png]]
+![[../../../../03_Reference/Pictures/week5-form-post.png]]
 
 ***
 

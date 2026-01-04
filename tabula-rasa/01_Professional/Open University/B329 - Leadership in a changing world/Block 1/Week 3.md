@@ -165,7 +165,7 @@ Populist movements are often associated with a single leader who appears uniquel
 
 A *charismatic leader* is one who is larger than life figures who seem to understand the concerns of ordinary people, they grow and then sustain public support. We could say that Martin Luther King and Hitler were both charismatic leaders, but on two different ends of the pole.
 
-![[../../../03_Reference/Pictures/Steve Jobs Vs JFK.png]]
+![[../../../../03_Reference/Pictures/Steve Jobs Vs JFK.png]]
 
 Charismatic leadership in secular contexts was first established by Max Weber in 1947, stating that:
 

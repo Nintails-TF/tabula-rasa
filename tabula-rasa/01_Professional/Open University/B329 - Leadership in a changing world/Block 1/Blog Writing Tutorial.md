@@ -51,7 +51,7 @@ Ensure image is close to title.
 
 ## Inverted Pyramid Model:
 
-![[../../../03_Reference/Pictures/inverted-pyramid.png]]
+![[../../../../03_Reference/Pictures/inverted-pyramid.png]]
 
 Each piece of content should reinforce each other.
 
@@ -61,7 +61,7 @@ Each piece of content should reinforce each other.
 
 ## Example Blog:
 
-![[../../../03_Reference/Pictures/Example-blog.png]]
+![[../../../../03_Reference/Pictures/Example-blog.png]]
 - Needs concepts mentioned.
 - References.
 - Mention the interview in the blog.
@@ -104,7 +104,7 @@ Talk about what you expect to learn from the interview.
 - Public exhaustion
 - Multi-cultural society little values.
 
-![[../../../03_Reference/Pictures/marking-scheme-TMA1.png]]
+![[../../../../03_Reference/Pictures/marking-scheme-TMA1.png]]
 
 - 50% of marks are most of your marks, only use module material.
 - Integrate the interview - following and interview with x - blah blah blah.

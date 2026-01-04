@@ -70,10 +70,10 @@ The question is: ***How does this change leadership?***
 ### Activity One - Looking at the Four Factors of Turbulence:
 
 I chose to talk about OpenAI or Generative Ai in general and it's challenges:
-![[../../../03_Reference/Pictures/my-answers-act1-turbulent-contexts-and-leadership.png]]
+![[../../../../03_Reference/Pictures/my-answers-act1-turbulent-contexts-and-leadership.png]]
 
 The example provided is for the NHS:
-![[../../../03_Reference/Pictures/NHS-turbulence-factors.png]]
+![[../../../../03_Reference/Pictures/NHS-turbulence-factors.png]]
 ***
 
 # 2. Complexity Leadership Theory:
@@ -133,7 +133,7 @@ An adaptive leader can rally their staff to address changes and challenges to li
 
 ## 3.1 Principles for Leading Adaptive Work:
 
-![[../../../03_Reference/Pictures/adaptive-work-cycle.png]]
+![[../../../../03_Reference/Pictures/adaptive-work-cycle.png]]
 
 1. Getting on the balcony
 	1. Not viewing the game as a player, but from a birds eye. Look at factors that are changing.
@@ -204,7 +204,7 @@ Within B329, this definition also applies: *"A complex process of deliberation w
 Definition: *"A piece of disruptive technology is any enhanced or new tech that replaces and disrupts an existing technology making it obsolete. It is designed to succeed similar tech already in use."*
 
 A few example include:
-![[../../../03_Reference/Pictures/hexes-of-disruptive-tech.png]]
+![[../../../../03_Reference/Pictures/hexes-of-disruptive-tech.png]]
 
 Disruptive tech also changes the systems that are in place within businesses and how work is done, creative adaptive problems in which people need to change with the new technology and systems in place.
 
