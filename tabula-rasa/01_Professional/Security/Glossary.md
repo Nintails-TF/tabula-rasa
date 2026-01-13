@@ -1,6 +1,6 @@
 ---
 date created: Sunday, November 23rd 2025, 1:59:26 pm
-date modified: Friday, January 2nd 2026, 11:06:02 am
+date modified: Thursday, January 8th 2026, 11:36:35 am
 ---
 
 # Definitions:
@@ -111,5 +111,10 @@ date modified: Friday, January 2nd 2026, 11:06:02 am
 - Local File Inclusion (LFI) - A vulnerability where an application includes files that the user can control without proper sanitization. Can allow attackers to read sensitive files or even execute code! - ^LFI-def
 	- See: [[Frameworks/Attack Techniques/Web/LFI (Local File Inclusion)|LFI (Local File Inclusion)]] for more details.
 - Log Poisoning
-- Remote Code Execution (RCE)
-- Remote File Include (RFI)
+- Remote Code Execution (RCE) - A vulnerability where an attacker can execute arbitrary commands or code on a target system remotely. Successful exploitation grants attackers the same level of control that the service owners have. ^RCE-def
+	- This can lead to full system compromise, data exfiltration, lateral movement, or persistent access.
+	- **The holy hand grenade of exploits.** 
+- Remote File Inclusion (RFI) - A vulnerability where an application includes a file from a server that an attacker controls. This is dangerous because attackers can run their own malicious scripts that are running on their server. ^RFI-def
+	- See: [[Frameworks/Attack Techniques/Web/RFI (Remote File Inclusion)|RFI (Remote File Inclusion)]] for more details
+- New Technology LAN Manager (NTLM)
+
