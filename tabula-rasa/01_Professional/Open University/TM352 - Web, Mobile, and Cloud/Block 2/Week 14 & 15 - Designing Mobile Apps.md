@@ -1,6 +1,7 @@
 ---
 date created: Friday, December 19th 2025, 12:08:55 pm
-date modified: Friday, December 19th 2025, 12:53:10 pm
+date modified: Tuesday, January 13th 2026, 12:43:06 pm
+Gen: "1"
 ---
 
 # # Week 14-15 - Designing Mobile Apps
@@ -134,17 +135,5 @@ date modified: Friday, December 19th 2025, 12:53:10 pm
 ---
 
 ## 10. Summary (Part 8)
-
----
-
-## References
-
----
-
-## Further Reading
-
----
-
-## Acknowledgements
 
 ---

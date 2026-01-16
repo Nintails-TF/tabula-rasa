@@ -1,11 +1,7 @@
 ---
-## date created: Friday, December 19th 2025, 12:45:00 pm date modified: Friday, December 19th 2025, 12:45:00 pm OU-date-range: 29th November-5th December
-
-# Week 10 - React Native Mobile Apps:
-
-## 1. Introduction:
 date created: Friday, December 19th 2025, 12:08:55 pm
-date modified: Friday, December 19th 2025, 12:47:38 pm
+date modified: Tuesday, January 13th 2026, 12:42:50 pm
+Gen: "1"
 ---
 
 # Week 10 - React Native Mobile Apps:
@@ -61,9 +57,5 @@ date modified: Friday, December 19th 2025, 12:47:38 pm
 ## 5. Summary:
 
 ### 5.1. Next Steps Beyond TM352:
-
----
-
-## 6. Further Reading:
 
 ---

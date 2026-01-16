@@ -1,6 +1,6 @@
 ---
 date created: Sunday, January 4th 2026, 1:10:10 pm
-date modified: Monday, January 12th 2026, 4:23:13 pm
+date modified: Tuesday, January 13th 2026, 3:12:00 pm
 ---
 
 # Introduction:
@@ -204,21 +204,173 @@ Rebuilding trust is the most critical aspect here, you have to be very transpare
 You also need to produce a vision beyond - survive until next year. Define a near-team goal that can be achieved so that the team could be enthused beyond pay, such as skill development or input into decision making. By connecting work to the companies recovery, you can also say if we achieve this goal, we can push for more pay next month.
 ## 2.2. Collaborative Leadership:
 
-***
+Leaders need to lead diverse teams beyond established boundaries and create a culture of inclusiveness in order to bring people and their ideas, experiences, and knowledge together to grow the organisation and compete.
 
+Bringing all of this together, we can use [[../Glossary#^CL-def|Collaborative Leadership]] as a way of achieving these goals. 
+
+[Chrislip (2002)](https://books.google.co.uk/books/about/The_Collaborative_Leadership_Fieldbook.html?id=dFzXJ7EGFGkC&redir_esc=y) suggests through the principle of Skilful Means, that collaborative leadership consists of the following three main traits:
+
+- **Collaborative problem solving and decision making.** Instead of the leader deciding what to do and then giving directions to the group, the team identifies problems as a group and decides collectively on the best way to act, counting on the leader’s support.
+- **Leadership of the process, not of the people.** The aim here is not to lead people towards a particular goal, decision or direction but to support the collaborative process, to grow from an independent to an interdependent culture and structure that can exploit different mindsets and work beyond organisational boundaries.
+- **Open process.** With this trait, the leader doesn’t have a particular direction or goal in mind. Instead, any direction or goal emerges as a result of collaborative decision making, and the end result is decided collectively by all team members.
+
+The emphasis within this approach is not what leaders do, but bringing people together in constructive ways so they produce original visions and creative solutions to deal with problems faced by an organisation/department/group.
+
+**Collectively, multiple brains together are more capable than one.** 
+
+An additional effect of this is that open communication and collaborative leadership enhance employee motivation, commitment, satisfaction and retention. 
+
+***Why?*** Employees have a greater sense of agency and power within their environment, rather than a feeling of being managed or controlled. Autonomy is enhanced.
+
+### Activity 5 - Exploring Collaborative Leadership:
+
+*Referencing an article on [Abraham Lincoln](https://go.gale.com/ps/i.do?id=GALE%7CA334606599&v=2.1&u=tou&it=r&p=AONE&sw=w&aty=shibboleth)*
+#### 1. What Are the Five Main Characteristics of Collaborative Leadership?:
+
+According to the article, Lincoln's approach reflects these five key characteristics:
+
+1. **Are driven to achieve the goal, but keep their egos in check** — Lincoln held no grudges and focused on preserving the Union rather than self-promotion. He diffused criticism with humour and stayed focused on the larger mission.
+2. **Listen carefully to understand others' perspectives** — Lincoln had an unusual ability to see things through others' eyes, including his critics. He used this skill with his fractious cabinet to refine the timing and wording of the proclamation.
+3. **Seek win-win solutions** — He framed emancipation to appeal to different groups' interests: offering financial compensation to border states, emphasizing safety and unity to Northerners, and connecting abolition to the war effort.
+4. **Use "pull" more than "push"** — Rather than forcing his position through authority, Lincoln tapped into others' values and goals to move them toward a common direction. He twice asked his cabinet for input and incorporated their suggestions.
+5. **Think strategically and connect the project to a larger purpose** — Lincoln spent countless hours building a broad coalition, filling government positions with people from all factions to connect them to his larger mission of preserving the Union.
+
+#### 2. What Situations Have You Been in and how Could You Use the 5 Characteristics to Improve Them?:
+
+My parents wanted to decide what to eat for lunch and dinner, I have certain foods or styles of cooking that I like, but instead of advocating for my own interests, it makes more sense for me to **listen carefully and understand other people's desires.** 
+
+I know that my mum is more health conscious and wants food that is healthy, where as my dad wants food that tastes good primarily. Each have certain dishes (Irish stew, Tapioca, Corned beef) which they dislike and they express it in different ways. I can suggest food or ideas that promote both interests or frame foods in a way that captures the others needs (e.g. Broccoli would have a good amount of fibre and vitamin K).
+
+Also, **thinking strategically and connecting it to a broader purpose** helps as well. Figuring out what to eat isn't just about a meal. It's about having order and structure and planning out the day, when a consensus is reached and both parties are satisfied the rest of the day goes better with less friction.
+
+***
 # 3. Assessing and Sharing Your Knowledge:
+
+I got a 71 points which maps to the following:
+
+*You have excellent shared-leadership capabilities. You are a very collaborative leader, able to provide the necessary support and guidance to your staff while at the same time encouraging them to express their opinions and participate in the decision-making process. You take advantage of opportunities to show others that they are valued and offer possibilities for everyone to contribute to discussions. You also foster a team spirit and are happy to share with others. However, achieving a high score here doesn’t mean that there is no room for improvement. Take a look at the statements which support collaborative work. This will indicate the areas to focus on in order to improve your shared-leadership capabilities.*
+
 
 ***
 
 # 4. Block Case Study:
 
+**THIS RELATES TO THE TMA 01!**
+
+> [!ABSTRACT] Case Study - Susan 3:
+> 
+>Susan’s senior leadership team has asked her to produce a new product that they believe could be sold not only to large corporations (their usual clients) but also to organisations in the education, health and social services sectors. 
+>
+>To help ensure the product’s success, they have suggested that Susan consider partnering with the bank’s research and development (R&D) department. 
+>
+>However, Susan is aware that her team and the R&D department have distinct work styles, values and goals. As a result, fostering effective collaboration between the two groups will require careful coordination and open dialogue.
+
+
+## What Should Susan Do?
+
+> [!DANGER] Option A
+> 
+> I understand that the team may face some challenges working with the R&D department, but we can’t always choose who we collaborate with. The most important thing is to create the right product, and my team doesn’t have the experience or, perhaps, the knowledge to do so. 
+> 
+> They have to accept that, in working with R&D, we can all work towards a common goal and we will all benefit from a good result. As well as this, it’s a good opportunity for my team to learn and grow, which is important both for them and for me, as I have to keep head office happy. 
+> 
+> It’s part of my job to bring people to work together, even if they’re not very happy about it. So I’ll let the senior leadership team know that my team will collaborate with the R&D department. How hard can it be?
+
+>[!INFO] Option B
+>
+>I can understand why my team thinks it will be difficult to work with the R&D department, as their culture is very different from ours, and if my team outright refuses to work with them, any forced collaboration will be doomed to fail. 
+>
+>Any collaboration with them will only work if the right kind of members are involved and everyone is willing to participate. So I’ll tell the team about head office’s proposal and explain their rationale – that, by bringing these two very different teams together, better solutions will emerge, along with a better product. 
+>
+>Most importantly, I’ll try to explain to them that we’re all working towards a common goal and I’ll look for win–win solutions – which is, after all, the point of shared leadership. 
+>
+>I just hope that they’ll agree to work with R&D in the end because, despite the challenges involved, I really believe it will be good both for my team and the bank. But ultimately, it’s up to the team to decide.
+
+> [!SUCCESS] Option C
+> 
+> It’s difficult to come up with a straightforward answer. I understand how important it is to work collaboratively, but I’m also aware of the challenges involved. The best thing to do is to be flexible. So yes, I’ll tell the team that I believe working together with the R&D department is a good idea. 
+> 
+> I’ll mobilise them by involving them in achieving that overall goal. I’ll tell them that we’ll decide the main characteristics of the product together and that we’ll discuss how R&D can help them towards this aim. Of course, I know that the team may not be able to have full control of the product specifications, but that’s not so important at this stage; the important thing is to think strategically and put them at the centre of the strategy, building trust and connecting them to a larger purpose. 
+> 
+> After all, shared leadership is about maintaining a process of engaging collective intelligence to deliver results, even if that’s achieved in conflicting ways. 
+> 
+> However, if the team really doesn’t want to collaborate with R&D, I’ll go back to head office and try to negotiate the terms of the collaboration in order to offer more reassurances to the team. I’ll also explore the possibility of working with only a few people from R&D rather than the whole department, in the hope that it will be easier for my team to agree to this.
+
+## My Choice - Option C:
+
+**Issues with Option A:**
+1. "How hard can it be?" mindset
+	1. By dismissing the concerns of genuine challenges that working with R&D and her current team could cause. You end up in a situation where you force compliance, rather than building collaboration.
+	2. This undermines the collaboration before it begins and will more likely lead to resentment and resistance. 
+2. Product > People focus
+	1. There isn't anything wrong with focusing on building a strong product, but if your team senses that you're putting the needs of an organisation or tool above them, they will become more discontented and alienated.
+		1. This can lead to a lower quality product being produced, since the people are required to make the product to begin with, take care of your people, and they'll produce a better product.
+3. "Keep the head office happy" framing
+	1. This framing is destructive, as Susan's decision making is not being founded or motivated by clear leadership principles, yet it is her own self-interests.
+		1. This can lead to a slippery slope of where the leadership position serves her own needs rather than the true needs of her team.
+
+**Issues with Option B:**
+
+1. Abdication of responsibility
+	1. Susan in this case acknowledges the difficulties, but instead of challenging them or doing something about the cultural differences or spearheading a win-win strategy she passes on the responsibility to her team
+		1. This leads to difficulties by omission: it isn't what she's done is wrong, its her lack of decision making which is wrong.
+2. Collaboration doomed mindset
+	1. This Susan believes that collaboration is doomed from the beginning and has to be carefully managed. The "right members" must be involved and "everyone must work together."
+	2. This undermines the more complex nature of collaboration, perhaps some members will not get along - but others will work together, but to suggest that it is broken before it starts it a bit disingenuous.
+		1. The framing of "There's going to be challenges and risks, but this collaboration has a large potential for benefits for my team and R&D." is a bit more honest.
+		2. I'm mainly against the kind of internal vision which will bleed into her external vision towards her team.
+
+**Option C:**
+
+1. Balance between head office and her team
+	1. Susan commits to supporting the head office with the collaboration effort. Whilst giving her team autonomy and say into how the collaboration will be conducted.
+2. Strategic framing of R&D
+	1. By working with and discussion the product with her team first, and asserting: "how R&D can help us towards this aim". She positions them as a resource or tool to help them rather than a threat.
+3. Maintains flexibility
+	1. If resistance persists, she can negotiate terms to scale down the collaboration efforts to meet the demands of the head office, whilst also suiting the needs of her team if they are hard against working with R&D
+		1. You'll likely have a few people who are willing contribute with R&D because they want that internal (growth, development, something challenging), or external (Visibility, helping leader/manager, reputation).
+			1. It could enable you to figure out members value development versus stability, what kind of roles or work they want and prefer.
+			2. Still be careful about how you express this, as it could build resentment from other team members if they feel that favouritism is involved.
+4. Honesty about constraints
+	1. By stating that her team doesn't have full control over the product she is being transparent and not promising things to her team that she can't deliver.
+	2. This is important as it keeps and maintains trust within her word. If she had promised decision making and yet non came, there would be the feeling of betrayal and more resistance.
+		1. Teams will accept constraints which they understand and are articulated, trust gets eroded when hidden constraints or shifting goalposts are located.
+
+As a final point, for a collaboration to succeed in a real world scenario. Susan would benefit from connecting and working with a leader within R&D, her team would be managed well. But if the R&D team has assumptions or ideas that conflict with her framing or strategy then adaptation would need to occur.
+
 ***
 
 # Summary:
 
+**Collaboration:**
+- Working together with another person or group to create or produce something
+- Enables team members to combine different perspectives, expertise, and knowledge toward common goals
+
+**Supporting Collaboration (Leader Activities):**
+- Range from "spirit of collaboration" to "collaborative thuggery" (or a mix)
+- Breaking down silos that negatively affect the business
+- Putting people at the center of collaboration strategy
+- Using collaboration as a mechanism for organizational change
+- Leveraging diversity to solve problems
+
+**Shared/Collaborative Leadership:**
+- Maintaining a process that engages collective intelligence to deliver results across organizational boundaries
+- Key qualities:
+    - Seeking win-win solutions to realize shared interests
+    - Listening carefully to others' perspectives
+    - Drive to achieve goals through collaboration
+    - Keeping ego in check
+
+
 ***
 
 # Reflection and Sharing:
+
+**My Strongest Collaborative Leadership Capacity:** would be my ability to inspire trust through consistent actions and behaviours. By making decisions and following through on my words and actions. When I say to others I'm doing something or I'm on it, they can trust and appreciate that. This models collaborative behaviour throughout an organisation and sets a positive model.
+
+**My Weakest Collaborative Leadership Capacity** would be my interpersonal responses and body language. Sometimes - especially when I'm tired or stressed, I end up adopting a more cold and terse approach, which harms collaboration as it's obvious that I don't want to talk or discuss the topic at hand. Thus negatively impacting interpersonal relationships and collaboration.
+
+To improve upon this, I plan to focus on pausing and building a mental reset before engaging in collaborative discussions and activities when fatigued.
 
 ***
 

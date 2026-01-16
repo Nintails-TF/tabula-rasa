@@ -1,6 +1,7 @@
 ---
 date created: Friday, December 19th 2025, 12:08:55 pm
-date modified: Friday, December 19th 2025, 12:51:16 pm
+date modified: Tuesday, January 13th 2026, 12:42:43 pm
+Gen: "1"
 ---
 
 # Week 11 - Mobile Devices:
@@ -74,13 +75,5 @@ date modified: Friday, December 19th 2025, 12:51:16 pm
 ---
 
 ## 8. Summary:
-
----
-
-## 9. References:
-
----
-
-## 10. Further Reading:
 
 ---

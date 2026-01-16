@@ -1,6 +1,7 @@
 ---
 date created: Friday, December 19th 2025, 12:08:55 pm
-date modified: Friday, December 19th 2025, 12:44:23 pm
+date modified: Tuesday, January 13th 2026, 12:41:44 pm
+Gen: "1"
 ---
 
 # Week 9 - The Consumer Market
@@ -57,13 +58,5 @@ date modified: Friday, December 19th 2025, 12:44:23 pm
 ---
 
 ## 6. Summary:
-
----
-
-## 7. References:
-
----
-
-## 8. Further Reading:
 
 ---
