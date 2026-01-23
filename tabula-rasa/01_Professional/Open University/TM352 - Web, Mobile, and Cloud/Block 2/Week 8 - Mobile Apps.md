@@ -1,6 +1,6 @@
 ---
 date created: Friday, December 19th 2025, 12:08:55 pm
-date modified: Tuesday, December 23rd 2025, 7:47:47 pm
+date modified: Wednesday, January 21st 2026, 3:07:01 pm
 OU-date-range: 22nd-28th November
 ---
 
@@ -179,11 +179,12 @@ This isn't strictly required for the module, and I can use search engines and AI
 
 This section requires using the OUs OpenStudio to ask questions and share content with peers. So I'll follow the guide that is shown and place the content within the [[TMA 02/Question 1|TMA 02]].
 
-
-
 ***
-
 ## 6. Case Studies:
+
+
+
+
 
 ***
 

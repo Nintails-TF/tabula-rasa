@@ -1,6 +1,6 @@
 ---
 date created: Wednesday, December 31st 2025, 2:58:21 pm
-date modified: Friday, January 2nd 2026, 8:13:42 am
+date modified: Thursday, January 22nd 2026, 3:38:22 pm
 ---
 
 # 50 Years:
@@ -12,7 +12,7 @@ date modified: Friday, January 2nd 2026, 8:13:42 am
 - Lift 3-4x/week
 - Run 2-3x/week
 - Invest consistently
-- Don't inflate lifestyle
+- Don't inflate lifestyle - Simple and flexible hobbies.
 - Learn and explore
 - Stay private
 - Show up for real relationships

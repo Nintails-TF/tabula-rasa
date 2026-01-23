@@ -1,18 +1,22 @@
 ---
 date created: Tuesday, January 13th 2026, 12:43:33 pm
-date modified: Tuesday, January 13th 2026, 12:49:37 pm
+date modified: Wednesday, January 21st 2026, 2:23:59 pm
 ---
 
-# Work Checklist - 13/01/2026:
+# Work Checklist:
 
-- [x] Write notes and summaries for urgent material
-	- [x] Build up block 2 file structure for TM354
-- [x] Start on B329 - TMA 02
-- [ ] Create notes on any alternative deadlines within course material
-	- [ ] e.g. does x submission need to be handled in y time.
-- [ ] Order more gear and equipment for business
-	- [ ] Collect and store receipts within my external HDD.
-- [ ] Develop a study plan going forward
-- [ ] Refill medication box
-- [x] Book haircut appointment
+- [x] Order more gear and equipment for business
+	- [x] Collect and store receipts within my external HDD.
+	- [ ] Email a few of the receipts and say I got a different monitor because my one was out of stock.
+	- [x] Order Claude Pro on Thursday.
 - [ ] Progress HTB starting path Tier 1.
+- [ ] Try the TryHackMe CTF that gives exam cert.
+- [ ] Get to work on TM352, get up to speed quickly.
+	- [ ] Week 8
+	- [ ] Week 9
+	- [ ] Week 10
+- [x] Re-write the daily routine to reflect what I can currently do.
+	- [x] Change waking and sleeping.
+	- [x] Add mahjong time and leisure time.
+
+

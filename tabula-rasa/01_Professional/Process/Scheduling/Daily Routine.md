@@ -1,95 +1,91 @@
 ---
 date created: Saturday, November 8th 2025, 9:47:01 am
-date modified: Thursday, January 8th 2026, 10:42:50 am
+date modified: Thursday, January 22nd 2026, 2:45:43 pm
 ---
 
 # Daily Processes:
 
 > Keep compounding each day. You'll build a fantastic life.
 
-## Morning:
-
-- [x]  (7:00AM) - Wake up
-- [x]  (7:00AM) - Morning basics
-    - [x]  Quick shower (5 mins)
+## Morning (All Days):
+- [x]  (6:30AM) - Wake up + morning basics (15 mins)
+    - [x]  Take shower (5 mins)
+    - [x]  Apply creams and take medicine (5 mins)
     - [x]  Get dressed (5 mins)
-    - [x]  Take morning medicines (2 mins)
-- [x]  (7:15AM) - Breakfast (15 mins)
-- [x]  (7:30AM) - Morning Journaling
-    - [x]  Today's Top 3
-    - [x]  What does success look like today?
-- [x]  (7:45AM) - Morning stretching/mobility (15 mins)
-- [x]  (8:00AM) - Cybersecurity learning block (1 hour)
-- [ ]  (9:00AM) - Main work/study block
-
-## Afternoon:
-
-- [ ]  (12:00PM) - Lunch break
-- [ ]  (12:30PM) - Continue work/study block
-- [ ]  (5:00PM) - Finished work
-
-## Evening (Lifting Days - Mon/Wed/Fri):
-
-- [ ]  (5:30PM) - Dinner
-- [ ]  (6:00PM) - Lifting (90 mins including travel/change)
-- [ ]  (7:30PM) - Snack + Shower (15 mins)
-- [ ]  (7:45PM) - Buffer Time (75 minutes)
-- [ ]  (9:00PM) - Evening yoga/relaxation (30 mins)
-- [ ]  (9:30PM) - Brief meditation (10-15 mins)
-- [ ]  (9:45PM) - Wind-down/bed prep
-    - [ ]  Take evening medicines (2 mins)
-    - [ ]  Brush teeth (3 mins)
-    - [ ]  Reading (10 mins)
-- [ ]  (10:00PM) - Bedtime
-
-## Evening (Non-Lifting Days - Tue/Thu):
-
-- [ ]  (5:30PM) - Dinner
-- [ ]  (6:00PM) - Buffer Time (90 mins)
-- [ ]  (7:30PM) - Snack + Shower (15 mins)
-- [ ]  (7:45PM) - Buffer Time (75 minutes)
-- [ ]  (9:00PM) - Evening yoga/relaxation (30 mins)
-- [ ]  (9:30PM) - Brief meditation (10-15 mins)
-- [ ]  (9:45PM) - Wind-down/bed prep
-    - [ ]  Take evening medicines (2 mins)
-    - [ ]  Brush teeth (3 mins)
-    - [ ]  Reading (10 mins)
-- [ ]  (10:00PM) - Bedtime
-
-## Weekend Structure (Sat/Sun):
-
-## Morning:
-
-- [ ]  (7:00AM) - Wake up
-- [ ]  (7:00AM) - Morning basics
-    - [ ]  Quick hygiene (5 mins)
-    - [ ]  Get dressed (5 mins)
-    - [ ]  Take morning medicines (2 mins)
-- [ ]  (7:15AM) - Morning stretching/mobility (15 mins)
-- [ ]  (7:30AM) - Breakfast (15 mins)
-- [ ]  (7:45AM) - Morning Journaling
+- [x]  (6:45AM) - Breakfast (15 mins)
+    - [x]  Brush teeth after meal
+- [ ]  (7:00AM) - Morning journaling (5 mins)
     - [ ]  Today's Top 3
     - [ ]  What does success look like today?
-- [ ]  (8:00AM) - Cybersecurity learning block (1 hour)
-- [ ]  (9:00AM) - Housework/Chores/Meal Prep
+- [ ]  (7:05AM) - Yoga for flexibility (30 mins)
+- [ ]  (7:35AM) - Cybersecurity block (1 hour)
+- [ ]  (8:35AM) - Degree work/study
 
-## Afternoon:
+## Midday - Lifting Days (Mon/Wed/Fri):
+- [x]  (10:00AM) - Gym (90 mins)
+- [x]  (11:30AM) - Return home
+- [x]  (12:00PM) - Lunch (30 mins)
+- [x]  (12:30PM) - Continue degree work/study
+- [ ]  (5:00PM) - Finished work
 
-- [ ]  (12:00PM) - Lunch break
-- [ ]  (12:30PM) - Studying Cybersecurity/Finance
-    - [ ]  Sunday - True Break: No work
-- [ ]  (5:00PM) - Finished self-study
+## Midday - Non-Lifting Days (Tue/Thu):
+- [x]  (12:00PM) - Lunch (30 mins)
+- [ ]  (12:30PM) - Continue degree work/study
+- [ ]  (5:00PM) - Finished work
 
 ## Evening:
 
-- [ ]  (5:30PM) - Dinner
-- [ ]  (6:00PM) - Buffer Time (90 mins)
-- [ ]  (7:30PM) - Snack + Shower (15 mins)
-- [ ]  (7:45PM) - Buffer Time (75 minutes)
-- [ ]  (9:00PM) - Evening yoga/relaxation (30 mins)
-- [ ]  (9:30PM) - Brief meditation (10-15 mins)
-- [ ]  (9:45PM) - Wind-down/bed prep
-    - [ ]  Take evening medicines (2 mins)
-    - [ ]  Brush teeth (3 mins)
-    - [ ]  Reading (10 mins)
-- [ ]  (10:00PM) - Bedtime
+- [ ]  (5:00PM) - Dinner (30 mins)
+- [ ]  (5:30PM) - Light block: mahjong study, easy HTB, reading (150 mins)
+    - [ ]  Play one `hanchan` mahjong game and review it
+    - [ ]  Do some HTB if up for it.
+        - [ ]  Chat in discord, build up community.
+    - [ ]  Do something easy or chill if not
+	    - [ ] Play some league, read a book, go outside, etc.
+- [ ]  (8:00PM) - Relaxing Stretching/mobility yoga (15 mins)
+- [ ]  (8:15PM) - Wind-down + bed prep (45 mins)
+	- [ ] Hydrate + Take supplements maybe eat a little
+	- [ ] Really easy cleaning + clothes for tomorrow
+	- [ ] Read something light do something simple
+	- [ ] Brush Teeth
+- [ ]  (9:00PM) - Bedtime
+
+---
+
+## Weekend (Sat/Sun):
+
+## Morning:
+- [ ]  (6:30AM) - Wake up + morning basics (15 mins)
+    - [ ]  Take shower (5 mins)
+    - [ ]  Apply creams and take medicine (5 mins)
+    - [ ]  Get dressed (5 mins)
+- [ ]  (6:45AM) - Breakfast (15 mins)
+    - [ ]  Brush teeth after meal
+- [ ]  (7:00AM) - Morning journaling (5 mins)
+    - [ ]  Today's Top 3
+    - [ ]  What does success look like today?
+- [ ]  (7:05AM) - Stretching/mobility (15 mins)
+- [ ]  (7:20AM) - Cybersecurity block (1 hour)
+- [ ]  (8:20AM) - Housework/chores/meal prep
+
+## Afternoon:
+- [ ]  (12:00PM) - Lunch (30 mins)
+- [ ]  (12:30PM) - Cybersecurity/finance study
+    - [ ]  (Sunday: true break!)
+- [ ]  (5:00PM) - Finished
+
+## Evening:
+- [ ]  (5:00PM) - Dinner (30 mins)
+- [ ]  (5:30PM) - Light block: mahjong study, easy HTB, reading (150 mins)
+    - [ ]  Play one `hanchan` mahjong game and review it
+    - [ ]  Do HTB if up for it.
+        - [ ]  Chat in discord, build up community.
+    - [ ]  Do something easy or chill if not
+	    - [ ] Play some league, read a book, go outside, etc.
+- [ ]  (8:00PM) - Relaxing Stretching/mobility yoga (15 mins)
+- [ ]  (8:15PM) - Wind-down + bed prep (45 mins)
+	- [ ] Hydrate + Take supplements maybe eat a little
+	- [ ] Really easy cleaning + clothes for tomorrow
+	- [ ] Read something light do something simple
+	- [ ] Brush Teeth
+- [ ]  (9:00PM) - Bedtime
