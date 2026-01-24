@@ -492,3 +492,4 @@ The goal is expressing core values in forms different audiences understand - aut
 I've realized my identity reads as "reliable administrator" rather than "leader." What's missing: visibility and voice. I excel at execution but don't articulate the *strategic reasoning* behind my decisions.
 
 **The shift:** Frame my fundamentals-first approach explicitly as leadership philosophy, not administrative caution. When I advocate for sustainable processes over quick fixes, present it as long-term thinking/vision rather than executing silently and hoping others notice the quality.
+

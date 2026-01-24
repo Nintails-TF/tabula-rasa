@@ -1,6 +1,6 @@
 ---
 date created: Friday, December 19th 2025, 12:08:55 pm
-date modified: Wednesday, January 21st 2026, 3:07:01 pm
+date modified: Friday, January 23rd 2026, 1:14:05 pm
 OU-date-range: 22nd-28th November
 ---
 
@@ -182,13 +182,27 @@ This section requires using the OUs OpenStudio to ask questions and share conten
 ***
 ## 6. Case Studies:
 
+In block 2, three main case studies are explored.
 
+### 6.1. Open University Running Club:
 
+The [OURC](https://race-club.stem.open.ac.uk/) operates a website to promote the club and races that it operates. It also keeps track of race results. The website is simple but as runners access it on the go as well as at their desks it should be accessible from a range of devices.
 
+### 6.2. Weather Station:
+
+The weather station app is integrated into a web service to allow location-based weather observations to be reported and received. This simple app allows the key functionality of services to be explored.
+
+### 6.3. Exercise Tracker:
+
+The exercise tracker is a mobile application designed to allow users track a run. It keeps things simple, focusing on tracking the time and location of the run, allowing a runner to focus on running.
 
 ***
 
 ## 7. Summary:
+
+Mobile applications can be made in many different ways, the native, hybrid, and PWA approach each have advantages and disadvantages. For our purposes, the Hybrid approach works best, since we can use our skills from React from Block 1 and Block 2 in the form of React Native.
+
+
 
 ***
 

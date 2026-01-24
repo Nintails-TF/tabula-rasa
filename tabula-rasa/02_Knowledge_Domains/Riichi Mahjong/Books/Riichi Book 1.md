@@ -1,6 +1,6 @@
 ---
 date created: Thursday, January 15th 2026, 4:18:05 pm
-date modified: Tuesday, January 20th 2026, 2:42:11 pm
+date modified: Saturday, January 24th 2026, 6:34:46 pm
 ---
 
 # Preface:
@@ -219,7 +219,7 @@ In this example though, discarding the `7m/4s` we wait on `2p, 5p, 8s` (3 kinds 
 
 It is much easier to finish a hand using a run rather than a triplet. As you have more tiles worth of acceptance that you can wait for, rather than looking for 3 out of 4 identical tiles.
 
-We call pairs of tiles that can complete a run a `protoun/taatsu`, we can define the basic protoruns, as `ryanmen waits, kanchan waits, penchan waits.`
+We call pairs of tiles that can complete a run a `protoun/taatsu`, we can define the basic protoruns, as `ryanmen waits/shapes, kanchan waits/shapes, penchan waits/shapes`
 
 For example:
 ![[Pictures/Pasted image 20260120142844.png]]
@@ -243,5 +243,26 @@ It takes two steps, `89p -> 68p -> 56p` to convert into a `ryanmen`. This is slo
 **Hence:**
 > **Side Wait (`Ryanmen`) > Closed Wait (`Kanchan`) > Edge Wait (`Penchan`)**
 ### Tile Versatility:
+
+Some tiles are more versatile than others, number tiles are better than honour tiles, since honour tiles can't form sequences. Also, the type or number of `taatsu/protoruns` that can be made also influences how useful tiles are.
+
+For this reason, the following rules apply:
+- Number tiles 3-7 are most versatile, as they form `taatsu` with four tiles.
+	- `3p` can form two `ryanmen` shapes (`23p + 34p`) and two `kanchan` shapes (`13p + 35p`)
+- Number tiles 2-8 are less versatile, as the form `taatsu` with three tiles.
+	- `2p` can form one `ryanmen` shape (`23p`) and one `kanchan` shape (`24p`) and one penchan shape (`12p`)
+- Terminal tiles `(1 and 9)` are least versatile, as they form `taatsu` with only two tiles.
+	- `1p` can form one `kanchan` shape (`13p`) and one `penchan` shape (`12p`).
+
+**Hence:**
+> **3-7 tiles > 2, 8 tiles > 1,9 tiles > honour tiles** (When considering purely `ukerie/tile effeciency`)
+
+
+### `Kanchan/Closed Wait` Versatility:
+
+Using the same logic as within [[#Tile Versatility]] we can order the versatility of `kachan` protoruns.
+
+
+
 
 

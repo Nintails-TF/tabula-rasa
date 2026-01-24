@@ -1,6 +1,6 @@
 ---
 date created: Sunday, January 18th 2026, 9:45:20 am
-date modified: Sunday, January 18th 2026, 12:03:20 pm
+date modified: Saturday, January 24th 2026, 9:16:31 am
 ---
 
 # Scheduling:
@@ -9,13 +9,10 @@ date modified: Sunday, January 18th 2026, 12:03:20 pm
 - TM352 - Coursework (18-24th of Jan)
 	- ~~Contact group for B329 leadership challenge.~~
 - TM352 - TMA-02 (24-26th of Jan)
-- Day Off
 - TM353 - Coursework (27-7th of Feb)
 - TM353 - TMA-02 (7th-9th)
-- Day Off
 - TM354 - Coursework (10-22nd of Feb)
 - TM354 - TMA-02 (22-24th of Feb)
-- Day Off
 - B329 - Coursework (25th-2nd of March)
 - B329 - EMA (2-9th of March)
 - Day Off

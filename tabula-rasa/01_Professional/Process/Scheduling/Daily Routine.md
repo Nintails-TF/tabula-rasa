@@ -14,22 +14,22 @@ date modified: Thursday, January 22nd 2026, 2:45:43 pm
     - [x]  Get dressed (5 mins)
 - [x]  (6:45AM) - Breakfast (15 mins)
     - [x]  Brush teeth after meal
-- [ ]  (7:00AM) - Morning journaling (5 mins)
-    - [ ]  Today's Top 3
-    - [ ]  What does success look like today?
-- [ ]  (7:05AM) - Yoga for flexibility (30 mins)
-- [ ]  (7:35AM) - Cybersecurity block (1 hour)
+- [x]  (7:00AM) - Morning journaling (5 mins)
+    - [x]  Today's Top 3
+    - [x]  What does success look like today?
+- [x]  (7:05AM) - Yoga for flexibility (30 mins)
+- [x]  (7:35AM) - Cybersecurity block (1 hour)
 - [ ]  (8:35AM) - Degree work/study
 
 ## Midday - Lifting Days (Mon/Wed/Fri):
-- [x]  (10:00AM) - Gym (90 mins)
-- [x]  (11:30AM) - Return home
-- [x]  (12:00PM) - Lunch (30 mins)
-- [x]  (12:30PM) - Continue degree work/study
+- [ ]  (10:00AM) - Gym (90 mins)
+- [ ]  (11:30AM) - Return home
+- [ ]  (12:00PM) - Lunch (30 mins)
+- [ ]  (12:30PM) - Continue degree work/study
 - [ ]  (5:00PM) - Finished work
 
 ## Midday - Non-Lifting Days (Tue/Thu):
-- [x]  (12:00PM) - Lunch (30 mins)
+- [ ]  (12:00PM) - Lunch (30 mins)
 - [ ]  (12:30PM) - Continue degree work/study
 - [ ]  (5:00PM) - Finished work
 
