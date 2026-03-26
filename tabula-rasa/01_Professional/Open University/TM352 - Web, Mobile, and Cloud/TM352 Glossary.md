@@ -1,6 +1,6 @@
 ---
 date created: Friday, January 23rd 2026, 1:17:07 pm
-date modified: Friday, January 23rd 2026, 1:41:24 pm
+date modified: Sunday, January 25th 2026, 10:04:42 am
 ---
 
 # TM352 Glossary
@@ -11,4 +11,4 @@ date modified: Friday, January 23rd 2026, 1:41:24 pm
 - **Laggard** - The final 16% of a population to adopt a technological innovation. Laggards are typically suspicious of innovations and change in general. They often have limited resources and require certainty that an innovation will not fail before committing to adoption. ^Laggard-def
 	- This term has become somewhat loaded over time, but it isn't meant in a demeaning or derogatory manner - since sometimes waiting is the rational choice. 
 	- Price drops, bug fixes, feature refinement before committing resources. 
-- **Augmented Product.**
+- **Augmented Product** - Refers to the non-physical benefits, features, and services that operate alongside a product. These bonus elements often drive a product's success beyond the physical characteristics. ^AP-def

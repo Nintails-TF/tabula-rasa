@@ -1,7 +1,6 @@
 ---
 date created: Friday, December 19th 2025, 12:08:55 pm
-date modified: Saturday, January 24th 2026, 3:35:40 pm
-Gen: "1"
+date modified: Friday, January 30th 2026, 4:14:35 pm
 ---
 
 # Week 9 - The Consumer Market
@@ -129,18 +128,49 @@ Innovation is like Lego. You've got little blocks that you fit together to build
 
 The design and the shape of the iPhone wasn't the only factor that separated it from the competition. it was the non-physical factors at play.
 
-We can classify a product as being an 
+We can classify the iPhone as being an [[../TM352 Glossary#^AP-def|Augmented Product]] in this sense. For many additional features enticed consumers, such as:
+
+- **Emotional and social appeal** — positioning as a status symbol and object of desire, not just a functional device.
+- **Integrated services** — preloaded iTunes access for purchasing entertainment content.
+- **App ecosystem** — the App Store (from 2008) enabling secure, direct downloads.
+- **The "walled garden" model** — Apple's control over hardware, software, and content distribution, creating a seamless but closed experience.
 
 
 ---
 
 ### 3.4. A Post-PC Era:
 
-#### 3.4.1. Global Development:
+We can extrapolate the students with or without a smartphone into the wider world. So, how popular are smartphones and tablets with the general public?
+
+We can argue that we are in a **Post-PC** era. That more people use mobile devices rather than desktop devices. Mary Meeker during the 2008 Web 2.0 summit who is an internet analyst from Morgan Stanley predicted that mobile device access would outstrip desktop by 2014.
+
+![[../../../../03_Reference/Pictures/Pasted image 20260125101444.png]]
+
+Mobile can be used to define many different devices, but anything you can take around without that isn't a laptop presumably. 
+
+The total time on the internet has risen, meaning people are accessing the internet from mobile devices and desktop PCs.
+![[../../../../03_Reference/Pictures/Pasted image 20260125103025.png]]
+
+The average screen time as of 2026, is around **6-7 hours per day**. More for those who are younger, less for those who are older.
+
+#### Activity 6 - Library:
+
+When I'm searching for data or statistics, I often run through a few quick checks:
+
+- **Where's it from?** I try to trace back to the original source rather than relying on someone's summary. Does the organization actually have expertise here, or are they just citing someone else?
+- **Who benefits?** I think about why this data is being shared in this particular way. Is there funding, political motivation, or something being sold?
+- **Is the methodology visible?** Good sources typically show their work through sample sizes, how data was collected, timeframes. If that's hidden, I'm more cautious.
+- **How's it being framed?** Same numbers can tell different stories. I try to recognise manipulated graphs, missing context, or cherry-picked timeframes that exaggerate a trend or push a certain perspective.
+- **Does it hold up elsewhere?** A quick cross-check against other independent sources can reveal whether I'm looking at a solid finding or an outlier.
+- **Is it actually current?** Data ages. Something accurate five years ago might be irrelevant now.
+
+None of this guarantees truth, but it catches the low hanging fruit and stops gross misinformation. The goal being to get an accurate view quickly, with a more of a deep dive for landmark pieces of work.
 
 ---
 
 ## 4. Consumerisation:
+
+
 
 ### 4.1. Bring Your Own Device (BYOD):
 

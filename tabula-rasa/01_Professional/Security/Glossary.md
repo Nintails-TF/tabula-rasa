@@ -1,6 +1,6 @@
 ---
 date created: Sunday, November 23rd 2025, 1:59:26 pm
-date modified: Thursday, January 8th 2026, 11:36:35 am
+date modified: Thursday, February 5th 2026, 1:35:28 pm
 ---
 
 # Definitions:
@@ -117,4 +117,5 @@ date modified: Thursday, January 8th 2026, 11:36:35 am
 - Remote File Inclusion (RFI) - A vulnerability where an application includes a file from a server that an attacker controls. This is dangerous because attackers can run their own malicious scripts that are running on their server. ^RFI-def
 	- See: [[Frameworks/Attack Techniques/Web/RFI (Remote File Inclusion)|RFI (Remote File Inclusion)]] for more details
 - New Technology LAN Manager (NTLM)
+- Incident Response ^Incident-Response-def
 

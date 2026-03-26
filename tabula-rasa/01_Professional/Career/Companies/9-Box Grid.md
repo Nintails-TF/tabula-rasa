@@ -43,11 +43,12 @@ This creates nine categories, allowing organisations to differentiate between st
 | **Resilience and recovery**    | How someone responds to failure or setback; real-world observation often reveals more than assessments                       |
 | **Network breadth**            | Connections across functions and levels; predicts ability to lead cross-functional initiatives                               |
 
+
 ---
 ## Assessment Methods Used:
 
-| Type | Examples |
-|------|----------|
-| **Formal** | Performance reviews, psychometric testing (Hogan, SHL), 360-degree feedback, assessment centres, structured interviews |
-| **Informal** | Manager nomination, reputation/corridor credibility, stretch assignments |
+| Type         | Examples                                                                                                               |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------- |
+| **Formal**   | Performance reviews, psychometric testing (Hogan, SHL), 360-degree feedback, assessment centres, structured interviews |
+| **Informal** | Manager nomination, reputation/corridor credibility, stretch assignments                                               |
 

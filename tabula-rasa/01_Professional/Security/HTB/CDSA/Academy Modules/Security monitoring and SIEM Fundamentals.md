@@ -1,6 +1,6 @@
 ---
 date created: Saturday, October 11th 2025, 10:07:40 am
-date modified: Tuesday, December 23rd 2025, 1:55:52 pm
+date modified: Thursday, February 5th 2026, 1:36:20 pm
 Parent Link: "[[../CDSA Index|CDSA Index]]"
 ---
 
@@ -318,9 +318,25 @@ The Elastic Common Schema (ECS) is a shared vocabulary list for events and logs 
 
 A [[../../../Glossary#^SOC-def|Security Operations Centre (SOC)]] uses various tools such as SIEMs, [[../../../Glossary#^IDS-IPS-def|IDS/IPS]], and [[../../../Glossary#^EDR-def|EDR]] tools to ensure that an organisation protected against security threats. SOC teams also participate in [[../../../Glossary#^Threat-intelligence-def|Threat Intelligence]] and [[../../../Glossary#^Threat-hunting-def|Threat Hunting]] to proactively defend against threats and vulnerabilities.
 
-Asides from technological solutions, SOC teams use well-defined processes or playbooks to address security-incidents. These processes include triage, containment, elimination, and recovery. SOC teams work hand in hand with the incident response team to ensure that incidents are handled properly and the organisation is secure.
+Asides from technological solutions, SOC teams use well-defined processes or playbooks to address security-incidents. These processes include triage, containment, elimination, and recovery. SOC teams work hand in hand with the [[../../../Glossary#^Incident-Response-def|Incident Response]] team to ensure that incidents are handled properly and the organisation is secure.
 
 The SOC is a vital element in the security of an organisation's cybersecurity approach, as it provides constant surveillance and response capabilities so that organisations can quickly fix and address security issues and decrease the likelihood of future attacks.
+
+***
+### How Does a SOC Work?:
+*Extension Note:* [[../Extension Notes/SOC within the Workplace|SOC within the Workplace]]
+
+The primary function of a SOC team is to manage the the operational aspect of information security, rather than the development of systems through: security strategies, security architecture, implementing protective measures.
+
+**Think of it as:** *SOC members are like police officers, they perform the active protecting and doing of a system. They don't build the laws but enforce them.* 
+
+SOC teams mainly consist of security analysts that work together to detect, assess, respond to, report on, and prevent cybersecurity incidents. 
+
+There are SOC members or teams that are more advanced - introducing malware analysis or forensic analysis, they help conduct in-depth dives into specific topics or events to examine root causes and avert future attacks.
+
+SOC teams also work with incident response to properly handle security incidents and preserve the organisation's security posture.
+
+(Expanding our earlier example, think about SOC as police officers and IR as the bomb-squad/firefighters called in)
 ## MITRE ATT&CK & Security Operations:
 
 ## SIEM Use Case Development:

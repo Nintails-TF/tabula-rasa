@@ -21,7 +21,7 @@ date modified: Saturday, January 10th 2026, 3:12:36 pm
 ## Foundational Requirements:
 
 **Core:** *Don't create problems, build solutions. Reduce friction and make their life easier.*
-**Inverse:** *Having an element of interaction with them and showing improvement can actually improve your case to them, being too smooth could make you invisibile.*
+**Inverse:** *Having an element of interaction with them and showing improvement can actually improve your case to them, being too smooth could make you invisible.*
 
 - **Handle problems without escalation** - at least bundle problems with solutions.
 	- Manager dependant: some will want constant updates, others won't.
