@@ -93,7 +93,7 @@ React famously stated "React isn't an MVC framework", but patterns within MVC ar
 **Key patterns in React:**
 
 1. **Composition Pattern:** Combining components together. Basic components in React are HTML tags; in React Native, they're native widgets
-2. **Facade Pattern:** Implemented through Props, allowing abstraction and reusable blocks of UI functionality
+2. **Façade Pattern:** Implemented through Props, allowing abstraction and reusable blocks of UI functionality
 
 **Flux's main innovation:** Ensures changes in the data model are handled such that consistency is maintained across updates that might otherwise suffer race conditions (where different components independently attempt to update values in contradictory ways).
 

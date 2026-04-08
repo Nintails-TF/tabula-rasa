@@ -212,13 +212,13 @@ Eventually legacy systems become too brittle and fragile to maintain. Then repla
 
 As computing technology has evolved, we have had the ability and capability to build larger and more complex systems. To facilitate this, software systems themselves have become more complex and larger.
 
-However; we as humans can only understand so many components working together at once, in order to cope with complex or tricky problems the technique of **[[../../../Security/Glossary#^decomp-def|Decomposition]]** can be used.
+However; we as humans can only understand so many components working together at once, in order to cope with complex or tricky problems the technique of **[[../../../IT/Security/Glossary#^decomp-def|Decomposition]]** can be used.
 
-This involves breaking down a problem into smaller and smaller parts, by looking for patterns within software and identifying smaller sub-systems, these are often referred to as **[[../../../Security/Glossary#^modules-def|Modules]].** These modules are frequently sorted into a hierarchy. (Parent/Child, etc.).
+This involves breaking down a problem into smaller and smaller parts, by looking for patterns within software and identifying smaller sub-systems, these are often referred to as **[[../../../IT/Security/Glossary#^modules-def|Modules]].** These modules are frequently sorted into a hierarchy. (Parent/Child, etc.).
 
 Decomposition, also enables groups of developers and programmers to work together better, as certain people/groups can be responsible for certain tasks or features that they are skilled at or that need completed.
 
-Individuals can still build small software systems well, as a person can understand and grasp the system and all the problems/solutions present. However; caution must be taken as individuals can engage in **[[../../../Security/Glossary#^HeroProg-def|Heroic Programming]]** where an individual attempts to build a more complex system. This may happen because of a personal interest or because of poor management - that this method may be the only way to produce a meaningful piece of software.
+Individuals can still build small software systems well, as a person can understand and grasp the system and all the problems/solutions present. However; caution must be taken as individuals can engage in **[[../../../IT/Security/Glossary#^HeroProg-def|Heroic Programming]]** where an individual attempts to build a more complex system. This may happen because of a personal interest or because of poor management - that this method may be the only way to produce a meaningful piece of software.
 
 However, complex systems like air traffic control are beyond the scope of a single individual, in this case a team is required. The development of these critical systems requires not only strong management, but well defined processes and playbooks.
 
@@ -230,7 +230,7 @@ As we divide one larger problem into a sub-set of smaller problems, we may expec
 1. How do we know if the sub-problems are easier to solve than the main problem?
 2. How do we know that all our sub-problems will slot back together to solve the main problem?
 
-Often the key in finding solutions to problems and sub-problems is experience and knowledge. Another technique to develop a powerful design or program is the idea of **[[../../../Security/Glossary#^ProbDom-def|Problem Domains]].**
+Often the key in finding solutions to problems and sub-problems is experience and knowledge. Another technique to develop a powerful design or program is the idea of **[[../../../IT/Security/Glossary#^ProbDom-def|Problem Domains]].**
 
 As a developer the problems that you face in the world is outside the realm of a computer system, where you attempt to provide a solution as they are connected to real world problems: ![[../../../../03_Reference/Pictures/External Problem comp sys dia.png]]
 
@@ -246,7 +246,7 @@ By considering the largest emotional impact that can be cause by your system fai
 
 ### 2.5.2. Modules and Interfaces:
 
-Within software development there is a long history of **[[../../../Security/Glossary#^modularisation-def|Modularisation]]**. Especially when dealing with large and complex systems.
+Within software development there is a long history of **[[../../../IT/Security/Glossary#^modularisation-def|Modularisation]]**. Especially when dealing with large and complex systems.
 
 Typical examples are:
 
@@ -254,7 +254,7 @@ Typical examples are:
 - Software Libraries
 - Classes, in object oriented approaches, like Java.
 
-**[[../../../Security/Glossary#^modules-def|Modules]]** may appear as self-contained elements because they are all parts of a larger whole, but there is always relationships between them that need to be planned for.
+**[[../../../IT/Security/Glossary#^modules-def|Modules]]** may appear as self-contained elements because they are all parts of a larger whole, but there is always relationships between them that need to be planned for.
 
 #### Example 8:
 
@@ -267,11 +267,11 @@ Software development within manufacturing businesses. We can identify various sy
 
 We might end up treating these as separate, even though there are connections between them. For instance: A customer orders a good from the business, in which they need to pay for, and then the deliveries department needs to dispatch the goods. Then the production line needs to build and fabricate the product too, along with being tracked and presented to the customer.
 
-The **[[../../../Security/Glossary#^interface-def|Interface]]** of a module is a description of all the external visible operations and what other modules need to know and do to make use of the system in place. But doesn't store details of how the operation would or should occur. (You can also define different interfaces for different customers, as their needs may be different.)
+The **[[../../../IT/Security/Glossary#^interface-def|Interface]]** of a module is a description of all the external visible operations and what other modules need to know and do to make use of the system in place. But doesn't store details of how the operation would or should occur. (You can also define different interfaces for different customers, as their needs may be different.)
 
-For example: An interface with a bank account, is an **[[../../../Security/Glossary#^encapsulation-def|Encapsulation]]** of what we know or the bank account is structured by.
+For example: An interface with a bank account, is an **[[../../../IT/Security/Glossary#^encapsulation-def|Encapsulation]]** of what we know or the bank account is structured by.
 
-Module to module communication may require another separate service to function. These required services are called **[[../../../Security/Glossary#^ContextDep-def|Context Dependencies]]**. They are it's interface, include requirements of any what any clients need to meet, and form a **[[../../../Security/Glossary#^ClientContract-def|Contract]]** with clients. Furthermore; this contract defines what the module will and will not do, so clients can be assured if they meet the requirements of the system, that the system will work for them.
+Module to module communication may require another separate service to function. These required services are called **[[../../../IT/Security/Glossary#^ContextDep-def|Context Dependencies]]**. They are it's interface, include requirements of any what any clients need to meet, and form a **[[../../../IT/Security/Glossary#^ClientContract-def|Contract]]** with clients. Furthermore; this contract defines what the module will and will not do, so clients can be assured if they meet the requirements of the system, that the system will work for them.
 
 Interfaces help developers work more efficiently. As you can follow the documented rules of what another module or subsystem tells you to do, and not understand how it works. Furthermore, you can spend more time figuring out your role and job within the system, you are also less likely to introduce errors.
 
@@ -279,9 +279,9 @@ This enhances flexibility as the interface can be kept whilst the module could b
 
 Finally once, you've understood a system as being set of modules that are well defined and understood, each with its own interface and context dependencies, you can consider if any can be re-used internally or within a different project. This approach is what has been taken with network communication over time, creating the OSI model and different layers of abstraction over time.
 
-**[[../../../Security/Glossary#^abstraction-def|Abstraction]]** is a particular way of viewing a complex problem and to arrive at a decomposed or simpler problem. You group together similar objects, situations, and ignore certain aspects to focus on situations or scenarios that are key without being bogged down. The key task when building a software system, is to figure out the most suitable abstractions for the problem domain.
+**[[../../../IT/Security/Glossary#^abstraction-def|Abstraction]]** is a particular way of viewing a complex problem and to arrive at a decomposed or simpler problem. You group together similar objects, situations, and ignore certain aspects to focus on situations or scenarios that are key without being bogged down. The key task when building a software system, is to figure out the most suitable abstractions for the problem domain.
 
-We can determine if **[[../../../Security/Glossary#^abstraction-def|Abstraction]]** has succeeded if potential software clients do not need to know more about a specific interface. Having a module that automatically converts dates into a specific format is useful, and it doesn't matter to other clients/services that interact with it how it's built or defined.
+We can determine if **[[../../../IT/Security/Glossary#^abstraction-def|Abstraction]]** has succeeded if potential software clients do not need to know more about a specific interface. Having a module that automatically converts dates into a specific format is useful, and it doesn't matter to other clients/services that interact with it how it's built or defined.
 
 ### 2.5.2. Coupling and Cohesion:
 
@@ -289,7 +289,7 @@ A module of a system depends on another, then it is possible that we may have to
 
 Developers not only deal with the nature of each dependency, but the number of dependencies.
 
-The term **[[../../../Security/Glossary#^coupling-def|Coupling]]** is used to explain this, it refers to the degree in which systems are interdependent on each other. Loose coupling means that components are more independent, whilst tight coupling means that components heavily depend on each other. An extreme case can be **[[../../../Security/Glossary#^CircDep-def|Circular Dependencies]]**.
+The term **[[../../../IT/Security/Glossary#^coupling-def|Coupling]]** is used to explain this, it refers to the degree in which systems are interdependent on each other. Loose coupling means that components are more independent, whilst tight coupling means that components heavily depend on each other. An extreme case can be **[[../../../IT/Security/Glossary#^CircDep-def|Circular Dependencies]]**.
 
 Developers try to build systems that are loosely coupled at first. Good software is designed so that one change doesn't propagate throughout the whole system. Another benefit of loose coupling is that components are easier to replace and reuse.
 
@@ -301,7 +301,7 @@ Data handling within old applications has always been a problem. Representation 
 
 A major problem is that different developers and systems used different methods to represent, read, manipulate the variables that are used in the six-figure date format. This increased efforts required in checking these software systems. If there was a consistent way of handling dates, then one approach could of been figured out then replicated by every developer, minimising the damage.
 
-**[[../../../Security/Glossary#^cohesion-def|Cohesion]]** is a way of describing how closely the activities within a single module are related to each other, Cohesion as a general concept can be described as followed: An organisation has departments, these departments have responsibilities that are cohesive with their role (Marketing) or not (general tasks and office work).
+**[[../../../IT/Security/Glossary#^cohesion-def|Cohesion]]** is a way of describing how closely the activities within a single module are related to each other, Cohesion as a general concept can be described as followed: An organisation has departments, these departments have responsibilities that are cohesive with their role (Marketing) or not (general tasks and office work).
 
 Highly cohesive software performs a single task or objective. The saying of: "Do one thing and do it well" is a strong motto to apply when designing software modules.
 
@@ -373,7 +373,7 @@ Suggest some similarities and differences between software architecture and buil
 
 A software architecture identifies rules for decomposition and sets assumptions for the modularisation of a software system. A major aspect of architecture is the splitting the software into different components or areas that are used to solve a problem. This approach is handled by using layers. We're going to cover three main types:
 
-[[../../../Security/Glossary#^LayeredArch-def|Layered Architecture]] is often found within computing systems that are distributed. We have a top layer which is UI presented to the user. This layer is most prone to change, as users will request changes here.
+[[../../../IT/Security/Glossary#^LayeredArch-def|Layered Architecture]] is often found within computing systems that are distributed. We have a top layer which is UI presented to the user. This layer is most prone to change, as users will request changes here.
 
 The 2nd layer would be the application domain - so how does the code logic function and work to achieve the goal of the user. Unless business needs shift rapidly, these desires will likely not change over time. (e.g. Banking Systems needing payment processing code).
 
@@ -381,16 +381,16 @@ The 3rd layer is the infrastructure layer that includes the various operating sy
 
 ![[../../../../03_Reference/Pictures/Layered-architecture.png]]
 
-We use the term of [[../../../Security/Glossary#^component-def|Component]] to denote a unit of reuse or replacements within a system. A component could be a class/module that has certain properties that make it reusable or replacable. It may depend on other components as well. These components are well understood, have their own interface and context dependencies.
+We use the term of [[../../../IT/Security/Glossary#^component-def|Component]] to denote a unit of reuse or replacements within a system. A component could be a class/module that has certain properties that make it reusable or replacable. It may depend on other components as well. These components are well understood, have their own interface and context dependencies.
 
 Standards of building or structuring components can be adopted by other services as to meet the needs of the component. 
 ![[../../../../03_Reference/Pictures/component-representation.png]]
 
-Another concept related to components is [[../../../Security/Glossary#^services-def|Services]]. A service is a reusable chunk, that is technologically independent, in which it can be invoked or used according to a standard. You can think of SaaS (Software as a Service) such as Google Docs or Gmail, where the standard is a functional web browser.
+Another concept related to components is [[../../../IT/Security/Glossary#^services-def|Services]]. A service is a reusable chunk, that is technologically independent, in which it can be invoked or used according to a standard. You can think of SaaS (Software as a Service) such as Google Docs or Gmail, where the standard is a functional web browser.
 
 Do note that technological dependence is required at some point in the chain, i.e. The servers running Gmail will use certain architecture, design, or infrastructure decisions. But the end user of this is not effected by this. (As long as the system works and functions)
 
-A [[../../../Security/Glossary#^SOA-def|Service-Oriented Architecture]] (SOA) is another model of design that is frequently used. Software or programs run within the "cloud". Other concepts that are related would be Platforms as a Service (PaaS) and Infrastructure as a Service (IaaS).
+A [[../../../IT/Security/Glossary#^SOA-def|Service-Oriented Architecture]] (SOA) is another model of design that is frequently used. Software or programs run within the "cloud". Other concepts that are related would be Platforms as a Service (PaaS) and Infrastructure as a Service (IaaS).
 
 PaaS - Spend more time writing code, rather than managing servers:
 

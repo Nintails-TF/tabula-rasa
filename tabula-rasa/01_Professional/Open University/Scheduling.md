@@ -1,8 +1,56 @@
 ---
 date created: Sunday, January 18th 2026, 9:45:20 am
-date modified: Monday, March 23rd 2026, 2:54:46 pm
+date modified: Thursday, April 2nd 2026, 5:59:31 pm
 ---
 
+## Time Breakdown
+
+| Assessment          | Hours (low) | Hours (high) | Current | Total Time Spent |
+| ------------------- | ----------- | ------------ | ------- | ---------------- |
+| TM352 TMA 03        | 20          | 30           |         |                  |
+| TM354 TMA 03        | 16          | 22           |         |                  |
+| TM353 TMA 03        | 13          | 18           |         |                  |
+| TM354 Exam revision | 20          | 30           |         |                  |
+| TM353 EMA           | 30          | 40           |         |                  |
+| TM352 EMA           | 50          | 70           |         |                  |
+| **Total**           | **149**     | **210**      |         |                  |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+***
 # Scheduling:
 
 ## Timeline:
@@ -27,23 +75,6 @@ date modified: Monday, March 23rd 2026, 2:54:46 pm
 			- I don't know how to stop that sort of feeling, other than exposure over time would really be the only solution.
 		- Need to interact with people to get things done, and to develop interview skills.
 			- Even though it feels like when I interact with people I just feel worse after it.
-## April:
-- **(12pm) 23rd of April** - TM352 TMA-03
-	- a
-- **(12pm) 29rd of April** - TM354 TMA-03 (Content available "soon")
-	- a
-- **(12pm) 30rd of April** - TM353 TMA-03 (Co-op case analysis)
-	- a
-## May:
-
-- **28/29th of May** - TM354 Exam Paper
-	- a
-## June:
-
-- **4th June** - TM352 EMA (Content released in March)
-	- a
-- **4th June** - TM353 EMA (Birmingham City Council Mega case study)
-	- I can justify using the case study provided, as it being the most accurate to the real-world - where I'm not able to pick which IT systems I can analyse or not.
 
 
 
